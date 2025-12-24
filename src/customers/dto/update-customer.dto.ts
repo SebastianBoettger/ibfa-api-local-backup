@@ -4,8 +4,6 @@ import {
     IsOptional,
     IsString,
     MaxLength,
-    IsInt,
-    IsObject,
   } from 'class-validator';
   
   export class UpdateCustomerDto {
@@ -33,17 +31,9 @@ import {
     @IsOptional()
     @IsString()
     phone?: string;
-
-    @IsOptional()
-    @IsInt()
-    legacyId?: number;
   
     @IsOptional()
     @IsBoolean()
     isActive?: boolean;
-
-    @IsOptional()
-    @IsObject()
-    extra?: Record<string, any>;
   }
   

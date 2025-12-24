@@ -1,0 +1,1758 @@
+"id","customer_number","display_name","title","first_name","last_name","street","postal_code","city","country","phone","fax","email","salutation","specialty","customer_type","is_active","notes","source_system","source_key","created_at","updated_at","inspection_interval_months"
+"59","20516","Dres. Stefan Krapf","Dres.","Stefan","Krapf","Am Damm 17","55232","Alzey","DE","06731-99 24 61","06731-992463","swittelsberger@urologie-alzey.de","Herren","Urologen",NULL,True,"Weitere(r) Name(n): Wittelsberger
+Kundenquellecode: X
+Roh-Datum: 26.3.19/30.3.20/29.3.21/15.2.22/17.1.23/26.7.23/18.1.24/15.1.25/9h
+BGV27
+27.3.15/15.2.16/30.3.17/29.3.18/9.7.18/
+swittelsberger@urologie-alzey.de
+7.1.06/4.1.07/15.1.08/13.1.09/19.1.10/10.1.11","excel_nosue_serie_gns_bearbeitet","1","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"60","20893","Dr. med. Peter Schreiner","Dr. med.","Peter","Schreiner","Mühlenstr. 37","55543","Bad Kreuznach","DE","0671-31819","0671-7962792","praxisschreiner@gmx.de","Herr","Kinder",NULL,True,"Roh-Datum: 6.2.18/1.2.19/11.2.20/26.3.21/4.3.22/17.1.23/5.3.24/13.1.25/9h
+praxisschreiner@gmx.de","excel_nosue_serie_gns_bearbeitet","2","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"61","21026","Drs. med. Kutzner","Drs. med.",NULL,"Kutzner","Baumstr. 1","55543","Bad Kreuznach","DE","0671-32988","0671 9799607","kinderaerztin-kreuznach@t-online.de",NULL,"Kinder",NULL,True,"Weitere(r) Name(n): Rogoß
+Roh-Datum: 6.6.25/12h
+kinderaerztin-kreuznach@t-online.de","excel_nosue_serie_gns_bearbeitet","3","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"62","20618","Kirchmayer-Hain",NULL,NULL,"Kirchmayer-Hain","Jakob-Hirschmann-Platz 5a","55576","Sprendlingen","DE","0 67 01-13 71","06701-901801","praxis-mp-kh@t-online.de",NULL,"Allgemeinmediziner",NULL,True,"Weitere(r) Name(n): Nyamdorj
+Kundenquellecode: X
+Roh-Datum: 4.2.16/20.2.17/19.2.18/26.3.19/11.2.20/19.1.21/31.1.22/9.1.23/29.1.24/13.1.25/14h
+Mo´s14h
+praxis-mp-kh@t-online.de
+9.12.10/24.11.11
+13.12.12/23.1.14/26.2.15/
+28.11.08/7.12.09
+Rg_per post","excel_nosue_serie_gns_bearbeitet","4","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"63","20958","Dr. Dorothea Kilzer","Dr.","Dorothea","Kilzer","Ernst-Ludwig-Str. 17","55597","Wöllstein","DE","06703-961179","06703-961178","kinderarztpraxis-kilzer@gmx.de",NULL,"Kinder",NULL,True,"Roh-Datum: 31.8.20/15.2.22/17.1.23/5.3.24/13.1.25/11h
+kinderarztpraxis-kilzer@gmx.de","excel_nosue_serie_gns_bearbeitet","5","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"64","20345","Dr. Guido Müller","Dr.","Guido","Müller","Mühlenstr. 23d","52382","Niederzier","DE","02428-4242","02428-4283","info@mailpraxismueller.de","Herr","Mo´s+Do´s gerne",NULL,True,"Roh-Datum: 14.8.17/9.4.19/4.5.20/15.6.21/31.8.23/5.8.24/1.9.25/12h
+17.11.14/13.10.15/25.4.16/
+15.6.09/16.9.10/15.8.11/9.7.12/30.9.13
+info@mailpraxismueller.de","excel_nosue_serie_gns_bearbeitet","6","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"65","20502","Dr. med. Petra Lüdecke","Dr. med.","Petra","Lüdecke","Westfälische Str. 2","57462","Olpe","DE","02761-929536","02761-929537","praxis.luedecke@web.de","Frau","HNO",NULL,True,"Kundenquellecode: X
+Roh-Datum: 9.4.19/28.4.20/14.4.22/12.9.23/13.2.25
+praxis.luedecke@web.de
+24.11.16/7.12.17/1430h
+30.7.14/13.8.15/14h
+11.12.08/09/1.2.12/
+6.11.06/5.12.07
+3.11.14/8.7.16/28.9.17/8h","excel_nosue_serie_gns_bearbeitet","7","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"66","20331","Dr. med. Falk Zirnstein","Dr. med.","Falk","Zirnstein","Bahnhofstr.2","35428","Langgöns","DE","06403 2337","06403 778775","dr-zirnstein@web.de","Herr","Facharzt für Allgemeinmedizin",NULL,True,"Roh-Datum: 25.4.19/28.4.20/22.7.21/9.6.22/12.9.23/1.11.24/3.11.25/15h
+dr-zirnstein@web.de
+4.3.15/16.2.16/26.6.17/12.3.18/
+20.4.09/17.5.10/5.5.11/4.6.12/25.11.13/
+8.5.07/10.4.08","excel_nosue_serie_gns_bearbeitet","8","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"67","20534","Dr. med. Bous","Dr. med.",NULL,"Bous","Altstadtstr. 32","44534","Lünen","DE","02306-55984","02306/61944","info@hno-aerzte-luenen.de",NULL,"HNO",NULL,True,"Weitere(r) Name(n): Heitkamp
+Roh-Datum: 30.4.19/25.8.20/15.11.21/8.9.22/5.9.23/8.25/Okt
+info@hno-aerzte-luenen.de
+22.6.15/19.9.16/20.2.18/12h
+Mo´s nie,Fr.Radtke
+18.7.11/19.10.12/7.4.14/12h
+11.6.07/1.3.10","excel_nosue_serie_gns_bearbeitet","9","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"68","20982","PD Dr.med. Dirk Knöbber","PD Dr.med.","Dirk","Knöbber","Landauer Str. 21","66482","Zweibrücken","DE","06332-17520","06332-905519",NULL,"Herr","HNO",NULL,True,"Roh-Datum: 14.10.21/6.10.22/20.11.23/21.11.24/16.10.25/14h
+Fr.Lorenz","excel_nosue_serie_gns_bearbeitet","10","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"69","20939","Dr. med. Ulrike Zocher","Dr. med.","Ulrike","Zocher","Kaiserstr. 62","66849","Landstuhl","DE","06371/618461","06371/618460","info@dr-zocher.de","Frau","Allg",NULL,True,"Kundenquellecode: X
+Roh-Datum: 26.8.19/31.8.20/2.9.21/13.10.22/18.1.24/10h
+200,-plusGeräte
+info@dr-zocher.de
+evtl.MVZ Herbst25","excel_nosue_serie_gns_bearbeitet","11","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"70","20821","Dr. med. Christian Heib","Dr. med.","Christian","Heib","Bahnhofstr. 2-6","66953","Pirmasens","DE","06331-12973","06331 13332",NULL,"Herr","HNO",NULL,True,"Roh-Datum: 6.12.16/23.11.17/22.11.18/14.11.19/12.11.20/14.10.21/6.10.22/19.10.23/21.11.24/16.10.25/12h
+16.12.14/17.12.15/12h","excel_nosue_serie_gns_bearbeitet","12","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"71","20564","Dr. Kathrin Forche","Dr.","Kathrin","Forche","Mundenheimer Str. 169","67059","Ludwigshafen","DE","0621-67090116","0621/67090117","info@dr-forche-ludwigshafen.de",NULL,NULL,NULL,True,"Roh-Datum: 17.12.24/17.10.25/
+13.11.20/2.11.21/21.12.22/20.10.23/11h
+info@dr-forche-ludwigshafen.de","excel_nosue_serie_gns_bearbeitet","13","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"72","20926","Dres. Kempe","Dres.",NULL,"Kempe","Ludwigsplatz 9","67059","Ludwigshafen","DE","0621-511700","0621-5299157","praxis@kempe-stemler.de",NULL,"Allg.Fr.Demir",NULL,True,"Weitere(r) Name(n): Stemler
+Roh-Datum: 30.1.19/21.1.20/13.1.21/20.1.22/12.1.23/16.1.24/20.1.25/11h
+12.1.16/17.1.17/15.1.18/11h
+28.2.11/2.4.12/22.1.13/22.1.14/20.1.15/9h
+Fr.Demir
+praxis@kempe-stemler.de","excel_nosue_serie_gns_bearbeitet","14","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"73","21010","BAG Dr. K.Curschmann, M.Curschmann und Prof. Dr. S. Sel","BAG",NULL,"Dr. K.Curschmann, M.Curschmann und Prof. Dr. S. Sel","Ludwigstr. 30","67059","Ludwigshafen","DE","0621/598010","0621/5980116","praxis@augen-curschmann.de",NULL,"Augen",NULL,True,"Roh-Datum: 17.3.17/9.3.18/1.3.19/13.3.20/21.5.21/25.4.23/12.4.24/8h
+14.2.14/6.2.15/26.2.16
+20.1.12/19.4.13/
+2Jährlich
+praxis@augen-curschmann.de","excel_nosue_serie_gns_bearbeitet","15","2025-11-21 19:37:39.205122+01","2025-11-22 20:33:49.280958+01",24
+"74","21014","BAG Dr. K.Curschmann, M.Curschmann und Prof. Dr. S. Sel","BAG",NULL,"Dr. K.Curschmann, M.Curschmann und Prof. Dr. S. Sel","BASF Magnetbandstr. 5","67063","Ludwigshafen","DE",NULL,NULL,NULL,NULL,NULL,NULL,True,"Roh-Datum: 12.4.24/","excel_nosue_serie_gns_bearbeitet","16","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"75","20911","[UNBENANNTER KUNDE]",NULL,NULL,NULL,"Yorckstr. 1","67061",NULL,"DE","0621-512286","0621 520 6928","praxis@dr-kyrberg.de",NULL,"HNO",NULL,True,"praxis@dr-kyrberg.de","excel_nosue_serie_gns_bearbeitet","17","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"76","20918","Dres. Mehlem","Dres.",NULL,"Mehlem","Yorckstr. 1","67061","Ludwigshafen","DE","0621-59581440","0621-59581459",NULL,NULL,"Kinder",NULL,True,"Weitere(r) Name(n): Kuntz
+Roh-Datum: 13.12.18/11.2.20/14.1.21/18.1.22/10.1.23/11.1.24/9.1.25/11h
+6.10.14/20.11.15/8.11.16/21.12.17
+14.12.11/6.11.12/27.8.13/12h
+Fr. Feth","excel_nosue_serie_gns_bearbeitet","18","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"77","20876","Dr. Müller","Dr.",NULL,"Müller","Yorckstr. 1","67061","Ludwigshafen","DE","0621-510021","0621-510025","dipl.ing.sabine.mueller@googlemail.com","Herr","Radiologe",NULL,True,"Roh-Datum: 17.3.17/25.10.18/17.12.19/18.2.21/28.2.22/6.1.23/9h/5.1.24/24.1.25/8h
+Fr.Sari
+6,60proGerätBGV
+dipl.ing.sabine.mueller@googlemail.com
+0170_2013799","excel_nosue_serie_gns_bearbeitet","19","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"78","20860","Fam.Praxis Dr.Merkel",NULL,NULL,"Fam.Praxis Dr.Merkel","Leuschner Str. 1a","67063","Ludwigshafen","DE","0621-578557",NULL,"hemshof@die-familienpraxen.de",NULL,NULL,NULL,True,"Roh-Datum: 21.12.22/19.12.23/22.11.24/10h
+hemshof@die-familienpraxen.de","excel_nosue_serie_gns_bearbeitet","20","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"79","21004","MVZ Kurpfalz",NULL,NULL,"MVZ Kurpfalz","Leuschner Str. 1a","67063","Ludwigshafen","DE","0621-578557",NULL,"mvzkurpfalz@die-familienpraxen.de",NULL,NULL,NULL,True,"Roh-Datum: 21.12.22/19.12.23/22.11.24/10h
+mvzkurpfalz@die-familienpraxen.de","excel_nosue_serie_gns_bearbeitet","21","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"80","20897","Augenlaser Pfalz",NULL,NULL,"Augenlaser Pfalz","Salzburger Str. 15","67067","Ludwigshafen","DE","0621-55012284","0621-5980116","augenzentrum@curschmann.de",NULL,"Augen-OP",NULL,True,"Roh-Datum: 17.3.17/9.3.18/13.3.20/25.6.21/25.4.23/12.4.24
+21.3.14/27.2.15/20.1.16/12h
+20.1.12/30.1.13/14h
+Fr.Hauser
+Augenzentrum@Curschmann.de
+0621-5540415","excel_nosue_serie_gns_bearbeitet","22","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"81","20997","Marko Ostovic",NULL,"Marko","Ostovic","Leininger Str. 53","67067","Ludwigshafen","DE","0621-521-522","0621-5299703","info@augen-ostovic.de","Herr","Augen",NULL,True,"Roh-Datum: 19.12.22/20.1.25/8h
+2Jährlich
+info@augen-ostovic.de","excel_nosue_serie_gns_bearbeitet","23","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"82","20994","Fei Lu",NULL,"Fei","Lu","Poststr. 2","67071","Ludwigshafen","DE","0621 58682748","0621 58682749","info@praxis-hno-lu.de","Frau","HNO",NULL,True,"Roh-Datum: 27.7.22/21.9.23/12.7.24/19.3.25/13h
+BGV27
+info@praxis-hno-lu.de","excel_nosue_serie_gns_bearbeitet","24","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"84","20825","PD Dr.med. Wolfgang Koenen","PD Dr.med.","Wolfgang","Koenen","Weinstr. 1","67146","Deidesheim","DE","06326-7010288","06326-7010299","praxis@drkoenen.de","Herr","Haut",NULL,True,"Roh-Datum: 12.1.18/9.1.19/31.1.20/18.1.21/8.3.22/12.4.23/17.12.24/10h
+14.2.14/21.1.15/20.1.16/11.1.17/
+BGV2025wieder
+praxis@drkoenen.de
+11.2.11/17.1.12/23.1.13/","excel_nosue_serie_gns_bearbeitet","26","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"85","20370","Dr. med. Sabine Rahmann","Dr. med.","Sabine","Rahmann","Wasserhohl 19","67098","Bad Dürkheim","DE","06322-8680","06322-1891","info@praxisrahmann.de","Frau","Allg.",NULL,True,"Roh-Datum: 2.9.16/5.9.17/19.11.18/17.12.19/10.11.20/21.12.21/8.11.22/21.12.23/10.12.24/13h
+info@praxisrahmann.de
+7.9.10/6.9.11/9.12
+10.10.06/21.8.07
+Di´s 13h
+23.9.08/14.9.09/28.8.13/18.9.14/16.9.15","excel_nosue_serie_gns_bearbeitet","27","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"86","20380","Christian Warken",NULL,"Christian","Warken","Kleine Kapellenstr. 4","67105","Schifferstadt","DE","06235-3019","06235-920360","info@hnopraxis-schifferstadt.de","Herr","HNO-Praxis",NULL,True,"Kundenquellecode: X
+Roh-Datum: 16.11.16/12.12.18/23.12.20/18.1.23/27.1.25/1130
+info@hnopraxis-schifferstadt.de
+2Jährlich
+29.10.08/4.11.09
+8.12.10/18.1.12
+20.10.06/7.11.07
+23.1.13/9.7.14/
+praxis@hnokaiser.de","excel_nosue_serie_gns_bearbeitet","28","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"87","20354","Drs. med. Schicke","Drs. med.",NULL,"Schicke","Heideweg 11","67133","Maxdorf","DE","06237-920255","06237-920254","info@hno-maxdorf.de","Herr","HNO-Praxis",NULL,True,"Weitere(r) Name(n): Ebert
+Kundenquellecode: X
+Roh-Datum: 16.11.16/31.8.17/26.7.18/4.7.19/27.7.20/15.7.21/11.7.22/3.8.23/22.7.24/6.8.25/9h
+13.11.13/8.10.14/16.9.15/
+Do/Mo´sMittag
+22.8.07/27.8.08/9.8.09
+18.8.10/24.8.11/9.5.12/
+info@hno-maxdorf.de
+terminhnomaxdorf@web.de","excel_nosue_serie_gns_bearbeitet","29","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"88","20990","MVZ BG Klinik Ludwigshafen gGmbH Standort Maxdorf","MVZ BG Klinik","Ludwigshafen gGmbH","Standort Maxdorf","Birkenstr. 3","67133","Maxdorf","DE","06237-97520","06237-975228","info@mvz.bgu-ludwigshafen.de",NULL,NULL,NULL,True,"Roh-Datum: 29.3.22/21.9.23/
+Dr.Gather
+info@mvz.bgu-ludwigshafen.de","excel_nosue_serie_gns_bearbeitet","30","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"89","20907","Svetlana Bruk",NULL,"Svetlana","Bruk","Starenweg 2","67134","Birkenheide","DE","06237-7511","06237-979425","info@praxis-bruk.de",NULL,"Allg.",NULL,True,"Roh-Datum: 4.7.17/22.6.18/15.7.19/6.7.20/2.7.BGV21/6.7.22/3.8.23/11.3.24/11.2.25/10h
+Anm.21x, 2stekd
+spr-zi.3x2st
+BGV 26
+info@praxis-bruk.de","excel_nosue_serie_gns_bearbeitet","31","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"90","20924","Dr.med. Peter De Vleeschauwer","Dr.med.","Peter","De Vleeschauwer","Dahlienweg 1","67346","Speyer","DE","06232-36063","06232/40122","info@gynheb.de",NULL,"Gyn",NULL,True,"Roh-Datum: 25.1.17/22.1.18/11.1.19/24.1.20/8.1.21/13.1.22/18.1.23/17.1.24/16.1.25/8h
+23.1.14/21.1.15/20.1.16/8h
+24.11.11/22.1.13/8h
+info@gynheb.de
+Fr.Bartmann","excel_nosue_serie_gns_bearbeitet","32","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"91","20566","Dr.med.dent. Stefanie Morsch-Mayer","Dr.med.dent.","Stefanie","Morsch-Mayer","Rathausstr. 8","67433","Neustadt","DE","06321/929191","06321/929192",NULL,"Frau","Kieferorthopädische Praxis",NULL,True,"Kundenquellecode: X
+Roh-Datum: 24.11.17/14.12.18/20.12.19/11.12.20/28.1.22/20.1.23/12.1.24/31.1.25/
+Fr.Schindler
+19.12.14/4.12.15/9.12.16/
+BGV26
+25.11.11/14.12.12/8.11.13
+11.12.07/12.12.08/9.12.0919.11.10/","excel_nosue_serie_gns_bearbeitet","33","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"92","20675","Dr.med. Gerhard Hoffmann","Dr.med.","Gerhard","Hoffmann","Konrad-Adenauer-Str. 54","67433","Neustadt","DE","06321/35996","06321-9954990",NULL,"Herr","Allgemein",NULL,True,"Roh-Datum: 11.9.19/27.1.22/15.5.24/
+2.4.12/27.8.13/28.1.16/
+0175-2457365","excel_nosue_serie_gns_bearbeitet","34","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"93","20276","Dr. med. Falkenstein","Dr. med.",NULL,"Falkenstein","Lindenstr. 7","67434","Neustadt","DE","06321/84415","06321/929379","kontakt@praxis-dr-falkenstein.de","Frau","Allgemein",NULL,True,"Kundenquellecode: X
+Roh-Datum: 4.3.20/19.1.21/12.1.22/12.1.23/30.1.24/14.1.25/12h
+17.1.17/25.1.18/1.2.19/
+kontakt@praxis-dr-falkenstein.de
+20.3.14/3.2.15/28.1.16
+11.1.11/10.1.12/23.1.13
+8.1.07/31.1.08/15.1.09/30.1.10
+Sono,Lufu,Kül,3RR","excel_nosue_serie_gns_bearbeitet","35","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"94","20567","Dr. med. Axel Wilmer","Dr. med.","Axel","Wilmer","Robert-Stolz-Str. 33","67433","Neustadt","DE","06321-15906","06321-15912","birgit-wilmer@t-online.de","Herr","Hautarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 22.12.17/6.5.BGV19/18.5.20/13.7.21/21.6.22BGV/25.8.23/17.9.BGV24/
+12.3.15/26.2.16/8h
+27.11.12/12.12.13/
+9.1.10/22.9.11
+12.12.07/18.12.08
+birgit-wilmer@t-online.de
+1773330559","excel_nosue_serie_gns_bearbeitet","36","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"95","20511","Dr.med. Frank Neuwinger","Dr.med.","Frank","Neuwinger","Robert-Stolz-Str. 33","67433","Neustadt","DE","06321-15655","06321-186422","mail@mein-kinderarzt.net","Herr","Kinder- & Jugendarzt",NULL,True,"Roh-Datum: 29.10BGV19/10.9.20/9.11.21/21.10.22/9.11.23/18.12.24/18.12.24/8hab27.10.
+nie Mo´s
+mail@mein-kinderarzt.net
+25.11.14/10.11.15/6.12.16/22.12.17/13.9.18/
+18.11.11/27.11.12/8.11.13
+1.12.06/12.12.07/5.11.08
+5.11.09/19.11.10","excel_nosue_serie_gns_bearbeitet","37","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"96","20219","Dr.med. Werner Georg Seiler","Dr.med.","Werner Georg","Seiler","Friedrichstr. 19","67433","Neustadt","DE","06321-80395","06321-30646","praxis-dr.seiler@gmx.de","Herr","Hautarzt",NULL,True,"Roh-Datum: 27.2.23/1.7.24/18.12.24/30.6.25/8h
+praxis-dr.seiler@gmx.de","excel_nosue_serie_gns_bearbeitet","38","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"97","20999","Dr.med. Helene Neuwinger","Dr.med.","Helene","Neuwinger","Privatstr. 6","67480","Edenkoben","DE","06323-2178","06323 – 937712","mail@hausarzt-edenkoben.de","Frau","Allgemein",NULL,True,"Roh-Datum: 18.11.22/16.11.23/18.12.24/10h
+mail@hausarzt-edenkoben.de","excel_nosue_serie_gns_bearbeitet","39","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"98","20920","Storchennest Özen",NULL,NULL,"Storchennest Özen","T 3, 20","68161","Mannheim","DE","0621-1569340","0621-1569342","info@storchennest-mannheim.de",NULL,"Hebamme",NULL,True,"Roh-Datum: 12.7.23/19.3.25
+9.7.14/4.5.15/11.2.16/25.1.17/15.1.18/
+8.1.19/30.1.20/12.1.22/
+info@storchennest-mannheim.de
+NieFr´s","excel_nosue_serie_gns_bearbeitet","40","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"99","20919","Stefan Dettmann",NULL,"Stefan","Dettmann","Wallstadter Str. 42","68259","Mannheim","DE","0621-79949090","0621-71846326","sd@physio-dettmann.de",NULL,"Physio",NULL,True,"Roh-Datum: 21.12.18/31.7.20/13.7.21/21.6.22/12.7.23/22.7.24/18.6.25/14h
+sd@physio-dettmann.de","excel_nosue_serie_gns_bearbeitet","41","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"100","20424","Dr.med. Tobias Helfrich","Dr.med.","Tobias","Helfrich","Geraer Ring 8","68309","Mannheim","DE","0621-708233","0621-705345","info@frauenarzt-helfrich.de","Herr","Gyn",NULL,True,"Roh-Datum: 9.12.16/22.1.18/1.2.19/7.2.20/9.11.21/30.9.22/12.7.23/12.7.24/9.7.25/1130h
+info@frauenarzt-helfrich.de","excel_nosue_serie_gns_bearbeitet","42","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"101","20778","Dr. med. Ullrich","Dr. med.",NULL,"Ullrich","Bodelschwinghstr. 10/2","68723","Schwetzingen","DE","06202-5776680","06202/5750413","praxis@schmerz-center.de","Herr","Schmerz",NULL,True,"Kundenquellecode: M
+Roh-Datum: 21.12.17/11.12.18/29.10.19/28.10.20/28.7.21/20.6.22/30.8.23/13.9.24/27.6.25/
+26.11.14/10.12.15/7.12.16
+21.5.12/11.11.13/8h
+Praxis@Schmerz-center.de
+Fr´s","excel_nosue_serie_gns_bearbeitet","43","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"102","20819","Dr. med. Elif Elmas","Dr. med.","Elif","Elmas","Lorenz-Brentano-Allee 4","68753","Waghäusel","DE","07254-73430","07254-75150","ekalfa@yahoo.com","Frau",NULL,NULL,True,"Roh-Datum: 21.12.19/10.12.20/13.1.22/30.8.23/29.8.24/27.6.25/1130h
+praxis@meinkardiologe-waghäusel.de
+ekalfa@yahoo.com","excel_nosue_serie_gns_bearbeitet","45","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"103","20960","Michael Kammer",NULL,"Michael","Kammer","Reilinger Str.2","68766","Hockenheim","DE","06205 3090613",NULL,"michael.kammer@gmx.de","Herr","Physio",NULL,True,"Roh-Datum: 22.11.22/17.10.23/19.11.24/14h
+10.9.20/30.11.21/
+michael.kammer@gmx.de
+Geräte Rot+Kombi","excel_nosue_serie_gns_bearbeitet","46","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"104","20777","Dr. med. Martin Lindenberger","Dr. med.","Martin","Lindenberger","Heidelberger Str. 19","68766","Hockenheim","DE","06205-6612","06205-923838","info@dr-lindenberger.de","Herr","HNO",NULL,True,"Roh-Datum: 22.11.17/11.12.18/11h/11.11.20/10.1.22/19.1.23/5.2.24/7.2.25/8h
+17.12.14/10.12.15/7.12.16
+7.12.11/29.11.12/11.11.13/
+Fr.Riha
+info@dr-lindenberger.de","excel_nosue_serie_gns_bearbeitet","47","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"105","20703","Synia Dres. med. Zielke","Synia Dres. med.",NULL,"Zielke","Reilinger Str.2","68766","Hockenheim","DE","06205-8222","06205-18591","info@synia-hausarztpraxen.de",NULL,"Fr.Weik",NULL,True,"Weitere(r) Name(n): Soballa
+Kundenquellecode: M
+Roh-Datum: 6.9.16/17.10.17/15.10.18/31.10.19/28.10.20/30.11.21/22.11.22/17.10.23/21.11.24/19.11.24/nach 19.11.
+7.12.11/29.11.12/22.11.13/7.10.14/27.10.15/11h
+info@synia-hausarztpraxen.de","excel_nosue_serie_gns_bearbeitet","48","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"106","20974","Taisia Neumüller",NULL,"Taisia","Neumüller","Fortunaplatz 2","68766","Hockenheim","DE","06205-2809385","06205-2809384","ergo-neumueller@gmx.de","Frau","Ergoth.",NULL,True,"Roh-Datum: 21.5.21/22.11.22/17.10.23/31.3.25/15h
+01711492335/
+ergo-neumueller@gmx.de","excel_nosue_serie_gns_bearbeitet","49","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"107","20745","Dr. med. Rita Thierjung","Dr. med.","Rita","Thierjung","Erlengrund 70","68789","St.Leon-Rot","DE","06227-59656","06227-881271","praxisthierjung@docpost.de","Frau","Allg.",NULL,True,"Kundenquellecode: M
+Roh-Datum: 6.9.16/6.7.17/5.7.18/15.7.19/15.7.20/28.7.21/23.6.22/4.7.23/29.8.24/15.7.25/9h
+21.4.11/21.5.12/10.5.13/3.9.14/27.10.15/9h
+praxisthierjung@docpost.de","excel_nosue_serie_gns_bearbeitet","50","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"108","20746","Dr. med. Henry Mittnacht","Dr. med.","Henry","Mittnacht","Reilinger Str. 32","68789","St.Leon-Rot","DE","06227-59411","06227-55664","info@dr-mittnacht.de","Herr","Allg.",NULL,True,"Kundenquellecode: M
+Roh-Datum: 6.9.16/6.7.17/5.7.18/2.7.19/15.7.20/28.7.21/31.8.22/4.7.23/11.6.24/27.3.25/
+28.6.11/21.5.12/10.5.13/21.3.14/10.3.15/
+info@dr-mittnacht.de","excel_nosue_serie_gns_bearbeitet","51","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"109","20952","Dr. med. Ulf Ritter","Dr. med.","Ulf","Ritter","Hauptstr. 115","68789","St.Leon-Rot","DE","06227-59690","06227-549215","info@praxisritter.de","Herr",NULL,NULL,True,"Roh-Datum: 12.3.20/28.1.21/13.1.22/14.3.23/26.7.24/8.4.25/12h
+info@praxisritter.de
+1607848049","excel_nosue_serie_gns_bearbeitet","52","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"110","20947","Dr.med. Kilian Friedrich","Dr.med.","Kilian","Friedrich","Bergheimer Str. 56a","69115","Heidelberg","DE","06221-6599931","06221-6599933","info@gastropraxis-friedrich.de","Herr","Gastro",NULL,True,"Roh-Datum: 18.11.19/11.11.20/8.10.21/23.6.22/18.7.23/21.6.24/5.6.25/12h
+info@gastropraxis-friedrich.de","excel_nosue_serie_gns_bearbeitet","55","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"111","20964","Dr. med. Sabine Schinke","Dr. med.","Sabine","Schinke","Kranichweg 43-45","69123","Heidelberg","DE","06221-707000","06221-707092","info@hausarztpraxis-schinke.de","Frau","Allg",NULL,True,"Roh-Datum: 13.10.20/8.10.21/31.8.22/4.7.23/21.6.24/8.4.25/11h
+info@hausarztpraxis-schinke.de
+EKG;Defi,Sono,RR","excel_nosue_serie_gns_bearbeitet","56","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"112","20743","Dr.Leisen",NULL,NULL,"Dr.Leisen","Rheinstr. 29","69124","Heidelberg","DE","06221 780888","06221 781888","praxis@hausaerzte-hd.de",NULL,"Allg.",NULL,True,"Weitere(r) Name(n): Rathenberg
+Kundenquellecode: M
+Roh-Datum: 22.3.16/26.1.17/5.7.18/5.2.19/6.2.20/28.1.21/24.2.22/7.3.23/6.2.24/22.1.25/13h
+10.5.13/10.3.15/
+praxis@hausaerzte-hd.de
+62217150808","excel_nosue_serie_gns_bearbeitet","57","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"113","20780","Dr.med. Agnes Wagner","Dr.med.","Agnes","Wagner","Im Hasenleiser 3","69126","Heidelberg","DE","06221-375835","06221-336406","julia.bauder@web.de","Frau",NULL,NULL,True,"Kundenquellecode: M
+Roh-Datum: 17.10.17/9.10.18/22.10.19/13.10.20/8.10.21/22.11.22/21.11.23/1130h3.6.25/
+tens.lufu.kühl,lade
+22.11.13/7.10.14/27.10.15/8.12.16/14h
+julia.bauder@web.de","excel_nosue_serie_gns_bearbeitet","58","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"114","20862","Dr.med. Peter Korth","Dr.med.","Peter","Korth","Rheinstr. 29","69126","Heidelberg","DE","06221-894242","06221-894494","deinorthopaede@web.de","Herr","Orthopäde",NULL,True,"Kundenquellecode: M
+Roh-Datum: 6.9.16/29.1.18/5.2.19/12.3.20/28.1.21/24.2.22/7.3.23/6.2.24/22.1.25/12h
+deinorthopaede@web.de","excel_nosue_serie_gns_bearbeitet","59","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"115","20773","Drs.med. Büchler","Drs.med.",NULL,"Büchler","Am Schwimmbad 18","69168","Wiesloch","DE","06222-1601","06222-8969","info@orthopaeden-wiesloch.de",NULL,"Orthopäde",NULL,True,"Weitere(r) Name(n): Pejic
+Kundenquellecode: M
+Roh-Datum: 6.9.16/6.7.17/5.7.18/2.7.19/12.3.20/28.1.21/24.2.22/19.1.23/6.2.24/22.1.25/
+info@orthopaeden-wiesloch.de
+7.12.11/29.11.12/11.11.13
+28.11.14/15.9.15/15h","excel_nosue_serie_gns_bearbeitet","60","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"116","20930","Augenzentrum Kraichgau",NULL,"Augenzentrum","Kraichgau","Hauptstr. 128","69168","Wiesloch","DE","06222-1285","06222-388228","nicole.baumann@augenzentrum-kraichgau.de",NULL,"Augen",NULL,True,"Roh-Datum: 15.9.15/7.4.17/3.5.19/7.4.21/4.8.23/28.3.25/9h
+21.4.11/2.8.13/
+2jährlich
+nicole.baumann@augenzentrum-kraichgau.de","excel_nosue_serie_gns_bearbeitet","61","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"117","20744","Dr.med. Susanne Göthe","Dr.med.","Susanne","Göthe","Hauptstr. 38a","69181","Leimen","DE","06226-788688","06226-788686","info@praxisgoethe.de","Frau","Allg.",NULL,True,"Kundenquellecode: M
+Roh-Datum: 29.1.18/5.2.19/6.2.20/15.4.21/24.2.22/7.3.23/11.6.24/3.6.25/13h
+21.3.14/10.3.15/22.3.16/26.1.17
+28.6.11/21.5.12/10.5.13/
+info@praxisgoethe.de
+Gauangelloch","excel_nosue_serie_gns_bearbeitet","62","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"119","20914","Dr.med. Boeke","Dr.med.",NULL,"Boeke","Römerstr. 2","69198","Schriesheim","DE","06203-180606",NULL,"praxis@hno-boeke.de","Herr","HNO",NULL,True,"Roh-Datum: 13.10.20/4.10.22/21.11.23/19.11.24BGV/19.11.25/12h
+praxis@hno-boeke.de","excel_nosue_serie_gns_bearbeitet","64","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"120","20822","Drs.med. Weinmann","Drs.med.",NULL,"Weinmann","Hauptstr. 47","69245","Bammental","DE","06223-5959","06223-971623","praxis@med-bammental.de",NULL,"Allg.",NULL,True,"Kundenquellecode: G
+Roh-Datum: 8.12.16/22.11.17/15.10.18/22.10.19/13.10.20/8.10.21/4.10.22/21.11.23/11.6.24/15.7.25/11h
+17.12.14/10.12.15
+praxis@med-bammental.de","excel_nosue_serie_gns_bearbeitet","65","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"121","20895","Drs.med. Isaac","Drs.med.",NULL,"Isaac","Am Schloßberg 2","69469","Weinheim","DE","06201-99720","06201-997214","praxis@urologen-weinheim.de",NULL,"Urologen",NULL,True,"Weitere(r) Name(n): Wawersig
+Roh-Datum: 2.3.18/6.2.20/21.2.22/29.1.24/1130
+2jährl.
+praxis@urologen-weinheim.de","excel_nosue_serie_gns_bearbeitet","66","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"122","21021","Dr.med. Feise","Dr.med.",NULL,"Feise","Sophienstr. 41","70178","Stuttgart","DE","0711-2525 7515",NULL,NULL,"Herr","Chirurgie",NULL,True,"Roh-Datum: 15.11.24/
+Belegarzt Sophienklinik","excel_nosue_serie_gns_bearbeitet","67","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"123","20740","Dr.med. Fitz Klinik Karlshöhe GmbH","Dr.med.","Fitz","Klinik Karlshöhe GmbH","Humboldtstr. 16","70178","Stuttgart","DE","0711/90659022","0711-90659029","ckoch@klinik-karlshoehe.de",NULL,"Chirurgie",NULL,True,"Roh-Datum: 21.7.23/4.7.24/11.6.25/13h
+8.5.19/30.6.21/25.7.22/
+ckoch@klinik-karlshoehe.de
+8.5.13/28.5.14/29.4.15/","excel_nosue_serie_gns_bearbeitet","68","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"124","20805","Dr.med. Waltraud Kern-Benz","Dr.med.","Waltraud","Kern-Benz","Reinsburgstr. 35a","70178","Stuttgart","DE","0711-616495","0711-610013","praxis.kern-benz@gmx.de","Frau","Allg.",NULL,True,"Kundenquellecode: M
+Roh-Datum: 28.5.14/19.7.16/26.4.17/6.2.19/1.7.21/8.5.23/5.2.25/
+Mi.+Fr´s2jährlich
+Sono,EKG,5RR
+praxis.kern-benz@gmx.de","excel_nosue_serie_gns_bearbeitet","69","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"125","21020","Sophienklinik",NULL,NULL,"Sophienklinik","Sophienstr. 41","70178","Stuttgart","DE","0711-25257518",NULL,NULL,NULL,"Klinik",NULL,True,"Roh-Datum: 15.11.24/21.3.25
+Fr.Mährdel
+nicht mehr","excel_nosue_serie_gns_bearbeitet","70","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"126","20722","Dr.med. Sabine Hilschenz-Bucher","Dr.med.","Sabine","Hilschenz-Bucher","Gerokstr. 17","70184","Stuttgart","DE","0711/246642","0711-24849924","praxis.dr.hilschenz-bucher@online.de","Frau","Frauen",NULL,True,"Kundenquellecode: M
+Roh-Datum: 26.11.18/23.9.19/16.11.20/7.3.22/31.7.23/29.7.24/30.6.25/1330h
+praxis.dr.hilschenz-bucher@online.de
+nurMo´s
+19.9.12/3.4.13/5.5.14/
+Sep.09/Feb10/3.11
+hört auf","excel_nosue_serie_gns_bearbeitet","71","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"127","20943","Joachim Bucher",NULL,"Joachim","Bucher","Daimlerstr. 35","70372","Stuttgart","DE","0711-569077","0711-5006370","diabetes-praxis-stuttgart@online.de","Herr","Internist",NULL,True,"Roh-Datum: 25.9.19/3.11.21/31.7.23/30.6.25/11h
+2jährlich
+diabetes-praxis-stuttgart@online.de","excel_nosue_serie_gns_bearbeitet","72","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"128","20849","Dr.med. Joachim Nopper","Dr.med.","Joachim","Nopper","König-Karl-Str. 24","70372","Stuttgart","DE","0711-567487","0711-9561681","dr-nopper@t-online.de","Herr","Internist",NULL,True,"Roh-Datum: 7.3.22/25.1.23/31.1.24/3.2.25/
+dr-nopper@t-online.de
+11.5.16/24.4.17/8.2.18/6.2.19/21.4.20/27.1.21/","excel_nosue_serie_gns_bearbeitet","73","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"129","20525","Dr.med. Anna-Maria Klumpp","Dr.med.","Anna-Maria","Klumpp","Seelbergstr. 16","70372","Stuttgart","DE","7119559630","71195596324","praxis-klumpp@web.de","Frau","Allgemeinarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 18.2.15/16.3.16/7.2.18/6.2.19/4.2.20/27.1.21/23.2.22/25.1.23/31.1.24/3.2.25/11h
+7.5.13/21.2.14/11h
+25.4.07/24.4.08/22.6.09/1.2.10/25.5.11/19.9.12/
+praxis-klumpp@web.de","excel_nosue_serie_gns_bearbeitet","74","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"130","20792","Dres. Dippon","Dres.",NULL,"Dippon","Seelbergstr. 11","70372","Stuttgart","DE","0711-2807226","0711-561898","drcdippon@gmx.de",NULL,"Neurologen",NULL,True,"Weitere(r) Name(n): Schreiber
+Kundenquellecode: MX
+Roh-Datum: 21.2.14/18.2.15/16.3.16/2.4.17/7.2.18/6.2.19/4.2.20/27.1.21/23.2.22/25.1.23/31.1.24/3.2.25/12h
+395,-pauschal
+drcdippon@gmx.de","excel_nosue_serie_gns_bearbeitet","75","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"131","20977","Dr. med. Dietrich","Dr. med.",NULL,"Dietrich","Unterländer Straße 39","70435","Stuttgart","DE","0711/874444","0711-871203",NULL,"Frau","Innere",NULL,True,"Kundenquellecode: M
+Roh-Datum: 19.6.19/22.4.20/30.6.21/29.6.22/20.9.23/6.11.24/10.10.25/12h30
+27.4.15/11.5.16/26.4.17/18.4.18/
+3.4.13/27.5.14/","excel_nosue_serie_gns_bearbeitet","76","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"132","20818","Dr. med. Werner Baumgärtner","Dr. med.","Werner","Baumgärtner","Ludwigsburger Str.100","70435","Stuttgart","DE","0711-72208820","0711 72208821",NULL,"Herr","Allg.",NULL,True,"Kundenquellecode: MG
+Roh-Datum: 20.11.2017/12.12.19/20.1.22/31.1.24/1130
+6 x RR,1LZ,zentr
+2jährlich
+Fr.Ormanidu","excel_nosue_serie_gns_bearbeitet","77","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"133","20949","Dr. med. Potrafke","Dr. med.",NULL,"Potrafke","Ludwigsburger Str.100","70435","Stuttgart","DE",NULL,NULL,"info@hnop.de","Herr",NULL,NULL,True,"Roh-Datum: 20.1.22/
+info@hnop.de","excel_nosue_serie_gns_bearbeitet","78","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"134","20941","Manfred Schraeder",NULL,"Manfred","Schraeder","Freihofstr.35","70439","Stuttgart","DE","0711/822315","0711-9828964","mannischraeder@hotmail.com","Herr","Allg.",NULL,True,"Roh-Datum: 10.10.25/10h
+26.9.19/16.11.20/13.10.21/15.11.22/20.9.23/13.11.24/
+mannischraeder@hotmail.com","excel_nosue_serie_gns_bearbeitet","79","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"135","20854","Dr. med. Susanne Mao","Dr. med.","Susanne","Mao","Pforzheimer Str. 348","70499","Stuttgart","DE","0711-8661424","0711-8661436","praxis@orthopaedie-mao.de","Frau","Orthopäde",NULL,True,"Kundenquellecode: MG
+Roh-Datum: 19.7.16/26.4.17/19.4.18/26.6.19/24.6.20/29.6.21/29.6.22/8.5.23/4.7.24/25.6.25/14h
+Mi´s bis 16h
+0711-8892949
+praxis@orthopaedie-mao.de","excel_nosue_serie_gns_bearbeitet","80","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"136","20808","Dr. med. Thomas Schätzle","Dr. med.","Thomas","Schätzle","Möhringer Landstr. 5","70563","Stuttgart","DE","0711-27313471","0711-27313479","t.schaetzle@praxis-vaihingen.de","Herr","Orthopäde",NULL,True,"Kundenquellecode: M
+Roh-Datum: 7.10.15/15.11.16/19.4.18/11.4.19/24.6.20/2.12.21/15.11.22/20.9.23/6.11.24/11.11.25/12h
+19.9.12/25.6.14/
+t.schaetzle@praxis-vaihingen.de
+0160-99125870
+Mo´s
+mail@praxis-vaihingen.de","excel_nosue_serie_gns_bearbeitet","81","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"137","21013","Dr. med. Stefan Zieger","Dr. med.","Stefan","Zieger","Kirchheimer Straße 75/77","70619","Stuttgart","DE","0711 50 44 83 63","0711 50 44 92 29","info@cardiodoc-zieger.de","Herr",NULL,NULL,True,"Roh-Datum: 1.2.24/3.2.25/15h
+info@cardiodoc-zieger.de","excel_nosue_serie_gns_bearbeitet","82","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"138","20791","Claudia Kupfer",NULL,"Claudia","Kupfer","Bernsteinstr. 124","70619","Stuttgart","DE","0711-443898","0711-4403172","praxis-kupfer@email.de","Frau","Allg.",NULL,True,"Kundenquellecode: MX
+Roh-Datum: 23.2.BGV22/25.1.23/31.1.24BGV/5.2.25/
+praxis-kupfer@email.de
+21.2.14BGV/18.2.15/13.4.16/25.4.17/8.2.18/6.2.19/4.2.20/27.1.21/
+032122-587337","excel_nosue_serie_gns_bearbeitet","83","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"139","20481","Dr. med. Helma Bischoff","Dr. med.","Helma","Bischoff","Brühlstr. 39","70771","Leinfelden-E.","DE","0711-793392","0711-792419",NULL,"Frau","Allg.",NULL,True,"Kundenquellecode: M
+Roh-Datum: 10.9.24/6.5.25/15h
+17.7.18/19.7.19/19.5.20/11.5.21/26.7.22/25.7.23/15h
+28.4.15/31.5.16/25.4.17/15h
+Di´s Nami
+24.7.13/6.5.14/","excel_nosue_serie_gns_bearbeitet","84","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"140","20874","Dr. med. Michael Jünemann","Dr. med.","Michael","Jünemann","Filderbahnstr. 66","70794","Filderstadt-Bernhausen","DE","0711-703123","0711-7079629","info@gemeinschaftspraxis-online.de","Herr",NULL,NULL,True,"Kundenquellecode: M
+Roh-Datum: 14.3.17/7.2.19/21.4.20/10.5.21/26.7.22/25.7.23/4.2.25/1130
+info@gemeinschaftspraxis-online.de
+Fr:Lambert
+Di´s","excel_nosue_serie_gns_bearbeitet","85","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"141","20723","Drs. med. Barthel","Drs. med.",NULL,"Barthel","Kronenstr. 3","70825","Korntal-Münch.","DE","07150-9468-0","07150-9468-22","praxis@hausarzt-b2.de ",NULL,NULL,NULL,True,"Weitere(r) Name(n): Bachner
+Roh-Datum: 18.8.16/18.7.19/27.9.22/13.11.24/10.10.25/
+2jährlich
+Antje
+praxis@hausarzt-b2.de","excel_nosue_serie_gns_bearbeitet","86","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"142","20686","Dres. Fedel","Dres.",NULL,"Fedel","Olgastr. 11","71032","Böblingen","DE","07031-718330","07031-718344","buk@hautarztzentrum-bb.de",NULL,"Dermatologen",NULL,True,"Weitere(r) Name(n): Jungmann
+Roh-Datum: 6.7.16/27.9.17/24.10.18/20.11.19/9.12.20/25.1.22/15.3.23/8.4.24/29.4.25/
+2.7.14/29.7.15/11.30h
+Fr.Buk
+28.10.11/5.6.13/
+buk@hautarztzentrum-bb.de","excel_nosue_serie_gns_bearbeitet","87","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"143","20750","Dr.Rupert/ D. Anastassiadis","Dr.Rupert/",NULL,"D. Anastassiadis","Konrad-Zuse-Str. 14","71034","Böblingen","DE","07031-227268","07031-238539","team@gynpraxis-anastassiadis-ruppert.de",NULL,"Frauen",NULL,True,"Kundenquellecode: M
+Roh-Datum: 9.7.19/22.9.20/5.11.21/27.9.22/19.9.23/12.06.25/10h
+29.7.15/31.5.16/18.7.17/24.10.18/
+Do´s+Fr´s
+team@gynpraxis-anastassiadis-ruppert.de
+5.6.13/2.7.14/11h","excel_nosue_serie_gns_bearbeitet","88","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"144","20749","Dr.med. Adalbert Stadtmüller","Dr.med.","Adalbert","Stadtmüller","Maichinger Str. 21","71106","Magstadt","DE","07159-42314","07159-904682",NULL,"Herr","Allg.",NULL,True,"Kundenquellecode: M
+Roh-Datum: 24.10.18/12.1.21/25.1.23/4.11.24/730h
+5.6.13/5.1.15/16.1.17/
+2jährlich","excel_nosue_serie_gns_bearbeitet","89","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"145","20803","Dr.med. Thomas Bühl","Dr.med.","Thomas","Bühl","Marktstr. 16","71254","Ditzingen","DE","07156-959229","07156-959230","cb@christinebulling.de","Herr","Orthopäde",NULL,True,"Kundenquellecode: M
+Roh-Datum: 20.11.17/26.11.18/24.9.19/15.2.21/27.1.22/8.5.23/25.4.24/29.4.25/15h
+cb@christinebulling.de
+20.11.17/26.11.18/24.9.19/4.2.21/20.1.22/8.5.23/10h
+nicht Mo´s
+7.12.12/27.5.14/7.10.15/12.10.16/","excel_nosue_serie_gns_bearbeitet","90","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"146","20801","Dr.med. Christine Volschenk","Dr.med.","Christine","Volschenk","Distelfeldstr. 15","71229","Leonberg","DE","07152-27200","07152-28404","doc@volschenk.de","Frau","Gyn",NULL,True,"Kundenquellecode: M
+Roh-Datum: 2.4.14/7.10.15/4.10.17/24.5.20/11.8.22/5.7.24/15h
+2jährlich
+doc@volschenk.de","excel_nosue_serie_gns_bearbeitet","91","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"147","20732","Ralf Dr. Bajinski",NULL,"Ralf","Dr. Bajinski","Marktstr. 44","71364","Winnenden","DE","07195-3627","07195-946540","info@praxis-am-markthaus.de",NULL,NULL,NULL,True,"Kundenquellecode: M
+Roh-Datum: 20.5.!5/19.4.16/24.4.17/7.5.18/10.4.BGV19/2.9.20/30.9.21/26.9.22/23.11.23/29.7.24/29.9.25/12h
+Fr.Maurer
+info@praxis-am-markthaus.de","excel_nosue_serie_gns_bearbeitet","92","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"148","20995","Dr.med. Volker Kemmerich","Dr.med.","Volker","Kemmerich","Strümpfelbacher Str. 29","71384","Weinstadt","DE","07151-64949","07151-610196","praxis@kinderarzt-kemmerich.de","Herr","Kinder",NULL,True,"Roh-Datum: 26.9.22/19.9.23/11.11.24/
+praxis@kinderarzt-kemmerich.de","excel_nosue_serie_gns_bearbeitet","93","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"149","21012","MVZ Buderer Group",NULL,NULL,"MVZ Buderer Group","Leonberger Str. 2-4","71638","Ludwigsburg","DE","07141 1469480","07141 1469483",NULL,NULL,"Allg.",NULL,True,"Roh-Datum: 9.5.23/27.7.24/","excel_nosue_serie_gns_bearbeitet","94","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"150","20827","Meltem Noori",NULL,"Meltem","Noori","Wilhelmstr. 61","71638","Ludwigsburg","DE","07141 923450","07141/902972","meltem@nooris.de","Frau","Gyn",NULL,True,"Roh-Datum: 20.3.23/9.4.24/1.4.25/
+meltem@nooris.de
+info@frauenarztpraxis-ludwigsburg.de","excel_nosue_serie_gns_bearbeitet","95","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"151","20730","Dr.med. Mikolajewski",NULL,"Dr.med.","Mikolajewski","John-F.-Kennedy-Allee 33/1","71686","Remseck/ Pattonville","DE","07141-893362","07141-893360","info@arztpraxis-pattonville.de",NULL,"Allg.",NULL,True,"Kundenquellecode: M
+Roh-Datum: 19.6.19/22.4.20/30.9.21/26.9.22/23.11.23/6.11.24/06.10.25/
+20.5.15/19.4.16/22.6.17/18.4.18/
+info@arztpraxis-pattonville.de","excel_nosue_serie_gns_bearbeitet","96","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"152","21011","MVZ Buderer Group",NULL,NULL,"MVZ Buderer Group","Menzelstr. 17","71691","Freiberg/Neckar","DE","07141-1469481","07141-1469482",NULL,NULL,NULL,NULL,True,"Roh-Datum: 9.5.23/27.7.24/","excel_nosue_serie_gns_bearbeitet","97","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"153","20975","Praxisgemeinschaft Dres. Zöller","Praxisgemeinschaft","Dres.","Zöller","Hauptstr. 44","71717","Beilstein","DE","07062-4257","07062-936511","info@zoeller-hoehn.de",NULL,"0162/4224223",NULL,True,"Weitere(r) Name(n): Höhn
+Roh-Datum: 1.7.21/22.2.22/10.5.23/10.4.24/10.2.25/BGV
+nur noch gyn
+info@zoeller-hoehn.de","excel_nosue_serie_gns_bearbeitet","98","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"154","20885","Drs. Kraus-Schröter","Drs.",NULL,"Kraus-Schröter","Kirchplatz 1","71737","Kirchberg","DE","07144-36092","07144-39982","praxis.muck.kraus-schroeter@web.de",NULL,NULL,NULL,True,"Weitere(r) Name(n): Muck
+Roh-Datum: 22.2.22/10.5.23/10.4.24/1.4.25/12h
+12.7.16/22.6.17/21.11.18/6.12.19/27.10.20/
+Fr.Mögle, Mi´s12h
+Praxis.Muck.Kraus-Schroeter@web.de","excel_nosue_serie_gns_bearbeitet","99","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"155","20959","K.M. privat Friedsam",NULL,"K.M. privat","Friedsam","Paul-Löffler Weg 17","72070","Tübingen","DE","015124069498_","07071-2536118",NULL,"privat","Allg.",NULL,True,"Roh-Datum: 5.9.20/per post
+Praxis in Stuttgart
+4x RR","excel_nosue_serie_gns_bearbeitet","100","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"156","20786","Dr.med. Kurt Hohenstein","Dr.med.","Kurt","Hohenstein","Lange Gasse 31","72070","Tübingen","DE","07071-21871","07071-9208533",NULL,"Herr","Hausärztin",NULL,True,"Roh-Datum: 3.9.19/28.7.20/9.7.21/8.7.22/6.11.23/20.6.24/
+10.1.14/19.4.16/14.7.17/11.7.18/
+4RR,EKGDefi","excel_nosue_serie_gns_bearbeitet","101","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"157","20748","[UNBENANNTER KUNDE]",NULL,NULL,NULL,"Karlstr. 8","72072","Tübingen","DE","07071-5654000","07071-5654001",NULL,NULL,"Psycho",NULL,True,"Kundenquellecode: X
+Roh-Datum: 29.5.13/31.7.15/14.7.17/8.11.19/14.10.22/
+Fr´s14h
+2jährlich
+hört 2024 auf","excel_nosue_serie_gns_bearbeitet","102","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"158","21000","Dr.med. Lennart Walker","Dr.med.","Lennart","Walker","Wilhelmstr. 109","72074","Tübingen","DE","07071-22290","07071-23543","lennartwalker21@gmail.com","Herr","Hausarzt",NULL,True,"Roh-Datum: 14.11.22/6.11.23/7.11.24/15.9.25/
+0176/81669980
+lennartwalker21@gmail.com","excel_nosue_serie_gns_bearbeitet","103","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"159","20917","Dr.med. Wolfgang Streit","Dr.med.","Wolfgang","Streit","Wilhelmstr. 105","72074","Tübingen","DE","0176-552 12240","07071-1356274","dr-streit-tue@posteo.de","Herr","Allg.",NULL,True,"Roh-Datum: 14.11.22/7.11.24/12h
+2jährlich
+dr-streit-tue@posteo.de","excel_nosue_serie_gns_bearbeitet","104","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"160","20909","Euklid CAD",NULL,NULL,"Euklid CAD","Maierecker Str. 18","72108","Rottenburg","DE","07472 9315244",NULL,"wachter@euklid-cadcam.com",NULL,"Büro",NULL,True,"Weitere(r) Name(n): CAM AG
+Roh-Datum: 24.10.18/15.3.23/25.6.25/830h
+linke Holztür
+2jährlich
+wachter@euklid-cadcam.com
+Hr. Wachter","excel_nosue_serie_gns_bearbeitet","105","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"161","20987","Dres. Beller","Dres.",NULL,"Beller","Tübinger Str. 1","72108","Rottenburg","DE","07472-5155","07472-5144","praxis-beller-rueffer@posteo.de",NULL,NULL,NULL,True,"Weitere(r) Name(n): Rüffer
+Roh-Datum: 16.3.22/17.3.23/9.4.24/25.6.25/10h
+BGV 25
+Fasi:175,-
+praxis-beller-rueffer@posteo.de","excel_nosue_serie_gns_bearbeitet","106","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"163","20839","Dr.med. Bettina Seybold","Dr.med.","Bettina","Seybold","Nagolder Str. 23","72119","Ammerbuch-Pfäff.","DE","07073-7483","07073-50111","rezept@drseybold.com","Herr","Internist",NULL,True,"Roh-Datum: 3.9.19/23.9.20/12.10.21/14.11.22/6.11.23/7.11.24/16.9.25/8h
+12.11.15/6.10.16/11.7.18/
+rezept@drseybold.com","excel_nosue_serie_gns_bearbeitet","108","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"164","20877","Dr.med. de Jager","Dr.med.",NULL,"de Jager","Lauterbadstr. 4","72250","Freudenstadt","DE","07441-9184230","07441-9184239","info@knochendocs.de","ohne","Orthopäden",NULL,True,"Roh-Datum: 28.4.17/27.6.18/12.7.19BGV/17.7.20/30.8.21/29.7.22/ab.25
+21.12.11/20.11.13/
+Mi + Fr´sBGV??
+info@knochendocs.de","excel_nosue_serie_gns_bearbeitet","109","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"165","20776","Dr.med. Walter Wohnhas","Dr.med.","Walter","Wohnhas","Marktstr. 11","72458","Albstadt-Ebingen","DE","07431-3223","07431-3558","info@praxis-wohnhas.de","Herr","Hausarzt",NULL,True,"Kundenquellecode: A
+Roh-Datum: 6.10.15/20.10.16/7.11.17/20.11.18/5.11.19/17.11.20/26.10.21/13.9.23/10.9.24/16.9.25/
+7.11.13/20.10.14/
+info@praxis-wohnhas.de","excel_nosue_serie_gns_bearbeitet","110","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"166","20775","Drs.med. Kübler","Drs.med.",NULL,"Kübler","Untere Vorstadt 3","72458","Albstadt-Ebingen","DE","07431-2478","07431-591005",NULL,"Herr","HNO-Gem.Praxis",NULL,True,"Weitere(r) Name(n): Zwisler
+Kundenquellecode: A
+Roh-Datum: 6.10.15/20.10.16/7.11.17/20.11.18/5.11.19/17.11.20/26.10.21/18.10.22/13.9.23/10.9.24/16.9.25/
+7.11.13/20.10.14/11h
+120,- 30,-nurFasi","excel_nosue_serie_gns_bearbeitet","111","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"167","20404","Dr.med. Markus Czempiel","Dr.med.","Markus","Czempiel","Goethestr. 33","72461","Albstadt-Tailfingen","DE","74323873","7432983127",NULL,"Herr","Kinderarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 22.09.15/20.10.16/7.11.17/20.11.18/5.11.19/17.11.20/26.10.21/18.10.22/7.11.23/10.9.24/16.9.25/
+mczempiel@kinderaerzte-im-netz.de 
+22.11.06/29.11.07/13.10.08/16.12.09/10.11.10/27.10.11/
+31.1.13/11.3.14/","excel_nosue_serie_gns_bearbeitet","112","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"168","20482","Dr.med. Klaus-Ulrich Wiest","Dr.med.","Klaus-Ulrich","Wiest","Bismarckstr. 7","72525","Münsingen","DE","73816289","73816713",NULL,"Herr","Internist",NULL,True,"Kundenquellecode: X
+Roh-Datum: 28.9.17/30.11.18/21.11.19/17.12.20/3.12.21/17.10.22/15.9.23/13.12.24/21.10.25/8h30
+25.4.13/20.5.14/21.7.15/8.7.16
+8.7_09/29.6.10/6.4.11/20.3.12/
+4.9.07/10.6.08","excel_nosue_serie_gns_bearbeitet","113","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"169","20886","Kinderzentrum an der Echaz",NULL,"Kinderzentrum","an der Echaz","Bahnhofstr. 9","72525","Münsingen","DE","07381-9386868","07381-9386869","muensingen@kinderzentrum-echaz.de",NULL,"kinder",NULL,True,"Roh-Datum: 28.9.17/31.7.18/21.11.19/17.12.20/3.12.21/14.11.22/15.9.23/13.12.24/12h/27.10.25/
+Mi´s nie
+muensingen@kinderzentrum-echaz.de","excel_nosue_serie_gns_bearbeitet","114","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"170","20501","Dr.med. Tobias Autenrieth","Dr.med.","Tobias","Autenrieth","Schönbeinstr. 18","72555","Metzingen","DE","712360962","712320308","info@kardio-autenrieth.de","Herr","Internist",NULL,True,"Kundenquellecode: X
+Roh-Datum: 21.5.15/25.7.16/27.7.17/31.7.18/9.7.19/9.7.20/8.7.21/26.7.22/14.9.23/29.8.24/29.7.25/9h
+31.1.13/9.5.14/9h
+Fr.Laubheimer
+27.10.09/ 8.11.10
+HerzsportDefis
+24.10.06/10.10.07
+26.11.08/27.10.11
+info@kardio-autenrieth.de","excel_nosue_serie_gns_bearbeitet","115","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"171","20325","Dres.med. Gaenslen","Dres.med.",NULL,"Gaenslen","Schönbeinstr. 9","72555","Metzingen","DE","712321223","71234967","kontakt@endopraxis-metzingen.de",NULL,"Internist",NULL,True,"Weitere(r) Name(n): Hahn
+Roh-Datum: 18.7.19/9.7.20/8.7.21/16.11.22/14.9.23/27.8.24/25.7.25/12h
+9.6.15/5.7.16/20.6.17/7.5.18/13h
+kontakt@endopraxis-metzingen.de
+nur Di´s, Mi´s
+27.6.07/10.7.08/23.6_09/8.7.10
+7.7.11/24.8.12/29.8.13/24.6.14/13h","excel_nosue_serie_gns_bearbeitet","116","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"172","21019","Dr.med. Frank Waidelich","Dr.med.","Frank","Waidelich","Kelternplatz 5","72555","Metzingen","DE","01514-0101726",NULL,"f_waidelich@web.de",NULL,"Kinder",NULL,True,"Roh-Datum: 7.11.24/15h
+f_waidelich@web.de
+2jährl/BGV","excel_nosue_serie_gns_bearbeitet","117","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"173","20550","Dres.med. Blum","Dres.med.",NULL,"Blum","Mühlstr.1","72585","Riederich","DE","712331212","712335054","dres.traum-blum@web.de","Frau","Allgemeinärzte",NULL,True,"Weitere(r) Name(n): Traum
+Kundenquellecode: X
+Roh-Datum: 18.7.19/9.7.20/8.7.21/26.7.22/6.7.23/20.6.24/8.5.25/15h
+BGV27
+dres.traum-blum@web.de
+26.5.11/12.6.12/3.6.13
+3.9.07/10.7.08/9.7.09/31.5.10/
+9.5.14/21.5.15/21.4.16/13.6.17/5.4.18/","excel_nosue_serie_gns_bearbeitet","118","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"174","20774","Dr.med. Matthias Heinemann","Dr.med.","Matthias","Heinemann","Neckarhäuser Str. 21","72622","Nürtingen","DE","07022-44440","07022-309507","dr_heinemann@web.de","Herr","Innere",NULL,True,"Roh-Datum: 25.10.16/5.3.18/7.2.19/21.4.20/12.1.21/26.1.22/26.1.23/9.1.24/22.1.25/
+7.7.09/29.11.11/14.11.12/6.11.13/14.10.14/28.9.15/
+dr_heinemann@web.de","excel_nosue_serie_gns_bearbeitet","119","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"175","20486","Dres.med. Hoßfeld","Dres.med.",NULL,"Hoßfeld","Hindenburgstr. 27","72762","Reutlingen","DE","7121230404","712124856","info@hausarztpraxis-pomologie.de",NULL,"Allgemeinärzte",NULL,True,"Weitere(r) Name(n): Heinzmann
+Kundenquellecode: X
+Roh-Datum: 26.1.21/1.3.22/26.4.23/25.4.24/6.5.25/
+11.11.14/8.3.16/14.3.17/7.5.18/7.5.19/11h
+info@hausarztpraxis-pomologie.de
+19.9.06/3.9.07/1.10.08/24.9.09/21.9.10/29.9.11/17.9.12/14.11.13/
+dres.nuebel @ docpost.de
+info@hausarztpraxis-pomologie.de","excel_nosue_serie_gns_bearbeitet","120","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"176","20565","Hausarztpraxis Albtorplatz",NULL,NULL,"Hausarztpraxis Albtorplatz","Albtorplatz 3","72764","Reutlingen","DE","7121230184","7121230245","praxisringelbach@posteo.de",NULL,"Rauscher/ Müller-Hansen/Lehr/",NULL,True,"Roh-Datum: 15.5.14/5.7.16/5.4.18/28.7.20/12.4.22/8.2.24/
+praxisringelbach@posteo.de
+2jährl/BGV
+29.11.07/10.6.10/24.2.12
+Fr.Engelhard","excel_nosue_serie_gns_bearbeitet","121","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"177","20487","Dres.med. Albrecht","Dres.med.",NULL,"Albrecht","Listplatz 1","72764","Reutlingen","DE","7121312524","7121312550","team@kronprinzenbau-klinik.de",NULL,"Chirurgen",NULL,True,"Weitere(r) Name(n): Gühring
+Roh-Datum: 4.1.21/20.1.22/16.3.22/22.2.23/9.1.24/22.1.25/11h
+28.9.17/23.10.18/16.12.19/
+26.6.14/27.7.15/6.10.16/13h
+29.8.11/17.9.12/11.7.13
+3.9.07/1.10.08/23.9.09/21.9.10
+team@kronprinzenbau-klinik.de","excel_nosue_serie_gns_bearbeitet","122","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"178","20469","Dres.med. Ewers","Dres.med.",NULL,"Ewers","Oskar-Kalbfell-Platz 8","72764","Reutlingen","DE","7121270022","7121210869","info@lungenarzt-reutlingen.de",NULL,"Internisten",NULL,True,"Weitere(r) Name(n): Siegel
+Kundenquellecode: X
+Roh-Datum: 20.6.17/15.6.18/1.4.19/7.5.20/27.5.21/12.4.22/17.3.23/25.4.24/meldet
+16.5.14/22.4.15/21.4.16
+Mo+Di´s, Fr´s
+info@lungenarzt-reutlingen.de
+28.6.07/9.6.08/30.4.09/31.5.10/27.5.11/14.6.12/23.5.13","excel_nosue_serie_gns_bearbeitet","123","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"179","20551","Dres.med. Luib","Dres.med.",NULL,"Luib","Oskar-Kalbfell-Platz 10","72764","Reutlingen","DE","7121270738","7121270791","thomas-c.wunberg@web.de",NULL,"Kinderarzt",NULL,True,"Weitere(r) Name(n): Wunberg
+Kundenquellecode: X
+Roh-Datum: 8.11.19/18.12.20/3.12.21/24.11.23/8.5.25BGV
+Fr´s8h
+31.7.15/25.7.16/14.7.17/19.10.18/
+thomas-c.wunberg@web.de
+Pneumologie.RT
+4.9.07/5.6.08","excel_nosue_serie_gns_bearbeitet","124","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"180","20896","Drs.med. v.Pfeil","Drs.med.",NULL,"v.Pfeil","Kaiserpassage 9","72764","Reutlingen","DE","07121-346550","07121-346163","info@kinderarztpraxis-reutlingen.de",NULL,"Kinder",NULL,True,"Weitere(r) Name(n): Baumgärtel
+Roh-Datum: 5.3.18/1.4.19/24.3.20/26.1.21/1.3.22/26.4.23/20.6.24/29.7..25/12h
+jährlich,Di´s,,Mi´s
+info@kinderarztpraxis-reutlingen.de
+Nadine Eitel 01622427753
+dr.vonPfeil@sportmedizin-reutlingen.de","excel_nosue_serie_gns_bearbeitet","125","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"181","20292","Dr.med. Thomas Krause","Dr.med.","Thomas","Krause","Gomaringer Str. 46","72770","Reutlingen-Ohmenhausen","DE","7121514848","71215148460","praxis@doktor-krause.de","Herr",NULL,NULL,True,"Kundenquellecode: X
+Roh-Datum: 7.5.19/24.3.20/12.1.21/25.1.22/23.2.23/9.1.24/18.3.25/13h
+Do´sAb10h,sonstAb12
+18.2.14/4.2.15/8.3.16/9.3.17/6.3.18/14h
+24.2.07/17.1.08/27.1.09/23.2.10/31.1.11/21.2.12/31.1.13
+praxis@doktor-krause.de","excel_nosue_serie_gns_bearbeitet","126","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"182","20488","Dres.med. Beck","Dres.med.",NULL,"Beck","Auwiesenstr. 20","72770","Reutlingen","DE","712152202","7121577124","rezepte@kinderarzt-reutlingen.de","Herr","Kinderärzte",NULL,True,"Weitere(r) Name(n): Güth
+Kundenquellecode: X
+Roh-Datum: 7.5.20/30.8.21/8.7.22/14.9.23/18.3.25/11h
+rezepte@kinderarzt-reutlingen.de
+16.1.15/5.7.16/28.09.17/23.10.18/1330h
+19.9.06/3.9.07/1.10.08/26.10.09
+3.11.10/29.8.11/5.12.12/14.11.13/","excel_nosue_serie_gns_bearbeitet","127","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"183","20768","Dr.med. Wolfgang Brehm","Dr.med.","Wolfgang","Brehm","Kaiserstr. 3/ 2","72793","Pfullingen","DE","07121-972975","07121-790827","wolfgang.brehm@web.de","Herr","Kinderarzt",NULL,True,"Roh-Datum: 27.7.15/14.3.16/5.7.17/15.6.18/8.5.19/2.7.20/27.5.21/12.4.22/6.7.23/7.2.24/8.5.25/12h
+wolfgang.brehm@web.de
+lieber Do´s
+330,-+80
+29.8.13/11.11.14/","excel_nosue_serie_gns_bearbeitet","128","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"184","20497","Kinderzentrum an der Echaz",NULL,NULL,"Kinderzentrum an der Echaz","Kurze Str.41","72793","Pfullingen","DE",NULL,"7121754407","praxis@kinderzentrum-echaz.de","Frau","Kinderärztinnen",NULL,True,"Kundenquellecode: X
+Roh-Datum: 11.2.15/14.3.16/5.7.17/15.6.18/8.5.19/28.7.20/12.5.21/8.7.22/18.9.23/13.12.24/27.10.25/
+Mo-Do´s
+praxis@kinderzentrum-echaz.de
+6.10.06/12.10.07/16.10.08/23.9.09/
+5.12.12/11.12.13/
+21.9.10/28.10.11","excel_nosue_serie_gns_bearbeitet","129","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"185","20301","MVZ Gomaringen MED-GO eG Riesner","MVZ Gomaringen","MED-GO eG","Riesner","Lindenstr. 84/1","72810","Gomaringen","DE","07072/912575","07072/912690",NULL,"Herr","Arzt für Allg.",NULL,True,"Weitere(r) Name(n): Schilling
+Roh-Datum: 24.3.20/7.7.21/8.7.22/6.7.23/8.5.25","excel_nosue_serie_gns_bearbeitet","130","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"186","20761","Dr. Müller-Schwefe",NULL,NULL,"Dr. Müller-Schwefe","Schillerplatz 8/1","73034","Göppingen","DE","07161-97645","07161-976497","info@mueller-schwefe.com","Herr","Schmerz",NULL,True,"Roh-Datum: 24.6.19/23.4.20/7.7.21/13.4.22/5.7.23/1.8.24/12.6.25/830h
+info@mueller-schwefe.com
+07161-4017124
+10.6.15/20.7.16/21.6.17/29.6.18/9h
+16.7.13/14.7.14/12h","excel_nosue_serie_gns_bearbeitet","131","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"187","20831","Dres. Bohn","Dres.",NULL,"Bohn","Eisenbahnstr. 3","73066","Uhingen","DE","07161-37379","07161-352683",NULL,NULL,"Allg.",NULL,True,"Roh-Datum: 10.6.15/19.7.17/24.6.19/6.7.21/25.1.23/28.1.25/
+evtl Tel.23012
+2jährlich","excel_nosue_serie_gns_bearbeitet","132","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"188","20884","Dr.med. Aichele","Dr.med.",NULL,"Aichele","Postplatz 4","73230","Kichheim/Teck","DE","07021-6075","07021-6160","hausarztpraxis-kirchheim@t-online.de","Herr","Allg.",NULL,True,"Roh-Datum: 22.9.17/26.9.19/16.11.22/23.11.23/28.1.25/12h
+Mi´s12h
+hausarztpraxis-kirchheim@t-online.de","excel_nosue_serie_gns_bearbeitet","133","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"189","20311","Dr. med. Michael Schmieder","Dr. med.","Michael","Schmieder","Baldungstr. 17","73525","Schwäbisch Gmünd","DE","07171-90951110","07171-90951139","m.schmieder@kardiologie-schmieder.de","Herr","Internist und Kardiologe",NULL,True,"Kundenquellecode: X
+Roh-Datum: 27.11.18/21.11.19/19.11.20/6.7.21/27.9.22/5.7.23/12.6.25/
+m.schmieder@kardiologie-schmieder.de
+nie Mo´s ??
+17.5.06/26.6.07/24.4.08/8.9.09/8.6.10/27.7.11/14.11.12","excel_nosue_serie_gns_bearbeitet","134","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"190","20984","Dres. Mannschreck","Dres.",NULL,"Mannschreck","Oberer Marktplatz 9","73614","Schorndorf","DE","07181 66301","07181 62684","mannsam@t-online.de",NULL,"Allg.",NULL,True,"Weitere(r) Name(n): Sam
+Roh-Datum: 2.12.21/16.11.22/20.9.23/12.11.24/10.11.25/13h
+mannsam@t-online.de","excel_nosue_serie_gns_bearbeitet","135","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"191","20846","AOK Neckar-Fils",NULL,"AOK","Neckar-Fils","Plochinger Str. 13","73730","Esslingen","DE","07021 721-222","07021 721-41222",NULL,NULL,"7 Betriebsstätten",NULL,True,"Roh-Datum: 9.8.18/25.6.20/7.7.22/13.5.24/
+@bw.aok.de
+Hr.Hauschild
+2jährlich","excel_nosue_serie_gns_bearbeitet","136","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"192","20852","Drs. med. Anger","Drs. med.",NULL,"Anger","Hindenburgstr. 55","73760","Ostfildern","DE","0711-3411478","0711-3430670","hausarztnellingen@gmail.com",NULL,"MVZ Nellingen",NULL,True,"Weitere(r) Name(n): S.Franceschetti
+Roh-Datum: 6.12.19/19.11.20/2.12.21/17.11.22/23.11.23/7.11.24/30.10.25/1230h
+hausarztnellingen@gmail.com
+8.7.16/6.11.17/26.11.18/7.2.19RR/
+Fr.Siegle
+nur Do´s","excel_nosue_serie_gns_bearbeitet","137","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"193","20915","Dres. Küster","Dres.",NULL,"Küster","Ludwigsburger Str.10","74080","Heilbronn","DE","07131-31224","07131-380987","sonjakuester@gmx.de",NULL,"_01726304443",NULL,True,"Kundenquellecode: M
+Roh-Datum: 21.11.18/21.7.20/28.6.22/24.10.23/13.11.24/
+Sono+EKG
+2jährlich
+.
+sonjakuester@gmx.de","excel_nosue_serie_gns_bearbeitet","138","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"194","21016","Juliane Dr. Philipp",NULL,"Juliane","Dr. Philipp","Deutschhofstr. 2/1","74072","Heilbronn","DE","07131-3843030","07131-38430399","info@frauenarztpraxis-philipp.de",NULL,"GYN",NULL,True,"Roh-Datum: 17.6.24/9.9.25/8h
+info@frauenarztpraxis-philipp.de","excel_nosue_serie_gns_bearbeitet","139","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"195","20810","Dr.med. Buderer","Dr.med.",NULL,"Buderer","Hillerstr. 13","74321","Bietigheim-Bissingen","DE","07142/45553","07142 45609","dr.buderer@gesundheitspraxis-bietigheim.de","Herr","Allgeimein",NULL,True,"Roh-Datum: 24.9.19/2.8.21/25.11.22/24.10.23/28.7.24/12h
+dr.buderer@gesundheitspraxis-bietigheim.de
+13.6.12/10.7.14/23.7.15/18.8.16/13.7.17/19.7.18/","excel_nosue_serie_gns_bearbeitet","140","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"196","20809","Dr.med. Uwe Hebeiß","Dr.med.","Uwe","Hebeiß","Schieringerstr. 8","74321","Bietigheim-Bissingen","DE","07142-43147","07142-943910","info@uwe-hebeiss.de","Herr",NULL,NULL,True,"Roh-Datum: 1.10.14/5.10.15/12.7.16/12.7.18/16.7.19/11.11.21/25.11.22/19.7.23/6.11.24/9.9.25/9h
+160,-
+info@uwe-hebeiss.de","excel_nosue_serie_gns_bearbeitet","141","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"197","20938","MVZ Buderer Group Bietigheim",NULL,"MVZ Buderer Group","Bietigheim","Borsigstr. 6","74321","Bietigheim-Bissingen","DE","07142 7727130","07142 7727133","info@gesundheitspraxis-bietigheim.de",NULL,"auch Besigheim",NULL,True,"Roh-Datum: 16.7.19/2.8.21/9.5.23/26.6.24/
+info@gesundheitspraxis-bietigheim.de
+jonathan@buderer-group.com","excel_nosue_serie_gns_bearbeitet","142","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"199","20979","Jochen Rieth",NULL,"Jochen","Rieth","Freudentaler Str. 3","74354","Besigheim","DE","07143-80420","07143-804242","praxis@wimrie.de","Herr","Allg.",NULL,True,"Roh-Datum: 29.9.21/20.7.23/17.6.24/9.9.25/
+praxis@wimrie.de","excel_nosue_serie_gns_bearbeitet","144","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"200","20980","Wimmershof-Rieth",NULL,NULL,"Wimmershof-Rieth","Freudentaler Str. 3","74354","Besigheim","DE","07143-80420","07143-804242","praxis@wimrie.de","Herr","Allg. ab 15.5.",NULL,True,"Roh-Datum: 29.9.21/20.7.23/17.6.24/9.9.25/
+praxis@wimrie.de","excel_nosue_serie_gns_bearbeitet","145","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"201","20736","Dr.med. Rieker","Dr.med.",NULL,"Rieker","Hauptstr. 12","74382","Neckarwestheim","DE","07133-7992","07133-14830","mbu@drrieker.de","Herr","Chirurg",NULL,True,"Roh-Datum: 4.2.20/21.7.20/30.9.21/22.2.22/17.11.22/20.3.23/24.10.23/9.4.24/12.11.24/1.4.25/11.11.25/10h30
+BGV 03/26
+18.4.13/10.7.14/8.5.15/12.7.16/19.9.17/12.7.18/16.7.19/15-16h
+07133-90141920
+mbu@drrieker.de
+Fr.Schwarz","excel_nosue_serie_gns_bearbeitet","148","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"202","20835","Bernhard Naumann",NULL,"Bernhard","Naumann","Unterer Graben 16","97980","Bad Mergentheim","DE","07931-8488","07931-6169","praxis@arzt-fuer-die-frau.de","Herr","Gyn",NULL,True,"Roh-Datum: 15.10.20/21.7.22/19.7.23/17.6.24/17.6.24/9h2026
+25.9.15/10.8.16/30.8.17/9h
+praxis@arzt-fuer-die-frau.de","excel_nosue_serie_gns_bearbeitet","149","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"204","20956","Dr.med. Thiele","Dr.med.",NULL,"Thiele","Bahnhofstr. 48","75015","Bretten","DE","07252-2888",NULL,"info@sportorthopaedie-bruchsal.de",NULL,"Orthopäde",NULL,True,"Roh-Datum: 9.5.20/14.5.24/
+info@sportorthopaedie-bruchsal.de","excel_nosue_serie_gns_bearbeitet","151","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"206","20693","Jonas Ruck-Knörzer",NULL,"Jonas","Ruck-Knörzer",NULL,"75172","Pforzheim","DE","07231-313399","07231-650283","podologie@ruck-knoerzer.de","Herr","Podologische Praxis",NULL,True,"Kundenquellecode: X
+Roh-Datum: 17.7.19/14.10.20/4.11.21/23.11.22/19.12.23/2.1.24/6.2.25/8h
+podologie@ruck-knoerzer.de
+9.2.16/8.3.17/13.6.18/
+16.5.+24.7.12/6.8.13/28.11.14/8h
+Fr.","excel_nosue_serie_gns_bearbeitet","153","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"207","20203","Dr. med. Ralf Bickel","Dr. med.","Ralf","Bickel","Simmlerstr. 3","75172","Pforzheim","DE","07231/451111","07231/466410","praxis.dr.bickel@web.de","Herr","Arzt für Innere Medizin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 27.8.19/29.7.20/14.7.21/22.7.22/11.7.23/9.7.24/25.7.25/
+Praxis.Dr.Bickel@web.de
+07231 467846geheim
+21.4.15/12.4.16/19.4.17/13.6.18/
+17.03.09/18.2.10/1.7.11
+18.1.06(1.3.07/08
+27.1.12/18.6.13/2.4.14
+Fr´s","excel_nosue_serie_gns_bearbeitet","154","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"209","21023","Dr.med. Stefan Kock","Dr.med.","Stefan","Kock","Durlacher Str. 1","75172","Pforzheim","DE","07231-155200",NULL,"dr-kock@gmx.de","Herr","Hautarzt",NULL,True,"Roh-Datum: 21.3.25/12h
+dr-kock@gmx.de
+E-Check","excel_nosue_serie_gns_bearbeitet","156","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"210","20785","Dres. med. Ossege","Dres. med.",NULL,"Ossege","Spindlershofstr. 2","75365","Calw-Altburg","DE","07051-50660","07051 967202","inhaber@hausarztpraxis-altburg.de",NULL,"elek150,-+warmgeräte",NULL,True,"Weitere(r) Name(n): Storsberg
+Roh-Datum: 8.8.18/17.7.19/19.6.20/1.9.21/23.11.22/20.11.24/
+2jährlich
+22.9.09/5.10.11/20.9.12/
+inhaber@hausarztpraxis-altburg.de
+24.1.14/21.4.15/27.1.16/28.4.17","excel_nosue_serie_gns_bearbeitet","157","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"211","20800","Dres. med. Lang","Dres. med.",NULL,"Lang","Mörikestr. 2","75397","Simmozheim","DE","07033-9677","07033-80037",NULL,NULL,"Allg.",NULL,True,"Kundenquellecode: X
+Roh-Datum: 19.10.16/5.10.17/16.10.18/27.8.19/14.7.20/27.7.21/5.7.22/11.7.23/9.7.24/6.5.25/12h
+Di´sDo´sMittag
+2.4.14/3.6.15/1430h
+aerzte-simmozheim.de","excel_nosue_serie_gns_bearbeitet","158","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"212","20231","Steffen Wiemann Trimedic Zentrum für Gesundheitsförderung","Steffen Wiemann",NULL,"Trimedic Zentrum für Gesundheitsförderung","Ohiostr. 4 (Ecke Kanalweg)","76149","Karlsruhe","DE","0721/4848715","0721/4848746","e.meyer-hellmann@trimedic.de","BGV26","Physiotherapie+Fitness",NULL,True,"Kundenquellecode: X
+Roh-Datum: 12.4.16/4.4.17/1.2.18/25.2.19/13.2.20/12.2.21/24.1.22/16.1.23/19.1.24/17.1.25/
+28.3.14/13.3.15/
+18.2.09/8.4.10/27.6.11/15.5.12/8.4.13/
+5.6.06/9.7.07/2.6.08/18.2.09/8.4.10
+nie Mi´s  BGV26
+E.Meyer-Hellmann@trimedic.de","excel_nosue_serie_gns_bearbeitet","159","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"213","20899","Dr. med. Orthio Steinhauser","Dr. med.","Orthio","Steinhauser","Ohiostr. 3 (Ecke Kanalweg)","76149","Karlsruhe","DE","0721-25825","0721-28371","management@orthio.de",NULL,"Othio Praxisklinik",NULL,True,"Roh-Datum: 21.3.18/25.2.19/3.8.21/16.1.23/
+Fr.Hafner0721-48699752
+Fr.Marvin
+management@orthio.de","excel_nosue_serie_gns_bearbeitet","160","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"214","20689","Dr. med. Steffen Küster","Dr. med.","Steffen","Küster","Pfinztalstr. 32","76227","Karlsruhe","DE","0721-403468","0721-494037",NULL,"Herr","Hautarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 10.2.21/16.2.22/3.3.23/4.3.24/14.2.25/9h
+nurFr´s9-13h
+15.5.12/22.5.13/1.8.14/9h
+Fr.Ludmann
+8.7.15/1.6.16/29.3.17/21.3.18/27.2.19/12.2.20/","excel_nosue_serie_gns_bearbeitet","161","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"215","20878","Dr. med. Christine Voucko-Glockner","Dr. med.","Christine","Voucko-Glockner","Lindenstr. 19","76228","Karlsruhe","DE","0721/ 472216","0721/475546","info@hausarzt-bergdoerfer.de","Frau","Allgemeinmediziner",NULL,True,"Kundenquellecode: X
+Roh-Datum: 2.5.17/16.4.18/4.4.19/13.5.20/27.7.21/10.3.22/3.3.23/19.1.24/17.1.25/
+info@hausarzt-bergdoerfer.de
+20.9.11/8.4.13/14.30h
+100,-Fasi+Fahrt
+21.12.06/20.12.07/18.2.09/
+28.3.14/13.4.15/14.11.16/","excel_nosue_serie_gns_bearbeitet","162","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"216","20621","Dr. med. Martina Klipp","Dr. med.","Martina","Klipp","Mühlstr. 8","76229","Karlsruhe","DE","0721-75090999","0721-75090998","info@kinderarzt-ka.de","Frau","Kinderärztin",NULL,True,"Roh-Datum: 1.7.16/18.10.18/21.12.20/16.2.22/4.3.24/8h
+12.1.09/9.3.11/28.3.14/9h
+mit Fasi 100,- +30
+info@kinderarzt-ka.de
+2jährlich","excel_nosue_serie_gns_bearbeitet","163","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"217","20816","Barbara Kochendoerfer",NULL,"Barbara","Kochendoerfer","Heckenweg 63","76199","Karlsruhe","DE","0721-883985","0721-883986",NULL,"Frau","Allg.",NULL,True,"Kundenquellecode: MX
+Roh-Datum: 14.11.16/10.10.17/18.10.18/4.11.19/16.10.20/15.10.21/16.1.23/4.3.24/30.1.25/12h
+9.10.14/19.11.15/12h
+20.9.11/14.1.13/
+Mo.o.Do´s","excel_nosue_serie_gns_bearbeitet","164","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"218","20699","Dr.med. Carmen Klingmann","Dr.med.","Carmen","Klingmann","Hebelstr. 1","76327","Pfinztal","DE","07240-206030","07240-206031","info@hautarzt-klingmann.de","Frau","Hautärztin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 29.8.19/27.8.20/4.11.21/10.11.22/21.9.23/12.12.24/9.10.25/8h
+nurDO´s8-11h
+info@hautarzt-klingmann.de
+13.8.15/15.9.16/31.8.17/18.10.18/8h
+20.9.12/13.6.13/7.8.14/","excel_nosue_serie_gns_bearbeitet","165","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"219","20855","Dres. Schönit/ Brucker-Schönit","Dres.","Schönit/","Brucker-Schönit","Rheinauer Ring 160/1","76437","Rastatt","DE","07222-923418","07222-923440","dr.j.schoenit@t-online.de",NULL,"Allg.",NULL,True,"Roh-Datum: 26.7.16/2.5.17/18.7.18/10.7.19/16.10.20/1.12.21/10.11.22/7.11.23/20.11.24/9.10.25/11h
+dr.j.schoenit@t-online.de","excel_nosue_serie_gns_bearbeitet","166","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"220","20727","Dr.med. Grimme","Dr.med.",NULL,"Grimme","Engelstr. 41","76437","Rastatt","DE","07222-966299","07222-966300","info@praxisdrgrimme.de",NULL,"Innere",NULL,True,"Roh-Datum: 4.2.19/13.2.20/12.2.21/10.3.22/16.1.23/12.3.24/29.1.25/
+11.3.15/14.1.16/4.4.17/30.1.18/13.30h
+info@praxisdrgrimme.de
+Di+Do´s14h
+praxis@gastroenterologie-rastatt.de","excel_nosue_serie_gns_bearbeitet","167","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"221","20753","Dr. med. Alfred Schäufele","Dr. med.","Alfred","Schäufele","Hügelsheimer Str.4","76473","Iffezheim","DE","07229-181730","07229-181732",NULL,"Herr","Allg.",NULL,True,"Roh-Datum: 20.9.17/14.9.18/4.11.19/21.12.20/1.12.21/28.11.22/18.12.23/19.11.24/NOV
+29.8.14/19.11.15/15.9.16/
+18.10.11/8.4.13/16h?BGV
+Fr.Schwarz","excel_nosue_serie_gns_bearbeitet","168","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"222","21024","Augenzentrum Kraichgau",NULL,"Augenzentrum","Kraichgau","Kraichgaustr. 13","76669","Bad Schönborn","DE",NULL,NULL,NULL,NULL,NULL,NULL,True,"Roh-Datum: 27.3.25/
+Fr.Baumann","excel_nosue_serie_gns_bearbeitet","169","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"223","20916","Dr. Waltraud Joachim","Dr.","Waltraud","Joachim","An Fronte Karl 8","76726","Germersheim","DE","07274-919233","07274-919496","waltraud.joachim@gmx.net",NULL,"Frauen",NULL,True,"Kundenquellecode: KC
+Roh-Datum: 14.11.17/22.11.18/21.1.20/11.1.21/10.1.22/18.1.23/17.1.24/16.1.25/10h
+27.11.14/30.11.15/21.10.16/10h
+waltraud.joachim@gmx.net","excel_nosue_serie_gns_bearbeitet","171","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"224","20894","Dr. Daniel Rüger","Dr.","Daniel","Rüger","Ostbahnstr. 7","76829","Landau","DE","06341-87948","06341-919223","info@kieferorthopaedie-landau.de","Herr","Kieferortho.",NULL,True,"Roh-Datum: 16.2.18/8.2.19/14.2.20/29.1.21/18.2.22/13.1.23/5.1.24/10.1.25/Fr´s9h
+info@kieferorthopaedie-landau.de","excel_nosue_serie_gns_bearbeitet","172","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"225","20201","Dres. med. Schurig-Sponheimer","Dres. med.",NULL,"Schurig-Sponheimer","Burgstr. 13","76846","Hauenstein","DE","06392/1841","06392/994525",NULL,NULL,"Ärzte für Allgemeinmedizin",NULL,True,"Weitere(r) Name(n): Grote
+Kundenquellecode: X
+Roh-Datum: 10.1.24/8.1.25/8h
+4.1.17/11.1.18/10.1.19/19.1.20/20.1.21/19.1.22/11.1.23/
+6.2.13/17.1.14/22.1.15/18.1.16/
+18.1.06/2.2.07/31.1.08/8.1.09
+22.1.10/13.1.11
+Fr.Leitner","excel_nosue_serie_gns_bearbeitet","173","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"226","20813","Dres. Heß","Dres.",NULL,"Heß","Renchener Str.1","77704","Oberkirch","DE","07802-4644","07802-50841","internisten@praxis-stadge-hess.de",NULL,"Internisten",NULL,True,"Weitere(r) Name(n): Stadge
+Kundenquellecode: M
+Roh-Datum: 2.12.22/18.12.25/9h
+internisten@praxis-stadge-hess.de
+10.5.16/20.9.17/13.11.18/4.11.19/11h30
+12.11.12/16.7.14/","excel_nosue_serie_gns_bearbeitet","174","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"227","20561","Ortenau MVZ GmbH Dr. Markus Wenz und Stephan Zähringer","Ortenau MVZ GmbH",NULL,"Dr. Markus Wenz und Stephan Zähringer","Spitalstr. 11","77736","Zell am Harmersbach","DE","07835 9989026","07835 54294","burri@otc-zell.de",NULL,"Orthopädie",NULL,True,"Roh-Datum: 23.9.20/1.12.21/10.11.22/2.8.23/10.6.24/4.7.25/10h30
+Fr.Burri
+burri@otc-zell.de
+07835 / 54292
+info@zell.mvz-ortenau.de","excel_nosue_serie_gns_bearbeitet","175","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"228","20998","Ortenau MVZ GmbH Dr. Gieser","Ortenau MVZ GmbH",NULL,"Dr. Gieser","Bahnhofstr. 10","77723","Gengenbach","DE","07803 9789309",NULL,"info@ortenau-mvz.de",NULL,NULL,NULL,True,"Roh-Datum: 10.11.22/27.7.23/10.6.24/4.7.25/
+info@ortenau-mvz.de
+venenzentrum-lahr@ortenau-mvz.de","excel_nosue_serie_gns_bearbeitet","176","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"229","20843","Dr.med. Rainer Püttbach","Dr.med.","Rainer","Püttbach","Bühlertalstr. 147","77815","Bühl","DE","07223-20618","07223-900314","praxis@puettbach.de","Herr","Allg.- Do´s 13h",NULL,True,"Kundenquellecode: XM
+Roh-Datum: 20.4.23/11.4.24/20.3.25/13h
+praxis@puettbach.de
+14.1.16/2.5.17/17.4.18/9.5.19/18.6.20/20.5.21/30.6.22/","excel_nosue_serie_gns_bearbeitet","177","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"230","20716","Dr.med. Michael Schröder","Dr.med.","Michael","Schröder","Schloßplatz 16","77933","Lahr","DE","07821-924813","07821-924830","info@frauenarzt-lahr.de",NULL,"Allgeimein",NULL,True,"Kundenquellecode: XM
+Roh-Datum: 21.2.19/14.5.20/29.7.21/30.6.22/27.7.23/8.3.24/4.7.25/
+info@frauenarzt-lahr.de
+nurDo Di+Fr´sFr.Roth
+11.12.15/1.12.16/23.3.18/
+8.3.13/16.9.14/12h","excel_nosue_serie_gns_bearbeitet","178","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"231","20904","Dr.med. Diane Frank-Ermuth","Dr.med.","Diane","Frank-Ermuth","Kaiserstr.99","77933","Lahr","DE","07821-24295","07821-24506","praxis@dr-frank-ermuth.de","Frau","Allgeimein",NULL,True,"Kundenquellecode: M
+Roh-Datum: 17.5.18/2.4.19/22.12.20/19.10.21/10.11.22/18.12.23/12.12.24/
+Praxis@dr-frank-ermuth.de","excel_nosue_serie_gns_bearbeitet","180","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"232","20937","Dr.med. Martin Wehner","Dr.med.","Martin","Wehner","Lammstr.3","77933","Lahr","DE","07821/23734","07821-5059987","info@allgemeinmedizin-lahr.de",NULL,"Allgeimein",NULL,True,"Roh-Datum: 2.8.19/22.12.20/28.11.22/18.12.23/12.12.24/15h
+info@allgemeinmedizin-lahr.de
+Mo+Do´s","excel_nosue_serie_gns_bearbeitet","181","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"233","20910","Dres. Köller",NULL,NULL,"Dres. Köller","Kreuzstr. 13","77933","Lahr","DE","07821-30044","07821-30921","nadine.koeller@orthoteam-lahr.de",NULL,"Chirurgie",NULL,True,"Weitere(r) Name(n): Gemidji
+Roh-Datum: 27.7.18/14.11.18/2.8.19/20.5.20/29.7.21/1.7.22/2.8.23/13.3.24/2.4.25/
+FasiMi´s8-16h
+Fr.Walker01709365927
+nadine.koeller@orthoteam-lahr.de","excel_nosue_serie_gns_bearbeitet","182","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"234","20932","Johannes Werz",NULL,"Johannes","Werz","Lammstr.3","77933","Lahr","DE","07821-52181","07821-956830","susanne@andull.de",NULL,"Allgeimein",NULL,True,"Kundenquellecode: M
+Roh-Datum: 2.4.19/18.6.20/29.7.21/30.6.22/27.7.23/23.8.24/4.7.25/19.11.
+Di´s8-13hFr.Moussa
+susanne@andull.de
+Fr.Moussa","excel_nosue_serie_gns_bearbeitet","183","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"235","20936","Dr.med. Hartwig Boetticher","Dr.med.","Hartwig","Boetticher","Goethestr. 7","77933","Lahr","DE","07821-24296","07821-32183","info@praxis-boetticher.de",NULL,"Privat",NULL,True,"Roh-Datum: 10.7.19/14.5.20/29.7.21/30.6.22/27.7.23/23.8.24/4.7.25/
+info@praxis-boetticher.de","excel_nosue_serie_gns_bearbeitet","184","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"237","21029","Dr.med. Nicole Ludwig","Dr.med.","Nicole","Ludwig","Hausherrenstraße 40","78315","Radolfzell","DE","07732 941402",NULL,"info@dr-nicole-ludwig.de","Frau","ganzheitl.Medizin",NULL,True,"Roh-Datum: 14.11.25/9h
+info@dr-nicole-ludwig.de","excel_nosue_serie_gns_bearbeitet","186","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"238","20906","Dres.med. Vetter","Dres.med.",NULL,"Vetter","Böhringer Str. 50","78315","Radolfzell","DE","07732-9507514","07732-9507510","info@sportortho-radolfzell.de",NULL,"Orthopäde",NULL,True,"Weitere(r) Name(n): Pischel
+Kundenquellecode: X
+Roh-Datum: 24.3.17/27.4.18/28.2.19/9.4.20/24.3.21/30.3.22/31.3.23/19.3.24/28.4.25/12h
+info@sportortho-radolfzell.de
+28.11.11/15.11.13/15.4.15/11.3.16/13h
+Fr.Boisson-14","excel_nosue_serie_gns_bearbeitet","187","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"239","20508","Dres.med. Ritter","Dres.med.",NULL,"Ritter","Winterspürerstr. 11","78333","Stockach","DE","07771-2647/2598","07771-920114","info@internisten-stockach.de",NULL,"Internisten",NULL,True,"Weitere(r) Name(n): Gaschler
+Kundenquellecode: X
+Roh-Datum: 20.10.17/11.10.18/11.11.19/30.10.20/20.12.21/7.11.22/26.10.23/14.11.24/13h
+13.11.15/17.11.16/12h
+Fr.Hirling
+3.6.13/15.7.14/12.30h
+6.7.11/15.6.12
+17.7.07/8.7.08/30.7.09/23.9.10/
+info@internisten-stockach.de","excel_nosue_serie_gns_bearbeitet","188","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"240","20555","Dr.med. Krabbe","Dr.med.",NULL,"Krabbe","Hauptstr. 23","78333","Stockach","DE","07771-8759994","07771 3020","praxis-krabbe-burth@web.de",NULL,"Internisten",NULL,True,"Weitere(r) Name(n): Burth
+Kundenquellecode: X
+Roh-Datum: 28.1.19/28.8.20/20.12.21/22.8.22/12.10.23/14.11.24/9h
+praxis-krabbe-burth@web.de
+15.4.15/10.3.16/24.3.17/27.4.18/9h
+3.6.13/7.5.14/15-18h
+/30.7.09/23.9.10/6.7.11/27.3.12
+8.10.07/8.7.08
+07771-3029
+Fr.Krause","excel_nosue_serie_gns_bearbeitet","189","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"241","20669","Dres.med. Fritzsche","Dres.med.",NULL,"Fritzsche","Goethestr. 17","78333","Stockach","DE","07771-62525","07771-62524",NULL,NULL,"Dermatologe/Allg.",NULL,True,"Kundenquellecode: X
+Roh-Datum: 28.1.19/29.10.20/30.3.22/11.10.23/14.11.24/
+29.1.16/20.10.17/9h
+14.10.13/21.10.14/9h
+Fr.Harich
+17.12.10/22.2.12","excel_nosue_serie_gns_bearbeitet","190","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"242","20875","Dr.med. Stefan Wild","Dr.med.","Stefan","Wild","Schillerstr. 4","78333","Stockach","DE","07771-2000","07771 2002","praxis.ludwig-wild@gmx.de",NULL,"Allgeimein",NULL,True,"Roh-Datum: 24.3.17/27.4.18/28.1.19/14.7.20/30.3.22/11.10.23/28.4.25/9h
+praxis.ludwig-wild@gmx.de","excel_nosue_serie_gns_bearbeitet","191","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"243","20864","Dr.med. Brigitte Marti-Kostial","Dr.med.","Brigitte","Marti-Kostial","Stifterstr.2a","78467","Konstanz","DE","07531/927323","07531/927324","marti-kostial-praxis@web.de",NULL,"Frauenärztin",NULL,True,"Roh-Datum: 18.11.16/28.1.19/14.7.20/22.10.21/7.11.22/12.10.23/14.11.24/730h
+marti-kostial-praxis@web.de","excel_nosue_serie_gns_bearbeitet","192","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"244","20900","Dr. med. Stephan Potzler","Dr. med.","Stephan","Potzler","Konrad-Goldmann-Str. 5c","79100","Freiburg","DE","0761-2023244","0761-2025828","stephan.potzler@proktologiepotzler.de","Herr","Proktol.Privatpr",NULL,True,"Roh-Datum: 23.3.18/21.2.19/5.3.20/8.2.21/18.3.22/8.3.23/15.3.24/13.3.25/13h
+Selbstbetreuer
+stephan.potzler@proktologiepotzler.de
+info@proktologiepotzler.de","excel_nosue_serie_gns_bearbeitet","193","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"245","20758","Dr. med. Heike Lenzer","Dr. med.","Heike","Lenzer","Schützenallee 42","79102","Freiburg","DE","0761-73288","0761-7071399",NULL,"Frau","Allg.",NULL,True,"Roh-Datum: 5.3.20/17.3.22/14.3.24/
+20.6.13/21.5.14/12.5.15/10.5.16/30.7.18/11.50h
+2jährlich","excel_nosue_serie_gns_bearbeitet","194","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"246","20759","Dr. med. Nicole Zeller","Dr. med.","Nicole","Zeller","Schützenallee 44a","79102","Freiburg","DE","0761-25561","0761-1376229","praxis-zeller.dorn@gmx.de",NULL,"Kinder",NULL,True,"Weitere(r) Name(n): Dorn
+Roh-Datum: 20.2.19/6.3.20/8.2.21/17.3.22/8.3.23/14.3.24/13.3.BGV25/11h
+20.6.13/12.5.15/10.5.16/30.5.17/23.3.18/
+Praxis-zeller.dorn@gmx.de","excel_nosue_serie_gns_bearbeitet","195","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"247","21001","Drs. med. Prof. Dr. med. Stachon, Prof. Dr. med. Vaith, Prof. Dr. med. Kreisel","Drs. med.",NULL,"Prof. Dr. med. Stachon, Prof. Dr. med. Vaith, Prof. Dr. med. Kreisel","Sandstr. 20","79104","Freiburg","DE","0761/53833","0761/53831","praxisteam@praxis-sandstrasse.de",NULL,"Innere Medizin, FA",NULL,True,"Kundenquellecode: X
+Roh-Datum: 15.11.17/14.11.18/23.10.19/4.11.20BGV/28.10.21/30.11.22/25.10.23/5.11.24BGV/19.11.25/9h
+10.11.14/16.11.15/21.11.16/9h
+30.7.10/15.11.11
+Fr.Schährenbach
+30.9.08/17.11.09
+12.11.12/18.11.13/9h
+praxisteam@praxis-sandstrasse.de","excel_nosue_serie_gns_bearbeitet","196","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"248","20603","Drs. med. Schindler","Drs. med.",NULL,"Schindler","Zeppelinstr. 37","79206","Breisach","DE","76671024","766780805","kontakt@urologie-breisach.de","Herr","Urologe",NULL,True,"Weitere(r) Name(n): Rosenstiel
+Kundenquellecode: X
+Roh-Datum: 27.7.18/22.2.19/5.3.20/8.2.21/18.3.22/9.3.23/14.3.24/8.8.25/12h
+kontakt@urologie-breisach.de
+13.3.13/27.3.14/ab8h
+30.9.08/18.12.09/30.7.10/24.1.12/
+15.7.15/10.5.16/30.5.17BGV","excel_nosue_serie_gns_bearbeitet","197","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"249","20690","Dr. med. Tobias Heller","Dr. med.","Tobias","Heller","Marie-Curie-Str. 1","79211","Denzlingen","DE","07666-1600",NULL,"praxis.heller@web.de","Herr","HNO, BGV26",NULL,True,"Roh-Datum: 16.9.24/früh2026
+praxis.heller@web.de
+Umzug in 9.25
+meldet sich","excel_nosue_serie_gns_bearbeitet","198","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"251","20879","Dr. med. Gabriele Gutmann","Dr. med.","Gabriele","Gutmann","Industriestr. 1b","79232","March-Hugstetten","DE","07665-1702","07665-95050","praxis.gutmann@online.de","Frau","Allgemeinmedizinerin",NULL,True,"Roh-Datum: 30.5.17/11.7.19/28.10.21/17.8.23/3.7.25/1030h
+2jährlich
+praxis.gutmann@online.de","excel_nosue_serie_gns_bearbeitet","200","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"252","20782","Dr. med. Peter Ardelt","Dr. med.","Peter","Ardelt","Wasen 51","79244","Münstertal","DE","07636-403","07636-578","info@aerzte-im-tal.de","Herr","Allgemeinmedizinerin",NULL,True,"Roh-Datum: 23.10.19/5.11.20/19.10.21/1.9.22/17.8.23/5.11.24/2.7.25/14h
+21.11.16/15.11.17/12.11.18/12-15h
+Fr.Heizmann
+18.11.13/7.11.14/18.11.15
+info@aerzte-im-tal.de
+peter.ardelt@yahoo.de","excel_nosue_serie_gns_bearbeitet","201","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"253","20698","Dr. med. Gerhard Jäckh","Dr. med.","Gerhard","Jäckh","Werderstr. 47","79379","Müllheim","DE","07631-2425","07631-16921","info@vincent-praxis.de","Herr","Allg.",NULL,True,"Roh-Datum: 1.12.16/15.11.17/15.11.18/25.10.19/3.11.20/28.10.21/1.12.22/13.3.24/3.7.25/
+24.4.13/17.7.14/18.11.15/
+MI´s NIE
+info@vincent-praxis.de","excel_nosue_serie_gns_bearbeitet","202","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"254","20605","Dr. med. Barbara Haag-Wildi","Dr. med.","Barbara","Haag-Wildi","Werderstr. 47","79379","Müllheim","DE","07631-13553","07631-740333","info@haag-wildi.de","Frau","Allgemeinmediziner",NULL,True,"Kundenquellecode: X
+Roh-Datum: 1.12.16/15.11.17/15.11.18/25.10.19/3.11.20/28.10.21/2.9.22/18.8.23/18.2.25/14h
+info@haag-wildi.de
+18.12.09/27.1.11/18.9.12/23.4.13/
+haag-wildi-diabetesmuellheim@gmx.de
+18.07.14/18.11.15/11h","excel_nosue_serie_gns_bearbeitet","203","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"256","20738","Jens Zöllin",NULL,"Jens","Zöllin","Danziger Str. 6","79576","Weil am Rhein","DE","07621-71676","07621-799953","info@hausarztpraxis-zoellin.de",NULL,"Innere Medizin, FÄ",NULL,True,"Kundenquellecode: M
+Roh-Datum: 16.11.17/9.11.18/25.10.19/5.11.20/28.10.21/1.9.22/4.5.23/18.4.24/18.2.25/18.2.25/1530
+Fr.Walter Do´sNami
+info@hausarztpraxis-zoellin.de
+23.4.13/3.3.15/15h
+18.11.15/27.10.16/","excel_nosue_serie_gns_bearbeitet","206","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"257","20913","MVZ Rheinfelden Dr.med. Bojti","MVZ","Rheinfelden","Dr.med. Bojti","Kapuzinerstr. 4","79618","Rheinfelden","DE","07623-1283","07623-20455","praxisdrbojti@gmail.com","Herr","-1410",NULL,True,"Roh-Datum: 17.1.22/4.5.23/18.4.24/18.2.25/
+praxisdrbojti@gmail.com
+4.10.18/9.11.18/18.2.19/12.4.19/23.3.21/
+info@mvz-rheinfelden.de","excel_nosue_serie_gns_bearbeitet","207","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"258","20541","Dres.med. Boettcher","Dres.med.",NULL,"Boettcher","Hauptstr.7","79737","Rickenbach","DE","07765-91001","07765-91003","rickenbach@boettcheronline.de","Herr","Allgemeinärzte",NULL,True,"Weitere(r) Name(n): Höller
+Kundenquellecode: X
+Roh-Datum: 12.4.19/19.2.20/14.1.22/5.5.23/2.7.25/11h
+Fr.Neuhaus,Fr´s,Mi´s
+rickenbach@boettcheronline.de
+28.10.16/18.10.17/
+3.7.12/11.6.13/4.11.14/17.11.15
+17.7.07/12.6.0828.7.09/28.7.11","excel_nosue_serie_gns_bearbeitet","208","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"260","20518","Dr.med. Ingrid","Dr.med.","Ingrid",NULL,"Im Wallgraben 48","79761","Waldshut-Tiengen","DE","07751-1515","07751-6886","praxis-drburkhard@web.de","Herr","Frauenärztin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 19.10.17/4.10.18/17.2.20/23.3.21/6.4.22/2.5.23/17.2.25/11h
+17.11.09/23.9.10/28.7.11/3.7.12/11.6.13/4.11.14/17.11.15/28.10.16/
+praxis-drburkhard@web.de
+Fr. Amann
+hört2025 auf","excel_nosue_serie_gns_bearbeitet","210","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"261","20582","Dr.med. Eva Wolf","Dr.med.","Eva","Wolf","Rheinstr. 31","79761","Waldshut-Tiengen","DE","77513300","77517122","praxis.wolf@web.de","Frau","Allgemeinmedizin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 19.10.17/18.2.19/17.2.20/23.3.21/5.4.22/Url-1.9.23/15.4.24/17.2.25/10h
+17.11.09/23.9.10/28.7.11/3.7.12/11.6.13/4.11.14/17.11.15/28.10.16/
+praxis.wolf@web.de","excel_nosue_serie_gns_bearbeitet","211","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"262","20869","Dr.med. Horst Umbach","Dr.med.","Horst","Umbach","Hauptstr.12","79761","Waldshut-Tiengen","DE","07741-2082","07741-672546","umbach.med@gmail.com","Herr","Allgemeinmedizin",NULL,True,"Roh-Datum: 12.12.16/4.10.18/11.4.19/17.2.20/23.3.21/6.4.22/2.5.23/15.4.24/17.2.25/8h
+Vormi´s ab 7h15
+umbach.med@gmail.com","excel_nosue_serie_gns_bearbeitet","212","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"263","20863","Dr.med. Oliver Wiehn","Dr.med.","Oliver","Wiehn","Kaiserstr. 25","79761","Waldshut-Tiengen","DE","07751-3183","07751-700168","praxis@frauenarzt-wiehn.de","Herr","Gyn",NULL,True,"Roh-Datum: 28.10.16/2.10.18/17.2.20/23.3.21/5.4.22/2.5.23/15.4.24/17.2.25/12h30
+praxis@frauenarzt-wiehn.de","excel_nosue_serie_gns_bearbeitet","213","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"264","20889","Dr.med. Birgit Steiner","Dr.med.","Birgit","Steiner","Hauptstr.42","79787","Lauchringen","DE","07741-9657200","07741-9657201","praxis-drsteiner@hotmail.com","Frau","Gyn",NULL,True,"Kundenquellecode: X
+Roh-Datum: 19.10.17/2.10.18/18.2.20/17.3.21/5.4.22/3.5.23/15.4.24/17.2.25/9h
+praxis-drsteiner@hotmail.com
+Fr.Schaaf","excel_nosue_serie_gns_bearbeitet","214","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"265","20963","Dr.med. Kouris Ninios","Dr.med.","Kouris","Ninios","Hauptstr.42","79787","Lauchringen","DE","07741-807143","07741-684905","info@augenarzt-ninios.de","Herr","Augen",NULL,True,"Roh-Datum: 24.9.20/5.4.22/8h
+2jährlich
+info@augenarzt-ninios.de
+07741-63322
+Mo´s nie
+Fr.Walther","excel_nosue_serie_gns_bearbeitet","215","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"266","20781","Dr.med. Carolin Schütz","Dr.med.","Carolin","Schütz","Jägerstr. 2","79822","Titisee-Neustadt","DE","07651-8677","07651-8579","titidoc@gmx.de","Frau","Allgemein",NULL,True,"Roh-Datum: 5.10.18BGV/25.10.19/25.9.20/17.3.22/31.3.23/19.4.24/14hmeldet sich!
+titidoc@gmx.de
+3.7.12/18.11.13/16.11.15/21.11.16/19.10.17
+kein Bedarf
+info@praxis-titisee.de","excel_nosue_serie_gns_bearbeitet","217","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"267","20406","Drs.med. Bohn","Drs.med.",NULL,"Bohn","Sandöschstr. 1","88045","Friedrichshafen","DE","754133733","754133734","info@gco-friedrichshafen.de",NULL,"Chirurgen",NULL,True,"Weitere(r) Name(n): Gerigk
+Kundenquellecode: X
+Roh-Datum: 7.12.20/21.10.21/23.8.22/24.7.23/21.3.24/25.4.25/
+2.12.16/15.12.17/10.10.18/11.11.19/
+24.11.08/19.11.09/22.9.10/28.11.11/13.11.12/18.12.13/10.12.14/7.12.15
+7.12.05/24.11.06/9.10.07
+info@gco-friedrichshafen.de","excel_nosue_serie_gns_bearbeitet","218","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"268","20790","Dr.med. Bernhard Spahn","Dr.med.","Bernhard","Spahn","Charlottenstr. 15","88045","Friedrichshafen","DE","07541-22111","07541-35454","b.b.spahn@t-online.de",NULL,"HNO",NULL,True,"Kundenquellecode: X
+Roh-Datum: 13.7.16/15.12.17/7.12.18/12.11.19/7.12.20/4.11.22/11.12.23/9.12.24/10h
+nie Do´sAuftr.150,-inkl
+19.2.14/16.4.15/13.7.16/
+b.b.spahn@t-online.de","excel_nosue_serie_gns_bearbeitet","219","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"269","20407","Dr.med. Angela Schubert","Dr.med.","Angela","Schubert","Ehlersstr. 17","88046","Friedrichshafen","DE","754173360","754133934","praxis@frauenheilkunde-friedrichshafen.de","Frau","Frauenärztin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 10.10.18/12.11.19/7.12.20/21.10.21/3.11.22/26.10.23/9.12.24/13h
+10.12.14/7.12.15/2.12.16/15.12.17/
+13.11.12/18.12.13/
+24.11.08/19.11.09/4.11.10/28.11.11
+24.11.06/9.10.07
+praxis@frauenheilkunde-friedrichshafen.de","excel_nosue_serie_gns_bearbeitet","220","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"270","20412","Dres.med. Neusser","Dres.med.",NULL,"Neusser","Möttelistr. 5","88045","Friedrichshafen","DE","07541-953830","07541-9538319",NULL,NULL,NULL,NULL,True,"Weitere(r) Name(n): Saad
+Kundenquellecode: X
+Roh-Datum: 9.3.16/22.3.17/7.3.18/7.3.19/16.4.20/18.3.21/31.3.22/29.3.23/21.3.24/24.4.25/
+11.3.13/19.2.14/16.4.15
+29.1.09/25.2.10/1.2.11/24.1.12
+24.5.07/26.2.08
+Fr.Weber
+Server+Telanl.)2jährl","excel_nosue_serie_gns_bearbeitet","221","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"271","20954","Physio Jutta Diesch","Physio","Jutta","Diesch","Möttelistr. 5","88045","Friedrichshafen","DE","07541 35152","07541-378757","info@physio-fn.de","Frau",NULL,NULL,True,"Roh-Datum: 17.4.20/18.3.21/31.3.22/29.3.23/18.3.24/24.4.25/
+info@physio-fn.de
+DGUV24","excel_nosue_serie_gns_bearbeitet","222","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"272","20953","Bodensee-Sportklinik",NULL,NULL,"Bodensee-Sportklinik","Möttelistr. 3","88045","Friedrichshafen","DE","07541 95383164","07541/ 95 383 19","info@bodenseesportklinik.de",NULL,"Orthopä OP-160",NULL,True,"Roh-Datum: 16.4.20/18.3.21/1.4.22/30.3.23/22.3.24/23.4.25/
+info@bodenseesportklinik.de
+Hr. Hempel Mi´s
+op-leitung@bodenseesportklinik.de","excel_nosue_serie_gns_bearbeitet","223","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"273","20718","Dr.med. Ingo Exner","Dr.med.","Ingo","Exner","Emil-Münch-Str. 16","88069","Tettnang","DE","07542-8905","07542-939111","hno-zentrum-tettnang@web.de","Herr","HNO",NULL,True,"Kundenquellecode: AG
+Roh-Datum: 8.3.19/15.4.20/19.3.21/30.3.22/29.3.23/18.3.24/22.4.25/9h
+Fr.Hillebrand
+16.4.15/14.7.16/17.7.17/11.OKT18
+22.2.12/11.3.13/19.5.14/8h
+hno-zentrum-tettnang@web.de","excel_nosue_serie_gns_bearbeitet","224","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"274","20760","Dr.med. Wolfgang M. Kieninger","Dr.med.","Wolfgang M.","Kieninger","Marienstr. 30","88074","Meckenbeuren","DE","07542-3711","07542-22144","dr.kieninger@web.de","Herr","Kinder",NULL,True,"Roh-Datum: 16.7.13/8.5.14/26.10.23/22.4.25/
+Dr.Kieninger@web.de","excel_nosue_serie_gns_bearbeitet","225","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"275","20386","Dr. Kiefer",NULL,NULL,"Dr. Kiefer","Hemigkofener Str. 10","88079","Kressbronn","DE","754350809","07543-54673","info@rheumapraxis-kressbronn.de","Herr","Internist",NULL,True,"Kundenquellecode: X
+Roh-Datum: 12.11.19/7.12.20/22.10.21/22.8.22/24.7.23/20.3.24/23.4.25/13h
+2.12.16/27.11.17/7.12.18/15h
+10.12.14/7.12.15/15h
+info@rheumapraxis-kressbronn.de
+22.9.10/28.11.11/13.11.12/14.10.13/
+23.11.06/8.10.07/9.9.08/10.9.09","excel_nosue_serie_gns_bearbeitet","226","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"276","20794","Oliver Dr. Baumiller",NULL,"Oliver","Dr. Baumiller","Kirchweg 4","88094","Oberteuringen","DE","07546-1227","07546/5515","praxis.baumiller@magenta.de","Herr",NULL,NULL,True,"Kundenquellecode: M
+Roh-Datum: 22.8.22/19.3.24/
+10.3.14/10.3.16/8.3.18/8.4.20/
+2jährl_PatMo_LZRR
+praxis.baumiller@magenta.de","excel_nosue_serie_gns_bearbeitet","227","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"277","20454","Dr.med. Clemens Wanner","Dr.med.","Clemens","Wanner","Friedrich-Schiller-Str. 20","88214","Ravensburg","DE","75123750","75117286","mail@kinderarzt-wanner.de","Herr","Kinderarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 18.6.15/17.7.17/13.3.19/BGV24.3.21/29.3.23/4.4.25/9h
+6.7.11/12.7.13/
+2jährlichVertr.
+mail@kinderarzt-wanner.de
+Mi.ab14.00
+18.7.07/11.06.08/28.1.09/24.2.10/","excel_nosue_serie_gns_bearbeitet","228","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"278","20972","Svenja Förster",NULL,"Svenja","Förster","Fasanenweg","88339","Bad Waldsee","DE","+49 174 722 2292",NULL,"hebamme-foerster@t-online.de","Frau","Hebamme",NULL,True,"Roh-Datum: 21.10.20/11h
+hebamme-foerster@t-online.de","excel_nosue_serie_gns_bearbeitet","230","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"279","20968","Lucia Weiland-Laubheimer",NULL,"Lucia","Weiland-Laubheimer","Am Tiergarten 12","88339","Bad Waldsee","DE","0162-5272207",NULL,NULL,"Frau","Hebamme",NULL,True,"Roh-Datum: 21.10.20/11h
+07524-9909501","excel_nosue_serie_gns_bearbeitet","231","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"280","20970","Andrea Rotzler",NULL,"Andrea","Rotzler","Zur Dorfschule 2","88299","Leutkirch","DE","07561-988155",NULL,NULL,"Frau","Hebamme",NULL,True,"Roh-Datum: 21.10.20/11h","excel_nosue_serie_gns_bearbeitet","232","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"281","20967","Christina Lieser",NULL,"Christina","Lieser","Max-Eyth-Str. 7","88353","Kisslegg","DE","01577-5720966",NULL,"lieserchris@gmail.com","Frau","Hebamme",NULL,True,"Roh-Datum: 21.10.20/11h
+LieserChris@gmail.com","excel_nosue_serie_gns_bearbeitet","233","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"282","20969","Margaretha Angele",NULL,"Margaretha","Angele","Menisrain 1","88436","Eberhardzell","DE","07355-917350",NULL,"margaretha.angele@gmx.de","Frau","Hebamme",NULL,True,"Roh-Datum: 21.10.20/11h
+margaretha.angele@gmx.de","excel_nosue_serie_gns_bearbeitet","234","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"283","20971","Edeltraud Kirsner",NULL,"Edeltraud","Kirsner","Am Engelberg 2","88239","Wangen","DE","07522-20789",NULL,NULL,"Frau","Hebamme",NULL,True,"Roh-Datum: 21.10.20/11h","excel_nosue_serie_gns_bearbeitet","235","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"284","20966","Angelika Möbus",NULL,"Angelika","Möbus","Hochgratstr. 39","88145","Maria-Thann","DE","08385-921622","Anf.DEZ","info@angelika-moebus.de","Frau","Hebamme",NULL,True,"Roh-Datum: 21.10.20/30.10.25
+info@angelika-moebus.de","excel_nosue_serie_gns_bearbeitet","236","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"285","21002","Christiane Lenzen",NULL,"Christiane","Lenzen","Am Waltersbühl 12","88239","Wangen","DE","07522-80016","07522/28634","physio-team@christiane-lenzen.de",NULL,"KG",NULL,True,"Roh-Datum: 9.12.22/8.12.23/4.12.24/
+physio-team@christiane-lenzen.de
+christianelenzen@web.de","excel_nosue_serie_gns_bearbeitet","237","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"286","20507","Dr.med. Heinrich Baldenhofer","Dr.med.","Heinrich","Baldenhofer","Hölderlinweg 9","88239","Wangen","DE",NULL,"07522-22302",NULL,"Herr","Physik u Rehab. Medizin, FA",NULL,True,"Roh-Datum: 29.11.17/4.12.18/18.9.19/21.9.20/8.12.21/7.12.22/13.12.23/4.12.24/14h
+15.11.12/4.9.13/9.12.14/21.10.15/14.12.16/
+23.11.06/09.10.07
+12.10.10/7.10.11
+8.9.08/19.11.09","excel_nosue_serie_gns_bearbeitet","238","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"287","20648","Dr.med. Christian Weippert","Dr.med.","Christian","Weippert","Siemensstr. 12","88239","Wangen","DE","75227729448","75227971120","ch.weippert@lungenarzt-wangen.de","Herr","Internistin/Lungenärztin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 25.10.BGV17/5.12.18/3.12.19/2.12.20/8.12.21/7.12.22/13.12.23/4.12.24/12h
+Mi´s12-14
+ch.weippert@lungenarzt-wangen.de
+19.11.09/13.10.10/5.10.11/24.8.12/2.9.13/
+9.12.14/21.10.15/14.12.16/","excel_nosue_serie_gns_bearbeitet","239","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"288","20770","Dres.med. Eisele","Dres.med.",NULL,"Eisele","Siemensstr. 12","88239","Wangen","DE","07522-7075770","07522 707577-20","info@rzwl.de",NULL,"Radiologen",NULL,True,"Weitere(r) Name(n): Labouvie
+Kundenquellecode: X
+Roh-Datum: 10.12.21BGV/9.12.22/7.12.23/4.12.24/
+14.12.16/25.10.17/18.9.18/20.9.19BGV/22.10.20/
+23.9.15/14.12.16/11.30h
+Fr.Dolle
+2.9.13/14.10.14/
+Info@rzwl.de","excel_nosue_serie_gns_bearbeitet","240","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"289","20905","Jutta Strittmatter",NULL,"Jutta","Strittmatter","Schmiedstr. 8","88239","Wangen","DE","07522-9155647","07522-9164899","info@ergo-wangen.de","Frau","Ergotherapie",NULL,True,"Kundenquellecode: X
+Roh-Datum: 26.4.18/22.10.20/7.12.22/4.12.24/8.30h
+info@ergo-wangen.de
+2jährl.","excel_nosue_serie_gns_bearbeitet","241","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"290","20679","Dres.med. Hansen","Dres.med.",NULL,"Hansen","Broner Platz 6","88250","Weingarten","DE","75144094","751556292","hansen-dangel@gmx.net",NULL,"Kinderärzte",NULL,True,"Weitere(r) Name(n): Dangel
+Kundenquellecode: X
+Roh-Datum: 25.10.17/17.9BGV19/14.12.21/5.12.23/ohne BGV
+4.5.11/12.7.13/2.12.15
+2jährl.
+hansen-dangel@gmx.net","excel_nosue_serie_gns_bearbeitet","242","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"291","20890","Dres.med. Decker","Dres.med.",NULL,"Decker","Ravensburger Str. 35","88250","Weingarten","DE","0751-45055","0751-45056","kinderaerztinnen.weingarten@gmail.com",NULL,"Kinderärzte",NULL,True,"Weitere(r) Name(n): Münsch
+Kundenquellecode: X
+Roh-Datum: 27.10.17/17.9.19/14.12.21/5.12.23/10h
+Vertrag,  Amt
+2jährl.
+kinderaerztinnen.weingarten@gmail.com","excel_nosue_serie_gns_bearbeitet","243","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"292","20615","Dres.med. Schuler-Kuon","Dres.med.",NULL,"Schuler-Kuon","Ottmannshofer Str. 44","88299","Leutkirch","DE","07561-6444","75617322","urologie-leutkirch@gmx.de","07561-9812680","Ärzte",NULL,True,"Weitere(r) Name(n): Milz
+Kundenquellecode: X
+Roh-Datum: 13.12.17/5.12.18/5.12.19/3.12.20BGV/9.12.21/8.12.22/7.12.23/5.12.24/13h
+urologie-leutkirch@gmx.de
+25.11.08/18.11.09/12.10.10/4.10.11/21.8.12/3.9.13/10h
+14.10.14/24.9.15/15.12.16/
+Fr.Graf","excel_nosue_serie_gns_bearbeitet","244","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"293","20614","Dres.med. Baur","Dres.med.",NULL,"Baur","Ottmannshofer Str. 44","88299","Leutkirch","DE","07561-6005","756170002","info@frauenaerzte-leutkirch.de",NULL,"Frauenärzte",NULL,True,"Weitere(r) Name(n): Schwab
+Kundenquellecode: X
+Roh-Datum: 27.11.17/17.9.18/16.9.19/23.10.20/6.12.21/5.12.22/7.12.23/5.12.24/8h
+21.8.12/3.9.13/14.10.14/24.9.15/12.12.16/
+13.10.10/4.10.11
+25.11.08/18.11.09
+info@frauenaerzte-leutkirch.de","excel_nosue_serie_gns_bearbeitet","245","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"294","20519","Dr.med. Michael Walther","Dr.med.","Michael","Walther","Untere Grabenstr. 10","88299","Leutkirch","DE","75617977","75612166","bwalther67@gmail.com","Herr","Allgemeinarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 13.12.16/28.11.17/18.9.18/19.9.19/20.10.20/7.12.21/6.12.22/14.12.23/5.12.24/
+9.12.14/20.10.15/
+12.10.10/21.8.12/21.8.12/19.12.13/17h
+22.4.08/31.3.09
+bwalther67@gmail.com","excel_nosue_serie_gns_bearbeitet","246","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"295","20576","Dr.med. Sebastian Foerster","Dr.med.","Sebastian","Foerster","Untere Grabenstr. 11","88299","Leutkirch","DE","07561-7760","07561-912291",NULL,"Herr","Allgemeinarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 26.10.17/18.9.18/19.9.19/2.12.20/6.12.21/6.12.22/14.12.23/5.12.24/10h
+21.10.15/14.12.16/10h
+4.10.11/22.8.12/13.3.14/
+31.3.09/28.4.10
+14.2.07/22.4.08","excel_nosue_serie_gns_bearbeitet","247","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"296","20838","Dipl.-Med. Karin Suhayda","Dipl.-Med.","Karin","Suhayda","Wangener Str. 12/ 1","88299","Leutkirch","DE","07561-2657","07561-912276","suhaydakarin@yahoo.de",NULL,"Kinder",NULL,True,"Roh-Datum: 27.10.17/18.9.18/19.9.19/20.10.20/7.12.21/6.12.22/6.12.23/6.12.24/11h
+FASI  2020
+24.9.15/14.12.16/
+suhaydakarin@yahoo.de","excel_nosue_serie_gns_bearbeitet","248","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"297","20771","Drs .med. Michael Peter","Drs .med.","Michael","Peter","Maierhöfner Str. 56","88316","Isny","DE","07562-9816588","07561-72283",NULL,NULL,"Urologe",NULL,True,"Weitere(r) Name(n): Hecker
+Roh-Datum: 13.12.17/5.12.18/5.12.19/3.12.20/9.12.21/8.12.22/7.12.23/5.12.24/11h30
+4.9.13/15.10.14/21.10.15/15.12.16/
+Fr.Utz:0152-56948901
+peter:01714170624","excel_nosue_serie_gns_bearbeitet","249","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"298","20384","Hausärzte am Wassertor","Hausärzte","am","Wassertor","Wassertorstr. 51","88316","Isny","DE","75622324","07562-56039","info@hausaerzte-am-wassertor.de","Herr","Allgemeinarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 13.12.17/4.12.18/4.12.19/2.12.20/7.12.21/8.12.22/4.12.23/2.12.24/15h
+mit Steckdos24
+info@hausaerzte-am-wassertor.de
+12.12.06/8.11.07/10.9.08/9.9.09/13.10.10/6.10.11
+2324Tel
+Fr.Hilber
+22.8.12/4.9.13/15.10.14/23.9.15/13.12.16/","excel_nosue_serie_gns_bearbeitet","250","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"299","20870","Dorothea Kolwe",NULL,"Dorothea","Kolwe","Wassertorstr. 49","88316","Isny","DE","07562-4571","07562-912045","doro.kolwe@web.de",NULL,NULL,NULL,True,"Roh-Datum: 4.12.20/6.12.21,14h/6.12.22/6.12.23/2.12.24/1230
+15.12.16/26.10.17/6.12.18/4.12.19/14h
+doro.kolwe@web.de","excel_nosue_serie_gns_bearbeitet","251","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"300","20385","Dr.med. Angelika Groß","Dr.med.","Angelika","Groß","Waldburgallee 1","88316","Isny-Neutrauchburg","DE","756293131","756293140","praxisdr.angelikagross@t-online.de","Frau","Allgemeinärztin",NULL,True,"Roh-Datum: 2.12.19/3.12.20/6.12.21/5.12.22/5.12.23/2.12.24/10h
+praxisdr.angelikagross@t-online.de
+14.10.10/6.10.11/15.11.12/19.12.13/15.10.14/21.10.15/15.12.16/26.10.17/6.12.18/8h
+23.11.06/9.10.07/8.9.08/10.9.09","excel_nosue_serie_gns_bearbeitet","252","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"301","20374","Dr.med. Gisela Rothermel","Dr.med.","Gisela","Rothermel","Rossmarkt 9","88316","Isny","DE","75621551","7562912153","kontakt@dr-rothermel.de","Frau","Allgemeinärztin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 3.12.20/10.12.21/5.12.22/11.12.23/2.12.24/hort auf
+kontakt@dr-rothermel.de
+15.12.16/14.12.17/6.12.18/5.12.19/
+15.11.12/19.12.13/9.12.14/7.12.15/14h
+25.11.08/17.12.09/14.10.10/6.10.11
+5.10.05/23.11.06/9.10.07","excel_nosue_serie_gns_bearbeitet","254","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"302","20837","M.Sochor",NULL,NULL,"M.Sochor","Wassertorstr. 16","88316","Isny","DE","07562-2007","07562-8409","info@gyn-isny.de",NULL,"Gyn, BGV2024",NULL,True,"Weitere(r) Name(n): P.Duchoslav
+Roh-Datum: 23.9.15/28.11.17/6.12.18/4.12.19/1.12.20/9.12.21/5.12.22/12.12.23/6.12.24/8hEcheck25
+info@gyn-isny.de","excel_nosue_serie_gns_bearbeitet","255","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"304","20429","Dr.med. Anke Seitz","Dr.med.","Anke","Seitz","Werderstr. 3","88348","Bad Saulgau","DE","07581-5370490","07581-5370492","info@kinderaerzte-badsaulgau.de","Herr","Kinderärztin",NULL,True,"Roh-Datum: 24.1.19/11.5.20/24.3.22/14.7.23/5.7.24/
+3.5.11/22.2.12/10.9.13/13.3.14/6.5.15/6.4.16
+28.1.09/26.4.10
+info@kinderaerzte-badsaulgau.de","excel_nosue_serie_gns_bearbeitet","258","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"305","20903","Dr.med. Ulrike Huss","Dr.med.","Ulrike","Huss","Marktplatz 3","88348","Bad Saulgau","DE","07581-4873871","07581-4873873","kids-doc@web.de","Herr","Kinderärztin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 10.4.18/24.1.19/11.5.20/5.5.21/13.7.23/5.7.24/5.7.24/8h
+3.5.11/22.3.12/13.3.13/25.2.14/6.5.15/6.4.16
+9.2.07/27.2.08/28.1.09/26.4.10
+BGV_2025
+2jährl.
+kids-doc@web.de","excel_nosue_serie_gns_bearbeitet","259","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"306","20479","Helmut Sachs",NULL,"Helmut","Sachs","Hindenburgstr. 34","88361","Altshausen","DE","7584444","75841852","helmutsachs@gmx.de","Herr","Allgemeinarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 14.9.16/29.11.17/10.10.18/17.9.19/30.11.20/24.3.22/13.7.23/26.3.24/4.4.25/11h
+helmutsachs@gmx.de
+16.4.12/14.5.13/13.3.14/
+26.4.10/30.5.11
+12.7.06/11.10.07/12.6.08/31.7.09","excel_nosue_serie_gns_bearbeitet","260","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"307","20680","Dr.med. Thalhammer","Dr.med.",NULL,"Thalhammer","Zeppelinring 7","88400","Biberach","DE","73511800120","73511800130","neurologie@aerztehaus-bc.de","Herr","Nervenarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 1.6.15/5.4.16/10.4.17/11.4.18/17.4.19/2.3.20/3.5.21/21.3.23/17.7.24/2026
+neurologie@aerztehaus-bc.de
+30.5.11/16.4.12/15.5.13/7.7.14/15h
+BGV abgelehnt
+29.4.09/29.4.10","excel_nosue_serie_gns_bearbeitet","261","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"308","20443","Dr.med. Boris Pflanzagl","Dr.med.","Boris","Pflanzagl","Breiteweg 9","88410","Bad Wurzach","DE","756493220","7564932215","praxispflanzagl@gmx.de","Herr","Allgemeinarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 23.4.15/5.4.16/11.4.17/26.4.18/16.4.19/12.5.20/4.5.21/5.9.22/25.3.23/26.10.23/9.12.24/29.10.25/??
+14.5.13/19.5.14/
+22.6.09/16.3.10
+7.4.11/29.3.12
+24.5.07/23.4.08
+praxispflanzagl@gmx.de","excel_nosue_serie_gns_bearbeitet","262","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"309","20447","Dr.med. Ulrich Kuhn","Dr.med.","Ulrich","Kuhn","Marktstr. 8","88410","Bad Wurzach","DE","75642490","7564306624","info@hausarzt-dr-kuhn.de","Herr","Allgemeinarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 4.5.21/22.3.22/21.3.23/26.3.24/3.4.25/10h
+info@hausarzt-dr-kuhn.de
+16.3.10/7.4.11/29.3.12/14.5.13/19.5.14/
+12.6.08/31.3.09
+Fr.Freihalter","excel_nosue_serie_gns_bearbeitet","263","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"310","20442","Dr.med. Martin Heyse","Dr.med.","Martin","Heyse","Bürgerstr. 11","88410","Bad Wurzach","DE","75641577","75645816","rezept@dr-heyse.de","Herr","Allgemeinarzt",NULL,True,"Roh-Datum: 5.4.16/26.4.18/12.5.20/22.3.22/16.7.24/10h
+rezept@dr-heyse.de
+11.4.06/23.4.08/31.3.09/28.4.10/29.3.12/13.3.14/
+2jährlich","excel_nosue_serie_gns_bearbeitet","264","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"311","20747","Dr.med. Hans Stroh","Dr.med.","Hans","Stroh","Marktstr. 18","88410","Bad Wurzach","DE","75643481","75645388","strohhans@t-online.de","Herr","Internist",NULL,True,"Kundenquellecode: X
+Roh-Datum: 22.3.22/25.3.23/16.7.24/3.4.25/12h
+14.5.13/19.5.14/12h
+strohhans@t-online.de
+Mo´s12-15h
+24.5.07/23.4.08
+31.3.09/16.3.10/7.4.11/29.3.12/","excel_nosue_serie_gns_bearbeitet","265","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"312","20444","Dr.med. Bernd Lindenmaier","Dr.med.","Bernd","Lindenmaier","Schlossstr. 5","88410","Bad Wurzach","DE","75641301","75641086","lindenmaier88410@gmx.de","Herr","Allgemeinarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 22.3.22/21.3.23/26.3.24/3.4.25/
+23.4.15/5.4.16/11.4.17/26.4.18/16.4.19/2.4.20/3.5.21/
+2.9.13/19.5.14/
+7.4.11/29.3.12/
+24.5.07/23.4.08/31.3.09/16.3.10
+Lindenmaier88410@gmx.de","excel_nosue_serie_gns_bearbeitet","266","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"313","20929","Dr.med. Verena Nuber-Sailer","Dr.med.","Verena","Nuber-Sailer","Schloßstr 25","88416","Ochsenhausen","DE","07352-9399980","07352-9399982","info@hautarzt-ochsenhausen.de","Frau","Hautärztin",NULL,True,"Roh-Datum: 18.4.19/2.12.19/19.10.20/13.12.21/13.12.22/12.12.23/26.11.24/28.10.25/16h
+Fasi!ja150,-
+info@hautarzt-ochsenhausen.de","excel_nosue_serie_gns_bearbeitet","267","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"314","20935","Dr.med. Nuber-Sailer Kosm.","Dr.med.",NULL,"Nuber-Sailer Kosm.","Schloßstr 25","88416","Ochsenhausen","DE","07352-9399980","07352-9399982",NULL,"Frau",NULL,NULL,True,"Roh-Datum: 18.4.19/2.12.19/19.10.20/13.12.21/13.12.22/12.12.23/26.11.24/","excel_nosue_serie_gns_bearbeitet","268","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"315","20377","Drs.med. I. Schüly  A. Sandu M. Rendl C. Ernle","Drs.med.",NULL,"I. Schüly  A. Sandu M. Rendl C. Ernle","Espachstr. 3","88453","Erolzheim","DE","7354934567","7354934568","aerztezentrum-erolzheim@t-online.de","Herr","Allgemeinarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 6.4.16/11.4.18/04.12.19/13.9.23/27.11.24/8h
+Fr.UngerMI´s7.40
+aerztezentrum-erolzheim@t-online.de
+27.10.09/13.10.10/30.11.11/15.5.13/10.12.14/
+24.5.07/22.4.08
+Mi_8-10h
+m_rendl@t-online.de","excel_nosue_serie_gns_bearbeitet","269","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"316","20480","Gesundheitszentrum Federsee",NULL,NULL,"Gesundheitszentrum Federsee","Am Kurpark 2/Seegasse1","88422","Bad Buchau","DE","758293260","7582932615","info@gzf.de","Herr","Allgemeinarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 26.11.15/14.9.16/13.12.17/3.12.18/30.11.20/14.12.22/26.11.24/11h
+2jährl.
+Fr.Echteler
+3.12.12/18.12.13/9.9.14
+12.7.06/8.11.07/26.11.08/31.7.09/22.9.10/30.11.11/
+60,-_Fahrt
+info@gzf.de
+Lipke/ Diemer","excel_nosue_serie_gns_bearbeitet","270","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"317","20373","Ingrid Kraemer",NULL,"Ingrid","Kraemer","Mozartstr. 25","88427","Bad Schussenried","DE","75833021","758392521","ingrid-kraemer@gmx.de","Frau","Internistin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 9.10.14/26.11.15/14.9.16/13.12.17/10.10.18/2.12.19/30.11.20/24.3.22/28.3.23/20.3.24/4.4.25/12h
+26.9.11/3.12.12/12.11.13/
+11.10.07/14.10.08/17.12.09/20.9.10
+ingrid-kraemer@gmx.de","excel_nosue_serie_gns_bearbeitet","271","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"318","20557","Dres.med. Praxisgemeinschaft Mendla","Dres.med.","Praxisgemeinschaft","Mendla","Alte Biberacher Str. 13","88433","Schemmerhofen","DE","7356936520","7356936535","praxismr@gmx.de","Herr","Allgemeinärzte",NULL,True,"Weitere(r) Name(n): Braunger
+Kundenquellecode: X
+Roh-Datum: 10.4.18/13.3.19/12.5.20/6.5.21/25.3.22/27.3.23/16.7.24/10.7.25/1430h
+praxismr@gmx.de
+9.9.14/1.6.15/6.4.16/11.4.17/
+26.9.11/3.12.12/12.11.13/
+10.10.07/13.10.08/27.10.09/23.11.10","excel_nosue_serie_gns_bearbeitet","272","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"319","20657","Dr.med. Lucas Störk","Dr.med.","Lucas","Störk","Beizkofer Str. 19","88512","Mengen","DE","07572-6666","07572-3454","info@praxis-stoerk.de","Herr","Allgemeinarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 3.4.20/25.8.21/13.7.22/13.7.23/31.7.24/10.7.25/
+6.5.15/4.4.16/11.4.17/10.4.18/14.3.19/
+26.4.10/3.5.11/22.3.12/13.5.13/25.2.14/
+info@praxis-stoerk.de","excel_nosue_serie_gns_bearbeitet","273","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"320","20533","Alexander Fischer",NULL,"Alexander","Fischer","Alte Strasse 15","88512","Mengen","DE","75723575","75726487","r.mueller@arztpraxis-fischer.eu","Herr","Allgemeinarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 11.5.20/25.8.21/14.12.22/13.7.23/31.7.24/30.7.25/8h
+11.4.17/10.4.18/14.3.19/
+16.10.14/2.6.15/4.4.16/
+3.5.11/16.4.12/10.9.13
+24.5.07/8.7.08/24.6.09/26.4.10/
+r.mueller@arztpraxis-fischer.eu","excel_nosue_serie_gns_bearbeitet","274","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"321","20633","Dr.med. Herwig Maderner","Dr.med.","Herwig","Maderner","Meßkirchenerstr. 2","88512","Mengen","DE","07572-712752","07572-711370","herwig-maderner@t-online.de","Herr","Orthopäde",NULL,True,"Kundenquellecode: X
+Roh-Datum: 17.4.19/3.4.20/25.8.21/13.7.22/13.7.23/16.7.24/10.7.25/12h
+herwig-maderner@t-online.de
+3.5.11/22.3.12/10.9.13/
+16.10.14/2.6.15/4.4.16/11.4.17/10.4.18/","excel_nosue_serie_gns_bearbeitet","275","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"322","20691","Dr.med. Christian Langbein","Dr.med.","Christian","Langbein","Maurus-Betz-Str. 2","88662","Überlingen","DE","755160409","07551-8399141","praxis@lungenarzt-ueberlingen.de","Herr","Internist",NULL,True,"Kundenquellecode: XM
+Roh-Datum: 25.6.19/16.7.20/20.10.21/5.9.22/24.7.23/19.3.24/22.4.25/12h
+praxis@lungenarzt-ueberlingen.de
+27.3.12/4.6.13/15.7.14/
+7.5.15/13.9.16/18.12.17/
+gern Mo´sMittag","excel_nosue_serie_gns_bearbeitet","277","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"323","20866","Dres. Meistermann/ Strzyzowski","Dres.","Meistermann/","Strzyzowski","Maurus-Betz-Str. 2","88662","Überlingen","DE","07551-63798","07551-69750","buero@hno-ueberlingen.de",NULL,"HNO",NULL,True,"Weitere(r) Name(n): Suchan
+Roh-Datum: 25.6.19/16.7.20/20.10.21/23.8.22/30.3.23/19.3.24/22.4.25BGV/14h
+buero@hno-ueberlingen.de
+17.11.16/18.12.17/17.9.18/12h","excel_nosue_serie_gns_bearbeitet","278","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"324","20695","Dr.med. G.-H. Hauser-Tillmann","Dr.med.","G.-H.","Hauser-Tillmann","Gutenbergstr. 1a","88677","Markdorf","DE","07544-2266","07544-73966","rezeption@hauser-tillmann.com","Frau","Gyn,Fax",NULL,True,"Roh-Datum: 3.11.22/11.10.23/3.12.24/20.11.25/9h
+13.7.16/13.6.17/8.3.18/8.12.20/20.10.21/
+19.7.12/11.3.13/8.5.14BGV/18.6.15/
+rezeption@hauser-tillmann.com","excel_nosue_serie_gns_bearbeitet","279","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"325","20470","Dr.med. Martin Stoschek","Dr.med.","Martin","Stoschek","Hirschstraße 21","89073","Ulm","DE","0731-8803130","0731-88031319",NULL,"Herr","Urologe",NULL,True,"Roh-Datum: 29.11.18/10.12.19/14.12.20/15.12.21/15.12.22/1.12.23/6.12.24/
+25.11.15/5.10.16/11.10.17/12h
+4.12.13/13.11.14/
+9.11.10/27.9.11
+73166344
+19.7.07/9.6.08/7.7.09","excel_nosue_serie_gns_bearbeitet","280","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"327","20841","Dr.med. Frank Heim","Dr.med.","Frank","Heim","König-Wilhelm-Str. 34","89073","Ulm","DE","0731-24488","0731-27925","info@dr-heim.de","Herr","Allg.",NULL,True,"Roh-Datum: 14.12.20/16.12.21/16.12.22/30.11.23/27.11.24/12h
+24.11.15/5.10.16/30.11.17/29.11.18/11.12.19/1515h
+Do´s
+info@dr-heim.de","excel_nosue_serie_gns_bearbeitet","283","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"328","20658","Dr.med. Jochen Förstner","Dr.med.","Jochen","Förstner","Virchowstr. 12","89075","Ulm","DE","731553233","731554244","andreafoerstner@t-online.de","Herr","Allgemeinarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 4.10.16/18.10.17/28.11.18/11.12.19/15.12.20/16.12.21/15.12.22/28.11.23/26.11.24/830
+Di´sVomi/E-Check
+3.11.14/24.11.15/8h
+27.4.10/3.5.11/23.3.12/16.10.13/
+BGV2024
+andreafoerstner@t-online.de","excel_nosue_serie_gns_bearbeitet","284","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"329","20616","Dr.med. Jochen Steinmacher","Dr.med.","Jochen","Steinmacher","Gemeindeplatz 2","89077","Ulm","DE","731936600","7319366009","steinmacher@kinderarzt-steinmacher.de","Frau","Kinder- und Jugendarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 16.12.20/15.12.21/15.12.22/28.11.23/28.11.24/15h
+25.10.11/4.12.12/5.11.13/11.9.14/25.11.15/5.10.16/
+23.10.06/26.11.08/17.11.09/9.11.10
+steinmacher@kinderarzt-steinmacher.de","excel_nosue_serie_gns_bearbeitet","285","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"330","20948","Ambulanz Behindertenheim Tannenhof","Ambulanz","Behindertenheim","Tannenhof","Saulgauer Str.3","89079","Ulm-Wiblingen","DE","0731-4013211","0731-4013225",NULL,NULL,NULL,NULL,True,"Roh-Datum: 9.12.19/16.12.20/16.12.21/13.12.22/27.11.23/25.11.24/9h","excel_nosue_serie_gns_bearbeitet","286","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"331","20499","Dres.med. Hepp-Müller","Dres.med.",NULL,"Hepp-Müller","Schleifmühleweg 24","89079","Ulm-Wiblingen","DE","73141140","7319409580","praxis@hepp-kling.de","Herr","Allgemeinarzt",NULL,True,"Weitere(r) Name(n): Kling-Rivoir
+Kundenquellecode: X
+Roh-Datum: 14.12.20/15.12.21/13.12.22/27.11.23/25.11.24/10h
+11.9.14/25.11.15/4.10.16/19.12.17/29.11.18/9.12.19/
+27.9.11/4.12.12/16.10.13
+7.7.09/29.6.10
+19.7.07/9.7.08
+7319409581
+praxis@hepp-kling.de","excel_nosue_serie_gns_bearbeitet","287","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"332","20433","Dres.med. Küther","Dres.med.",NULL,"Küther","Bismarckstr. 41","89129","Langenau","DE","734596630","07345-966320",NULL,"Frau","Internisten",NULL,True,"Kundenquellecode: X
+Roh-Datum: 11.3.19/23.3.20/1.2.21/21.3.22/27.3.23/26.3.24/17.3.25/12h
+24.2.15/29.2.16/13.3.17/26.3.18/
+3.5.11/17.4.12/30.4.13/25.3.14/
+10.3.07/1.4.08/28.4.09/27.4.10","excel_nosue_serie_gns_bearbeitet","288","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"333","20647","Dr.med. Jochen Grellmann","Dr.med.","Jochen","Grellmann","Hummelstr. 2","89134","Blaustein","DE","7304919797","7304919790",NULL,"Herr","Neurologe",NULL,True,"Roh-Datum: 1.12.17/30.11.18/9.12.19/22.9.20/16.12.21/19.8.22/29.11.23/25.11.24/830h
+12.9.14/29.9.15/4.10.16/
+18.11.09/11.11.10/3.8.11/4.12.12/5.11.13/","excel_nosue_serie_gns_bearbeitet","289","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"334","20545","Gemeinschaftspraxis Elsner","Gemeinschaftspraxis",NULL,"Elsner","Ulmer Str. 26","89143","Blaubeuren","DE","07344-95240","07344-952429",NULL,"Herr","Radiologe",NULL,True,"Weitere(r) Name(n): Kaufmann
+Roh-Datum: 15.3.19/3.2.21/24.3.23/30.4.25/14h
+2jährlich
+3.8.11/5.11.13/29.9.15/20.7.17
+20.7.07/30.10.09","excel_nosue_serie_gns_bearbeitet","290","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"335","20652","Tatjana Moor",NULL,"Tatjana","Moor","Ehinger Str. 19","89155","Erbach","DE","73056008","73058913","frauenarztpraxis-moor@web.de","Frau","Frauenärztin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 14.10.16/1.12.17/23.1.19/28.2.20/7.5.21/19.8.22/17.7.24/2026
+11.4.12/23.10.13/18.7.14/18.9.15/930h
+Fr.Keil
+26.2.10/25.3.11
+frauenarztpraxis-moor@web.de","excel_nosue_serie_gns_bearbeitet","291","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"337","20349","Drs. Majer","Drs.",NULL,"Majer","Kirchstr. 6","89198","Westerstetten","DE","73485252","73485809","allgemeinaerzte-westerstetten@unity-mail.de","Herr","Allgemeinarzt",NULL,True,"Weitere(r) Name(n): Fritzenschaft
+Kundenquellecode: X
+Roh-Datum: 12.3.19/27.2.20/2.2.21/21.3.22/23.3.23/25.3.24/17.3.25/1445h
+allgemeinaerzte-westerstetten@unity-mail.de
+24.2.15/29.2.16/13.3.17/27.3.18/
+15.12.09/11.11.10/27.9.11/29.1.13/25.3.14/
+23.6.06/15.11.07/13.7.05/26.11.08","excel_nosue_serie_gns_bearbeitet","293","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"339","20471","Dres.med. Bretschneider","Dres.med.",NULL,"Bretschneider","Sternplatz 1","89584","Ehingen","DE","739172646","739172648","info@neurologie-psychiatrie-ehingen.de",NULL,"Neurologen",NULL,True,"Weitere(r) Name(n): Karitzky
+Kundenquellecode: X
+Roh-Datum: 12.3.19/26.2.20/2.2.21/22.3.22/23.3.23/27.3.24/30.4.25/
+13.11.14/18.9.15/18.7.16/15.3.17/26.3.18/
+6.12.12/7.11.13/
+20.7.07/9.7.08/25.6.09/30.6.10/26.10.11/
+info@neurologie-psychiatrie-ehingen.de","excel_nosue_serie_gns_bearbeitet","296","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"340","20383","Anna Maria Stetter-Schroth",NULL,"Anna Maria","Stetter-Schroth","Fischersteige 8","89584","Ehingen","DE","7391754740","7391754997","amstetterschroth@gmx.de","Frau","Frauenärztin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 28.2.20/17.12.21/12.12.22/27.11.23/25.11.24BGV/hört evtl.Auf
+3.7.14/17.6.15/18.7.16/15.3.17/27.3.18/23.1.19/
+4.7.11/17.7.12/29.5.13
+20.7.07/9.7.08/25.6.09/9.6.10
+amstetterschroth@gmx.de","excel_nosue_serie_gns_bearbeitet","297","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"341","20515","Herr Njabeleke Vitalis Apotheke im Alb-Donau-Center","Herr","Njabeleke","Vitalis Apotheke im Alb-Donau-Center","Talstr. 3/ Alb-Donau-Center","89584","Ehingen","DE","07391-755631","07391-54936","info@vitalis-apotheke-ehingen.de","Herr","Apotheke",NULL,True,"Kundenquellecode: X
+Roh-Datum: 2.2.21/13.7.22/27.11.23/13h
+12.9.14/17.6.15/18.7.16/15.3.17/23.1.19/12h
+6.7.11/18.7.12/23.10.13
+info@vitalis-apotheke-ehingen.de","excel_nosue_serie_gns_bearbeitet","298","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"342","20634","Dr.med. Achim Spitzmüller","Dr.med.","Achim","Spitzmüller","Hauptstr. 10","89604","Allmendingen","DE","73918031","7391752819","dr.achim-spitzmueller@telemed.de","Herr","Allgemeinarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 12.4.17/27.3.18/BGV22.1.19/28.2.20/2.2.21/23.3.22/22.3.23/3.9.BGV24/30.4.25/8h
+29.5.13/26.5.14/16.6.15/16.8.16/
+25.6.09/9.6.104.7.11/18.7.12
+dr.achim-spitzmueller@telemed.de
+BGV 26","excel_nosue_serie_gns_bearbeitet","299","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"343","20617","Dres.med. Hudek","Dres.med.",NULL,"Hudek","Hauptstr. 50","89611","Obermarchtal","DE","7375201","7375572","praxis.obermarchtal@t-online.de","Herr","Allgemeinarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 21.9.20/26.8.21/14.7.22/1.8.23/25.11.24/1.12.25/
+praxis.obermarchtal@t-online.de
+6.12.12/23.10.13/3.7.14/18.9.15
+27.11.08/28.10.09/23.11.10/25.10.11
+16.8.16/1.12.17/3.12.18/9.12.19/14h","excel_nosue_serie_gns_bearbeitet","300","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"344","20832","Mathias Koch",NULL,"Mathias","Koch","Schloßhofstr. 8","89614","Öpfingen","DE","73917705617","73917705618","info@hausarztpraxis-koch.com","Herr","Allgemeinarzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 22.1.19/2.4.20/17.12.21/14.7.22/1.8.23/3.9.24/9h
+info@hausarztpraxis-koch.com
+9.7.09/30.6.10/5.7.11/17.7.12
+23.10.13/3.7.14/16.6.15/14.10.16/30.11.17/","excel_nosue_serie_gns_bearbeitet","301","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"345","20352","Dres.med.Breitinger Breitinger","Dres.med.Breitinger","Breitinger",NULL,"Lärchenweg 11","89616","Rottenacker","DE","7393951520","7393951530","info@dres-breitinger-stroebele.de","Herr","Allgemeinarzt",NULL,True,"Weitere(r) Name(n): Ströbele
+Kundenquellecode: X
+Roh-Datum: 22.1.19/21.9.20/26.8.21/14.7.22/1.8.23/3.9.24/21.10.25/10h
+info@dres-breitinger-stroebele.de
+16.6.15/16.8.16/19.12.17/
+5.7.11/17.7.12/12.11.13/12.9.14
+BGV25
+22.6.06/20.7.07/27.10.09/23.11.10/
+27.11.08/5.7.11","excel_nosue_serie_gns_bearbeitet","302","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"346","20666","Dr. Thiel",NULL,NULL,"Dr. Thiel","Eppendorfer Landstr.14","20249","Hamburg-Eppendorf","DE","040-477255","404800867","info@praxis-eppendorf.de",NULL,"Internistin+Allg.",NULL,True,"Weitere(r) Name(n): Ruhl
+Kundenquellecode: X
+Roh-Datum: 9.5.17/22.5.18/21.5.19/26.5.20/20.4.21/29.4.22/31.1.23/13.5.25/16h
+24.6.13/23.7.14/29.6.15/26.4.16/13h
+Hr.Rieder
+040-488646
+info@praxis-eppendorf.de
+21.10.10/16.8.11/30.8.12","excel_nosue_serie_gns_bearbeitet","303","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"347","20417","Dres. med. Öncü","Dres. med.",NULL,"Öncü","Eißendorfer Str. 70","21073","Hamburg","DE","040-790 60 00","407906268","arzt@praxis-oencue.de","Herr","FA  AllgemeinMo´s",NULL,True,"Kundenquellecode: X
+Roh-Datum: 27.5.20/21.4.21/4.5.22/31.5.23/29.5.24/15.5.25
+29.6.15/17.2.16/9.5.17/22.5.18/
+arzt@praxis-oencue.de
+6.3.12/24.6.13/14.4.14/10-12h
+20.5.10/16.8.11
+Mo,Di,Mi´s22.1.07/5.5.08/ 11.3.09","excel_nosue_serie_gns_bearbeitet","304","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"349","20528","Dres. Cordes","Dres.",NULL,"Cordes","Kunaustr. 1","22393","Hamburg","DE","6010724,601","406007762","info@praxis-sasel.de","Herr","FA  Allgemein",NULL,True,"Weitere(r) Name(n): Kügler
+Kundenquellecode: X
+Roh-Datum: 9.5.17/22.5.18/21.5.19/26.5.20/4.6.21/13.5.22/21.6.23/29.5.24/15.5.25/10h
+6.3.12/22.2.13/4.2.14/30.6.15/ 26.4.16/Di´s
+info@praxis-sasel.de
+09.05.07/ 8.6.08/18.5.09/20.5.10/16.8.11","excel_nosue_serie_gns_bearbeitet","306","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"351","20416","Gesa Blank",NULL,"Gesa","Blank","Tibarg 21","22459","Hamburg","DE","040-588550","40585025","info@hausarzt-tibarg.de ","Herr","Allg.",NULL,True,"Kundenquellecode: X
+Roh-Datum: 21.5.19/13.8.20/4.6.BGV21/29.4.22/31.1.23/23.2.24BGV/15.5.25/
+3.9.15/26.4.BGV16/9.5.17/22.5.18/
+6.3.12/22.2.13/14.4.14/
+3.3.10/18.3.11
+22.1.07/ 8.1.08/14.7.09
+info@hausarzt-tibarg.de","excel_nosue_serie_gns_bearbeitet","308","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"352","20594","Dr. med. Carsten Steinfatt","Dr. med.","Carsten","Steinfatt","Am Alten Markt 12","22926","Ahrensburg","DE","04102/53110","410255640","carsten.steinfatt@gmx.de","Herr","Gynäkologie",NULL,True,"Roh-Datum: 13.8.20/13.9.21/26.10.22/29.6.23/31.5.24/16.5.25/13h
+13.7.12/29.6.15/27.9.16/5.12.17/
+16.7.08/11.8.10/17.8.11
+carsten.steinfatt@gmx.de
+tel.53332","excel_nosue_serie_gns_bearbeitet","309","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"353","20957","Catrin Steinfatt",NULL,"Catrin","Steinfatt","Von-Jüssa-Weg 2","22946","Trittau","DE","04154-2955","04154-85228","carsten.steinfatt@gmx.de",NULL,NULL,NULL,True,"Roh-Datum: 13.8.20/13.9.21/26.10.22/29.6.23/31.5.24/16.5.25/
+carsten.steinfatt@gmx.de","excel_nosue_serie_gns_bearbeitet","310","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"354","20494","Ulrike Eltner-Goblitschke",NULL,"Ulrike","Eltner-Goblitschke","Ohlendorfer Str. 16","21220","Seevetal","DE","41852221","04185 7583","info@allgemeinmedizin-ramelsloh.de","Frau","Do´s nie",NULL,True,"Kundenquellecode: X
+Roh-Datum: 18.5.18/24.5.19/25.5.20/18.11.21/23.5.22/31.5.23/30.5.24/1630
+31.8.12/24.6.13/14.4.14/29.6.15/28.7.16/29.5.17/9h
+28.9.06/17.9.07/17.9.08/29.9.09/
+28.9.06/17.9.07/17.9.08/29.9.09/1.12.10/16.9.11/
+info@allgemeinmedizin-ramelsloh.de
+Fachärztin für Allg.","excel_nosue_serie_gns_bearbeitet","311","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"355","20858","Svetlana Borschitz-Wick",NULL,"Svetlana","Borschitz-Wick","Jägerstr. 25","21339","Lüneburg","DE","04131-66606","04131-671231","info@weststadtpraxis-lueneburg.de",NULL,NULL,NULL,True,"Roh-Datum: 24.5.19/29.5.20/23.4.21/23.5.22/12.5.23/30.5.24/13.5.25/
+3.8.16/29.5.17/18.5.18/12h
+LZRRJa22
+info@weststadtpraxis-lueneburg.de","excel_nosue_serie_gns_bearbeitet","312","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"356","20600","Dr. med. Osamah Bani-Mehlem","Dr. med.","Osamah","Bani-Mehlem","Carl von Ossietzky Str. 6","21335","Lüneburg","DE","04131-7277655","04131-405590","info@neurochirurgie-lueneburg.de","Herr","FA für Neurochirurgie",NULL,True,"Kundenquellecode: X
+Roh-Datum: 29.5.17/18.5.18/24.5.19/29.5.20/20.4.21/23.5.22/12.5.23/30.5.24/13.5.25/
+info@neurochirurgie-lueneburg.de
+30.8.07/17.9.08/31.8.09/13.8.10/16.9.11/2.10.12/4.10.13/
+04131-405500","excel_nosue_serie_gns_bearbeitet","313","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"357","20991","Dres. Braun","Dres.",NULL,"Braun","Fleischhauerstr. 2","23552","Lübeck","DE","0451-706958","0451-76601",NULL,"Frau","Psychiatrie",NULL,True,"Weitere(r) Name(n): Thorns
+Kundenquellecode: X
+Roh-Datum: 30.5.18/14.8.20/24.5.22/30.5.24/
+Fr.Schöning
+2jährlich","excel_nosue_serie_gns_bearbeitet","314","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"358","20553","Dres. Brandt","Dres.",NULL,"Brandt","Segeberger Str. 9","23617","Stockelsdorf","DE","0451/4988571","4514946095","praxis@praxis-brandt-schmidt.de",NULL,"Neurologie",NULL,True,"Weitere(r) Name(n): Schmidt
+Kundenquellecode: X
+Roh-Datum: 17.5.18/27.5.19/28.5.20/22.4.21/24.5.22/16.5.23/30.5.24/14.5.25/11h
+praxis@praxis-brandt-schmidt.de
+18.9.07/08/1.9.09/21.5.10/12.4.11/12.7.12/25.2.13/
+4.2.14/19.3.15/8.5.17/17.5.18/","excel_nosue_serie_gns_bearbeitet","315","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"359","20489","Grefen",NULL,NULL,"Grefen","Kirchstraße 31","23795","Bad Segeberg","DE","04551-1733","04551-944240","timmegrefen@t-online.de",NULL,"Neurologie",NULL,True,"Weitere(r) Name(n): Dr.Timme
+Roh-Datum: 24.5.18/23.5.19/28.5.20/22.4.21/12.5.22/30.1.23/13.2.24/14.5.25/13h
+5.2.14/19.3.15/26.4.16/8.5.17
+18.8.11/12.7.12/25.2.13
+16.9.08/1.9.09
+timmegrefen@t-online.de","excel_nosue_serie_gns_bearbeitet","316","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"360","21007","Dr. med. Wiebke Günther","Dr. med.","Wiebke","Günther","Parkstraße 38","23795","Bad Segeberg","DE","04551-93848","04551-93948","willkommen@hautarzt-bad-segeberg.de","Frau","Dermatologie",NULL,True,"Kundenquellecode: X
+Roh-Datum: 30.1.23/2026wieder
+24.5.18/23.5.19/30.9.20/14.9.21/
+willkommen@hautarzt-bad-segeberg.de","excel_nosue_serie_gns_bearbeitet","317","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"361","20521","Dr. med. Lange-Wühlisch","Dr. med.",NULL,"Lange-Wühlisch","Klosterstraße 7","23858","Reinfeld","DE","04533/1619","04533-791216","lwfrank@t-online.de",NULL,"Allgemeinmedizin",NULL,True,"Roh-Datum: 30.5.18/27.5.19/28.5.20/22.4.21/12.5.22/16.5.23/14.5.25
+2jährlich
+lwFrank@t-online.de
+0173-9983054","excel_nosue_serie_gns_bearbeitet","318","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"362","20504","Dr. med. Oliver Drews","Dr. med.","Oliver","Drews","Hindenburgstr. 15d","23879","Mölln","DE","04542/2609","04542-89681","dsb@dr-drews-moelln.de","Herr","Allgemeinmedizin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 17.5.18/22.5.19/25.5.20/15.9.21/24.5.22/16.5.23/28.5.24/12.5.25/
+4.2.14/19.3.15/26.4.16/8.5.17
+dsb@dr-drews-moelln.de
+Fr.Koopmann
+17.6.09/10.8.10
+12.4.11/24.4.12/15.4.13/","excel_nosue_serie_gns_bearbeitet","319","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"363","20601","Frau Nickel/ Herr Dombach",NULL,"Frau Nickel/","Herr Dombach","Wasserkrüger Weg 127B","23879","Mölln","DE","04542/841284","04542-841285",NULL,NULL,"Allgemeinmedizin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 13.8.20/14.9.21/25.5.22/28.5.24/12.5.25/
+3.9.15/26.9.16/4.12.17/5.11.18/14.10.19/
+info@hausärzte-wkw.de
+30.8.12/15.4.13/14.4.14/
+18.9.08/17.6.09/10.8.10/18.8.11/","excel_nosue_serie_gns_bearbeitet","320","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"364","20829","Dres. Schwiethal","Dres.",NULL,"Schwiethal","Alfred-Harbarth-Str.10a","23883","Sterley","DE","04545-213","04545-791235","praxisgrossewallstrasse@t-online.de",NULL,"Allgemeinmedizin",NULL,True,"Weitere(r) Name(n): Brüdersdorf
+Roh-Datum: 12.5.25/
+20.3.15/27.4.16/16.5.17/
+praxisgrossewallstrasse@t-online.de","excel_nosue_serie_gns_bearbeitet","321","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"365","20435","Dres. Schwiethal","Dres.",NULL,"Schwiethal","Große Wallstraße 3","23909","Ratzeburg","DE","04541-3295","04541-4454","allgemeinaerzte-wallstr-rz@t-online.de",NULL,"Allgemeinmedizin",NULL,True,"Weitere(r) Name(n): Brüdersdorf
+Kundenquellecode: X
+Roh-Datum: 15.5.25/
+20.3.15/26.4.16/10.5.17/
+allgemeinaerzte-wallstr-rz@t-online.de
+31.3.07/11.3.08/10.3.09/2.3.10/11.4.11/
+5.3.12/15.4.13/14.4.14/","excel_nosue_serie_gns_bearbeitet","322","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"366","20361","Werner Puls",NULL,"Werner","Puls","Domstraße 19","23909","Ratzeburg","DE","04541/3379","04541-84761",NULL,NULL,"Allgemeinmedizin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 16.5.25/
+12.7.12/4.10.13/25.9.14
+18.11.06/19.11.07/12.11.08/10.11.09/10.8.10/18.8.11/
+3.9.15/26.9.16/4.12.17/23.5.19/14.8.20/19.4.21/","excel_nosue_serie_gns_bearbeitet","323","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"367","20536","Dr. med. Ruthke","Dr. med.",NULL,"Ruthke","Töpferstr. 1","23909","Ratzeburg","DE","04541/3146","454184590","ruthkeburhorn@arcor.de",NULL,"Innere Medizin",NULL,True,"Weitere(r) Name(n): Burhorn
+Kundenquellecode: X
+Roh-Datum: 2026/
+7.10.13/26.9.16/14.10.19/15.5.23/
+17.6.09/10.8.10Fr.Steinhagen
+3jährlichFASI,22
+ruthkeburhorn@arcor.de","excel_nosue_serie_gns_bearbeitet","324","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"368","21025","Gerhard Tolksdorf",NULL,"Gerhard","Tolksdorf","Schweriner Str. 51","23909","Ratzeburg","DE","0174-8635363",NULL,"fam.tolksdorf@gmx.de",NULL,"Akupunktur",NULL,True,"Roh-Datum: 12.5.25/14h
+fam.tolksdorf@gmx.de","excel_nosue_serie_gns_bearbeitet","325","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"369","20363","Dr. med. Klaus Dörhage","Dr. med.","Klaus","Dörhage","Hamburger Landstr. 26 a","24113","Molfsee","DE","0431/650124","0431-65949741",NULL,"Herr","Allgemeinmedizin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 24.8.17/2.11.18/27.5.20/17.4.21/4.5.22/2.2.23/14.2.24/19.5.25/10h
+Angebot 25
+15.9.11/29.8.12/8.10.13/25.9.14/2.9.15/28.9.16/10h
+19.9.07/17.9.08
+15.7.09/21.10.10","excel_nosue_serie_gns_bearbeitet","326","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"370","20394","Dr. med. Dr.Ramm","Dr. med.",NULL,"Dr.Ramm","Lorentzendamm 36","24103","Kiel","DE","0431/554170","0431-554160","info@praxis-lorentzendamm.de",NULL,"Innere Medizin",NULL,True,"Weitere(r) Name(n): Köppen
+Roh-Datum: 25.9.14/17.2.16/8.2.17/16.5.18/22.5.19/27.5.20/2.6.21/4.5.22/17.5.BGV23/13.2.24/21.5.25/15h
+info@praxis-lorentzendamm.de
+19.9.07/17.9.08/15.7.09/21.10.10/15.9.11
+29.8.12/8.10.13/","excel_nosue_serie_gns_bearbeitet","327","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"371","20667","Dr. med. Andreas Tiroke","Dr. med.","Andreas","Tiroke","Im Brauereiviertel 5","24118","Kiel","DE","0431-51395","0431-555341",NULL,"Herr","Kardiologe",NULL,True,"Kundenquellecode: X
+Roh-Datum: 18.3.15/17.2.16/8.2.17/16.5.18/22.5.19/27.5.20/2.6.21/4.5.22/1.2.23/13.2.24/21.5.25/9h
+Fr.Grossmann,Mi´s
+Rg per POST
+E-Check2025
+29.8.12BGV/5.2.14/
+22.10.10/15.9.11","excel_nosue_serie_gns_bearbeitet","328","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"372","20436","Dr. med. Katja Dirksen","Dr. med.","Katja","Dirksen","Langer Rehm 22","24149","Kiel","DE","0431/203167","0431-2050270","info@arztpraxis-dirksen.de","Frau","Innere Medizin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 30.9.20/18.11.21/1.2.23/13.2.24/19.5.25/12h
+info@arztpraxis-dirksen.de
+20.3.07/6.5.08/12.3.09
+2.3.10/13.4.11
+5.3.12/8.10.13/25.9.14","excel_nosue_serie_gns_bearbeitet","329","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"373","20475","Dr. med. Erhard Eschenbach","Dr. med.","Erhard","Eschenbach","Dorfstr. 17","24226","Heikendorf","DE","0431 242862","431242866","hno-heikendorf@t-online.de","Herr","HNO-Heilkunde",NULL,True,"Kundenquellecode: X
+Roh-Datum: 2.11.18/15.10.19/30.9.20/2.6.21/18.5.22/22.6.23/9.10.24/11.30h/26
+hno-heikendorf@t-online.de
+25.9.14/2.9.15/28.9.16/24.8.17
+21.10.10/15.9.11/29.8.12/8.10.13/
+20.3.07/6.5.08/15.7.09","excel_nosue_serie_gns_bearbeitet","330","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"374","20685","Ralph Reck",NULL,"Ralph","Reck","Gartenstr. 4","26122","Oldenburg","DE","0441-25844","0441-2488165","patient@ralph-reck.de","Herr","Naturheilverfahren",NULL,True,"Kundenquellecode: X
+Roh-Datum: 10.2.17/23.2.18/15.2.19/10.8.20/3.9.21/27.10.22/30.10.24/7.11.25/11h
+17.11.14/8.9.15/
+12.10.11/20.11.12/19.9.13/
+neu!70,-
+patient@ralph-reck.de","excel_nosue_serie_gns_bearbeitet","331","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"375","20632","Dr. med. Jörg Hellwege","Dr. med.","Jörg","Hellwege","Hauptstraße 35","26188","Edewecht","DE","04405-5055","04405/5056","praxis.hellwege@gmx.de","Herr","Allgemeinmedizin",NULL,True,"Weitere(r) Name(n): Drews
+Kundenquellecode: X
+Roh-Datum: 5.6.18/11.2.19/14.1.20/31.5.21/8.2.22/13.2.23/19.2.24/27.2.25/12h
+8.4.14/23.3.15/22.2.16/10.2.17/
+18.6.09/15.6.10/9.5.11/26.4.12/21.3.13/
+Mo´s
+praxis.Hellwege@gmx.de","excel_nosue_serie_gns_bearbeitet","332","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"376","20955","Dr. med. Alexander Abel","Dr. med.","Alexander","Abel","Langenstr. 37","49624","Löningen","DE","05432-3535","05432-30920","praxis@kinderarztpraxis-loeningen.de","Herr","Kinder",NULL,True,"Roh-Datum: 30.4.20/22.2.21/11.2.22/2.2.23/21.2.24/24.2.25/16h
+praxis@kinderarztpraxis-loeningen.de","excel_nosue_serie_gns_bearbeitet","333","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"378","20445","Dr. med. Christian Herrmann","Dr. med.","Christian","Herrmann","Unter den Eichen 5","26209","Hatten","DE","04482 361","44828230","moin@praxis-unterdeneichen.de","Herr","Facharzt für Allgemeinmedizin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 10.2.17/23.2.18/13.2.19/16.1.20/23.2.21/7.2.22/2.2.23/19.2.24/24.2.25/12h
+8.4.14/23.3.15/22.2.16
+10.5.07/9.4.08/19.5.09/15.6.10/9.5.11/26.4.12/21.4.13/
+moin@praxis-unterdeneichen.de
+04482 211","excel_nosue_serie_gns_bearbeitet","336","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"379","20338","Fridtjof Heidorn",NULL,"Fridtjof","Heidorn","Am Kirchplatz 20","26219","Bösel","DE","04494 8111","4494921222","praxis-heidorn@kinderaerzte-im-netz.de ","Herr","Facharzt für Kinderheilkunde",NULL,True,"Kundenquellecode: X
+Roh-Datum: 10.2.22/6.2.23/19.2.24/24.2.25/
+8.4.14/23.3.15/22.2.16/10.2.17/26.2.18/11.2.19/14.1.20/22.2.21/
+15.6.10/9.5.11/26.4.12/21.3.13/
+7.11.06/26.10.07/17.6.08/19.5.09/
+praxis-heidorn@kinderaerzte-im-netz.de
+04494-921223","excel_nosue_serie_gns_bearbeitet","337","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"380","20318","Ralf Zimmermann",NULL,"Ralf","Zimmermann","Krokusweg 8","26639","Wiesmoor","DE","04944 910313","4944910333","doczimmermann@docpost.de","Herr","Facharzt für Allgemeinmedizin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 29.6.17/26.2.18/10.10.19/6.9.21/14.9.22/27.9.23/7.11.25/
+doczimmermann@docpost.de
+14.6.07/7.4.08/21.4.09/21.4.10/10.5.11/13.3.12
+11.4.13/10.4.14/2.7.15/24.2.16
+Fr.Sanders","excel_nosue_serie_gns_bearbeitet","338","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"381","20537","Dr. med. Heiko Müller","Dr. med.","Heiko","Müller","Hauptstr. 149","26639","Wiesmoor","DE","04944 6086","49446088","mueller.h79@gmx.de","Herr","Facharzt für Neurologie / Psychiatrie",NULL,True,"Roh-Datum: 26.2.18/14.2.19/14.2.19/12.8.20/23.2.21/4.2.22/21.2.24/26.2.25/
+mueller.h79@gmx.de
+14.6.07/7.4.08/21.4.09/21.4.10/10.5.11
+26.4.12/11.4.13/10.4.14/10hKeinFr
+2.7.15/24.2.16/6.2.17","excel_nosue_serie_gns_bearbeitet","339","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"382","20316","Dr. med. Andreas Lindenthal","Dr. med.","Andreas","Lindenthal","Hollener Landstr. 31","26670","Hollen","DE","04489 410461","4489410464","praxislindenthal@web.de","Herr","Facharzt für Allgemeinmedizin",NULL,True,"Roh-Datum: 24.3.15/4.8.16/21.8.17/5.9.18/14.8.19/10.8.20/6.9.21/15.9.22/2.10.23/25.9.24/24.9.25/10h
+praxislindenthal@web.de
+7.9.06/7.4.08/21.4.09
+22.4.10/10.5.11
+12.4.13/23.9.14/
+04956 990391
+Mitt13-14h","excel_nosue_serie_gns_bearbeitet","340","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"383","20321","Dres. Riegel","Dres.",NULL,"Riegel","Alter Postweg 138","26670","Uplengen","DE","4956408598","4956408596","praxis-dr.riegel-bendermacher@ewetel.net","Herr","Facharzt für Allgemeinmedizin",NULL,True,"Weitere(r) Name(n): Bendermacher
+Roh-Datum: 14.8.19/12.8.20/8.9.21/14.9.22/27.9.23/25.9.24/24.9.25/13h
+praxis-dr.riegel-bendermacher@ewetel.net
+22.3.07/13.3.08/23.4.09
+22.4.10/21.7.11/13.3.12/11.4.13/
+Fr.Börgmann
+23.9.14/24.2.16/23.8.17/5.9.18/13h
+04956 1570","excel_nosue_serie_gns_bearbeitet","341","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"384","20312","Dr. med. Stephan Bretschneider","Dr. med.","Stephan","Bretschneider","Alter Postweg 59","26670","Uplengen","DE","04956-845","04956-1846","praxis-dr.bretschneider@ewetel.net","Herr","Facharzt für Innere Medizin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 24.3.15/24.2.16/10.2.17/26.2.18/14.2.19/13.1.20/22.2.21/3.2.22/9.2.23/22.2.24/24.2.25/9h
+12.4.13/8.4.14/
+22.3.07/13.3.08/21.4.09
+22.4.10/23.3.11/13.3.12
+praxis-dr.bretschneider@ewetel.net","excel_nosue_serie_gns_bearbeitet","342","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"385","20872","Dr. med. Christoph Seeber","Dr. med.","Christoph","Seeber","Kleine Rossbergstr. 8","26788","Leer","DE","0491-9279570","0491-67383","praxis@doktor-seeber.de","Herr","Allg.",NULL,True,"Roh-Datum: 6.2.17/26.2.18/11.2.19/14.1.20/22.2.21/3.2.22/6.2.23/20.2.24/28.2.25/
+DGUV 26
+praxis@doktor-seeber.de","excel_nosue_serie_gns_bearbeitet","343","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"386","20317","Dr. med. Hermann-Jens Besuden","Dr. med.","Hermann-Jens","Besuden","Ostersteg 52","26789","Leer","DE","0491 9279360","4919279361",NULL,"Herr","Praktischer Arzt",NULL,True,"Kundenquellecode: X
+Roh-Datum: 3.2.22/6.2.23/20.2.24/28.2.25/
+8.4.14/24.3.15/22.2.16/6.2.17/26.2.18/11.2.19/14.1.20/22.2.21/
+4.3.10/23.2.11/8.2.12/21.3.13/
+23.3.07/14.2.08/11.2.09
+0491 9791946","excel_nosue_serie_gns_bearbeitet","344","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"387","21009","Alexandra Blumenberg",NULL,"Alexandra","Blumenberg","Ostersteg 45","26789","Leer","DE","0491/96070080",NULL,"praxis-blumenberg@t-online.de","Frau",NULL,NULL,True,"Roh-Datum: 9.2.23/20.2.24/27.2.25/
+praxis-blumenberg@t-online.de","excel_nosue_serie_gns_bearbeitet","345","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"388","20319","Dr. med. Carsten Brinkmann","Dr. med.","Carsten","Brinkmann","Simonspad 2","26802","Moormerland","DE","04954 942050","04954 942051","info@hausarzt-brinkmann-moormerland.de","Herr","Facharzt für Allgemeinmedizin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 3.2.22/9.2.23/22.2.24/27.2.25/
+10.4.14/2.7.15/24.2.16/6.2.17/5.6.18/14.2.19/16.1.20/23.2.21/
+21.4.09/21.4.10/23.3.11/8.3.12/12.4.13/
+22.3.07/7.4.08
+info@hausarzt-brinkmann-moormerland.de","excel_nosue_serie_gns_bearbeitet","346","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"390","20485","Dres. Hißnauer","Dres.",NULL,"Hißnauer","Mullstr. 9","27243","Harpstedt","DE","04244 455","04244-2297","gemeinschaftspraxis-harpstedt@web.de",NULL,"Fachärzte für Allgemeinmedizin+Kind",NULL,True,"Weitere(r) Name(n): Halves
+Roh-Datum: 3.2.17/13.3.18/13.2.19/3.6.20/24.2.21/2.2.22/8.2.23/14.2.24/21.2.25/14h
+gemeinschaftspraxis-harpstedt@web.de
+Fr.Tanja Koutianidis
+24.10.07/22.10.08
+7.10.09/20.10.10/10.11.11/21.11.12/
+04434 578
+29.1.14/25.3.15/19.2.16/11.5.17/28.2.18/","excel_nosue_serie_gns_bearbeitet","349","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"391","20446","Drs.med. Wiese","Drs.med.",NULL,"Wiese","Bahnhofstr. 9","27356","Rotenburg","DE","04261 960202","04261-960203","info@endo-row.de",NULL,"Internist",NULL,True,"Weitere(r) Name(n): Sarhaddar
+Kundenquellecode: X
+Roh-Datum: 4.6.18/16.5.19/8.6.20/3.6.21/30.5.22/11.5.23/13.8.24/19.8.25/12h
+info@endo-row.de
+11.5.11/5.6.12/28.6.13/24.7.14/1.7.15/9.6.16/11.5.17/6.12.17/
+8.5..07/8.4.08/18.05.09/10
+Fr.Borchert
+04261 64259","excel_nosue_serie_gns_bearbeitet","350","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"392","20867","Dialyse Centrum MVZ Cuxhaven GmbH","Dialyse Centrum","MVZ","Cuxhaven GmbH","Rohdestr. 2","27472","Cuxhaven","DE","04721-420846","04721-420825","doerte.rettstadt@sanecum.de",NULL,"Dialyse",NULL,True,"Roh-Datum: 1.11.18/5.10.23/24.10.24/6.11.25/9h
+29.11.16/24.8.17/9h
+Fr.Büttelmann
+Dörte Rettstadt
+doerte.rettstadt@sanecum.de","excel_nosue_serie_gns_bearbeitet","351","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"393","20419","Herr Dr. Tegtmeier Nephrologicum Osterholz MVZ GmbH",NULL,"Herr Dr. Tegtmeier","Nephrologicum Osterholz MVZ GmbH","Am Krankenhaus 4a","27711","Osterholz-Scharmbeck","DE","04791-96670","04791-966729","dialyse@nephrologicum-osterholz.de",NULL,"Dialyse",NULL,True,"Kundenquellecode: X
+Roh-Datum: 22.2.18/13.8.19/2.6.20/25.2.21/1.2.22/7.2.23/15.2.24/25.2.25/8h
+26.2.13/28.1.14/29.1.15/23.2.16/7.2.17/
+dialyse@nephrologicum-osterholz.de
+Fr.Imbeck
+9.2.06/10.2.07/22.1.08/10.2.09/12.1.10/17.2.11/9.2.12/
+Fax
+0421-65998829","excel_nosue_serie_gns_bearbeitet","352","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"394","20629","Dr.med. Olaf Dieszbrock","Dr.med.","Olaf","Dieszbrock","Westerstr. 2","27749","Delmenhorst","DE","04221/18371","04221/915116","praxis-dieszbrock@ewe.net","Herr","Nervenheilkunde",NULL,True,"Kundenquellecode: X
+Roh-Datum: 2.10.20/7.9.21/19.9.22BGV/9.10.23/15.8.24/21.8.25/11h
+23.9.14/8.9.15/21.9.16/21.8.17/4.9.18BGV/17.10.19/16h
+praxis-dieszbrock@ewe.net
+12.10.11/25.9.12/17.9.13
+19.5.09/29.8.10","excel_nosue_serie_gns_bearbeitet","353","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"395","20637","Dres.med. Conrad","Dres.med.",NULL,"Conrad","Lange Str. 85/ 86","27749","Delmenhorst","DE","04221-13829","04221-915804",NULL,"Herr","Nervenheilkunde",NULL,True,"Weitere(r) Name(n): Wichert
+Kundenquellecode: X
+Roh-Datum: 10.8.20/7.9.21/19.9.22/9.10.23BGV/15.8.24/21.8.25/7.11.25/8h
+18.11.14/8.9.15/1.8.16/6.12.17/4.9.18/17.10.19BGV/14h
+12.10.11/25.9.12/17.9.13
+2.9.09/30.9.10","excel_nosue_serie_gns_bearbeitet","354","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"397","20422","Dr. med. Martin Steinkamp","Dr. med.","Martin","Steinkamp","Huntestr. 20","27793","Wildeshausen","DE","04431 92288","04431 92289","info@orthopaedie-wildeshausen.de","Herr","Facharzt für Orthopädie",NULL,True,"Roh-Datum: 25.2.16/22.8.17/30.8.18/24.2.21/27.5.22/8.2.23/16.2.24/18.8.25/10h
+Fr.Lindemann
+14.5.11/6.6.12/2.7.13/9.4.14
+19.5_09/19.5.10
+info@orthopaedie-wildeshausen.de","excel_nosue_serie_gns_bearbeitet","356","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"398","20944","Dr.med. Christine Kusserow-Napp","Dr.med.","Christine","Kusserow-Napp","An Der Weide 42","28195","Bremen","DE","0421-326220","0421-326236","augenaerztin-in-bremen@gmx.de","Frau","Augenärztin",NULL,True,"Roh-Datum: 17.10.19/22.11.21/15.6.23/10.4.25/12h
+2jährl.
+18.9.13/24.9.14/12h
+augenaerztin-in-bremen@gmx.de","excel_nosue_serie_gns_bearbeitet","357","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"399","20826","Augenzentrum MVZ",NULL,"Augenzentrum","MVZ","Pelzerstr. 40","28195","Bremen-Mitte","DE","0421-3808074","0421-3808250","birgit.schroeder@zentrumgesundheit.de",NULL,"Augenärzte",NULL,True,"Roh-Datum: 26.1.15/22.8.17/26.11.20/10h
+Tel-Auskunft4/22
+Fasi 150,-Fr.Schröder
+birgit.schroeder@zentrumgesundheit.de","excel_nosue_serie_gns_bearbeitet","358","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"402","20527","Thiemann",NULL,NULL,"Thiemann","Sebaldsbrücker Heerstr.28","28309","Bremen","DE","0421 453520","0421 4173405","info@hno-thiemann.de","Frau","Fachärztin für HNO Heilkunde",NULL,True,"Kundenquellecode: X
+Roh-Datum: 16.10.19/25.11.20/23.11.21/21.9.22/6.10.23/27.9.24/22.8.25/745h
+24.6.15/29.7.16/24.10.17/3.9.18/
+info@hno-thiemann.de
+9.5.07/19.6.08/22.4.09/19.4.10/6.5.11/25.4.12/5.7.13/22.7.14/14h","excel_nosue_serie_gns_bearbeitet","361","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"403","20474","Dres. med. Leibecke","Dres. med.",NULL,"Leibecke","Kurt-Schumacher-Allee 12b","28329","Bremen","DE","0421 461314","0421 4679503","office@hno-bremen-vahr.de",NULL,"HNO",NULL,True,"Weitere(r) Name(n): Wilms
+Kundenquellecode: X
+Roh-Datum: 24.11.21/23.9.22/6.10.23/27.9.24/22.8.25/11h
+9.9.15/21.9.16/6.12.17/7.11.18/9.10.19/2.10.20/13h
+office@hno-bremen-vahr.de
+3.6.07/8.4.08/22.4.09
+19.4.10/15.4.11/25.4.12/27.6.13/22.7.14/
+info@hno-arlt-leibecke-bremen.de","excel_nosue_serie_gns_bearbeitet","362","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"404","20575","Dres. med. Völker","Dres. med.",NULL,"Völker","Sonneberger Str. 11","28329","Bremen","DE","0421 467017","0421 467018","anmeldung@arztpraxis-voelker.de",NULL,"Internist",NULL,True,"Kundenquellecode: X
+Roh-Datum: 9.2.17/22.2.18/12.2.19/30.4.20/23.2.21/1.2.22/7.2.23/15.2.24/10.4.25/
+26.1.15/23.2.16/
+20.2.13/22.7.14/8-17h
+19.4.10/6.5.11/25.4.12/
+8.4.08/22.4.09
+anmeldung@arztpraxis-voelker.de","excel_nosue_serie_gns_bearbeitet","363","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"405","20986","Dr.med. Katharina Egeling-Oeßel","Dr.med.","Katharina","Egeling-Oeßel","Charlotte-Wolff-Allee 7","28717","Bremen","DE","0421-95899282","0421-95899289",NULL,"Frau","Anäthsistin",NULL,True,"Roh-Datum: 2.2.22/
+1 Blutdruckmesser","excel_nosue_serie_gns_bearbeitet","364","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"407","20398","Dres. Steck","Dres.",NULL,"Steck","Hammersbecker Str.224 A","28755","Bremen","DE","0421-89813910","0421 89813913","nerven-bremen-nord@nerven-bremen-nord.de",NULL,"24.9.24/14h",NULL,True,"Weitere(r) Name(n): Kraus
+Kundenquellecode: X
+Roh-Datum: 5.9.18/9.10.19/11.8.20/22.11.21/22.9.22/6.10.23/24.9.24/20.8.25/14h
+nerven-bremen-nord@nerven-bremen-nord.de
+19.10.12/16.9.13/24.9.14/
+8.11.06/20.8.08/7.10.09
+20.10.10/11.10.11
+9.9.15/21.9.16/6.12.17/7.30h","excel_nosue_serie_gns_bearbeitet","366","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"408","20421","Dres. Gabert","Dres.",NULL,"Gabert","Schwaneweder Str. 62","28779","Bremen","DE","0421-601232","0421-6039592","mail@hausarztpraxis-luessum.de",NULL,NULL,NULL,True,"Weitere(r) Name(n): Fuchs
+Kundenquellecode: X
+Roh-Datum: 1.2.22/7.2.23/15.2.24/25.2.25/12h
+27.1.15/23.2.16/9.2.17/15.5.18/12.2.19/13.1.20/25.2.21/
+13.1.10/6.3.11/7.2.12
+22.1.08/13.3.09
+28.2.13/28.1.14/
+mail@hausarztpraxis-luessum.de","excel_nosue_serie_gns_bearbeitet","367","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"409","20448","Dr. med. Thomas Szlagowski","Dr. med.","Thomas","Szlagowski","Landrat-Christians-Str.124","28779","Bremen","DE","0421-601566","0421-6908974","thomas.szlagowski@t-online.de","Herr",NULL,NULL,True,"Kundenquellecode: X
+Roh-Datum: 24.6.15/3.5.16/24.10.17/30.8.18/17.10.19/1.10.20/16.9.21/22.9.22/6.10.23/24.9.24/27.8.25/11h
+16.9.13/22.7.14/10h
+19.6.08/3.9.09/30.9.10/11.10.11/11.7.12/
+thomas.szlagowski@t-online.de","excel_nosue_serie_gns_bearbeitet","368","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"410","20992","Mathias Misselwitz",NULL,"Mathias","Misselwitz","Falkenberger Landstr. 89","28865","Lilienthal","DE","04298-939484","04298-939486","misselwitz9@aol.com","Herr","Allgemein",NULL,True,"Roh-Datum: 30.5.22/10.10.23/13.8.24/19.8.25/
+misselwitz9@aol.com","excel_nosue_serie_gns_bearbeitet","369","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"411","20535","Dr. med. Ansgar Schülken","Dr. med.","Ansgar","Schülken","Hauptstr. 72","28865","Lilienthal","DE","04298 8555","04298 6005","praxis@augenarzt-lilienthal.de","Herr","Facharzt für Augenheilkunde",NULL,True,"Roh-Datum: 4.6.18/20.5.19/24.8.20/31.5.21/20.9.22/14.6.23/13.8.24/19.8.25/
+11.7.12/27.6.13/28.7.14/23.6.15/9.6.16/30.6.17
+13.6.07/19.6.0816.6.09/18.5.10
+praxis@augenarzt-lilienthal.de","excel_nosue_serie_gns_bearbeitet","370","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"412","20548","Dres. Heupel","Dres.",NULL,"Heupel","Hauptstr. 72","28865","Lilienthal","DE","04298-4661612","04298-4661691",NULL,NULL,"FÄ für Innere Medizin",NULL,True,"Weitere(r) Name(n): Köhler
+Kundenquellecode: X
+Roh-Datum: 10.10.23/10.10.24/2411.25/12h
+24.10.17/4.9.18/13.8.19/11.8.20/16.9.21/25.10.22/12h
+nur Di´s
+Fr. Mastmeyer
+16.9.09/18.6.10/11.10.11/5.6.12/2.10.13","excel_nosue_serie_gns_bearbeitet","371","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"414","20586","Dr. med. Martin","Dr. med.",NULL,"Martin","Walsroder Str. 8","29614","Soltau","DE","05191-96703816","05191-96703814","info@martin-hoelzenbein.de",NULL,"Facharzt für Innere Medizin",NULL,True,"Weitere(r) Name(n): Hölzenbein
+Kundenquellecode: X
+Roh-Datum: 12.5.17/14.5.18/16.5.19/4.6.20/10.6.21/31.5.22/11.5.23/27.5.24/6.3.25/13h
+info@martin-hoelzenbein.de
+28.7.14/25.6.15/2.5.16
+14.6.10/20.7.1/7.6.12/2.7.13/
+8.6.08/19.6.09","excel_nosue_serie_gns_bearbeitet","373","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"415","20588","Drs. med. Elam","Drs. med.",NULL,"Elam","Poststr. 2","29614","Soltau","DE","05191-12131","05191-12117","praxis@elam-schulz.de",NULL,NULL,NULL,True,"Weitere(r) Name(n): Schulz
+Kundenquellecode: X
+Roh-Datum: 12.5.17/14.5.18/16.5.19/4.6.20/10.6.21/31.5.22/14.6.23/27.5.24/6.3.25/11h
+praxis@elam-schulz.de
+14.6.10/20.7.11/7.6.12/2.7.13/
+8.6.08/19.6.09
+28.7.14/25.6.15/2.5.16","excel_nosue_serie_gns_bearbeitet","374","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"416","20587","Dres. Abbas","Dres.",NULL,"Abbas","Unter den Linden 1","29614","Soltau","DE","05191-3860","05191-72499","anmeldung@moering-soltau.de","Herr",NULL,NULL,True,"Weitere(r) Name(n): Möring
+Kundenquellecode: X
+Roh-Datum: 25.6.15/2.5.16/12.5.17/14.5.18/16.5.19/4.6.20/10.6.21/31.5.22/11.5.23/27.5.24/29.8.25/
+BGV2027
+anmeldung@moering-soltau.de
+8.6.08/19.6.09/14.6.10/14.11.11/7.6.12/2.7.13/
+976165BGV24","excel_nosue_serie_gns_bearbeitet","375","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"417","20589","Wilfried Dr. Bott",NULL,"Wilfried","Dr. Bott","Wiesenstr.22","29614","Soltau","DE","05191-14161","05191-15605","praxis.wiesenstrasse@googlemail.com","Herr",NULL,NULL,True,"Kundenquellecode: X
+Roh-Datum: 28.7.14/ 2.5.16/5.11.18/4.6.20/31.5.22/6.3.25/
+14.6.10/20.7.11/7.6.12/2.7.13/
+8.6.08/19.6.09
+praxis.wiesenstrasse@googlemail.com","excel_nosue_serie_gns_bearbeitet","376","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"418","20643","Dres. Gerlach/ Woiton/ Exner","Dres.","Gerlach/ Woiton/","Exner","Kopernikusstr. 5","30167","Hannover","DE","0511-1316524","0511-1238208","praxis@hannover-neurologie.de","Herr","Neurologie",NULL,True,"Weitere(r) Name(n): Pasedag
+Kundenquellecode: X
+Roh-Datum: 2.8.16/4.9.17/28.8.18/19.8.19/19.11.21BGV/11.9.23/10.3.25/
+/ 2jährl.
+22.9.14/4.9.15/9h
+12.9.11/16.10.12/26.11.13/
+13.11.09/27.9.10
+praxis@hannover-neurologie.de","excel_nosue_serie_gns_bearbeitet","377","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"419","20728","Dres. Gottschalk/Mohr/ Klemm","Dres.","Gottschalk/Mohr/","Klemm","Ricklinger Str. 5B","30449","Hannover","DE","0511/2135615","0511-84300999","info@neuropraxis-hannover.eu",NULL,"Fachärzte für Neurologie",NULL,True,"Weitere(r) Name(n): Brünner
+Roh-Datum: 14.3.18/29.5.19/10.6.20/9..6.BGV21/1.6.22/15.2.BGV23/22.5.24/5.3.25/830h
+info@neuropraxis-hannover.eu
+Fr./ Nur Mi´s
+28.1.15/27.1.16/1.2.17/9h
+10.4.13/5.3.14/11h
+ohne EEG; EMG, SONO","excel_nosue_serie_gns_bearbeitet","378","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"420","20671","Dres. Pfeiffer","Dres.",NULL,"Pfeiffer","Am Uhrturm 3","30519","Hannover","DE","0511-833041","0511/8441034","team@praxis-am-uhrturm.de",NULL,"Allgemeinärztinnen",NULL,True,"Weitere(r) Name(n): Freese
+Roh-Datum: 1.2.17/16.8.19/17.9.21/26.6.24/
+/ 2jährl.
+24.2.11/26.3.13/28.1.15/
+team@praxis-am-uhrturm.de","excel_nosue_serie_gns_bearbeitet","379","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"421","20662","Dr. med. Edith Brasas","Dr. med.","Edith","Brasas","Hildesheimer Str.85","30880","Laatzen","DE","0511-8237265","0511-221007","praxislaatzen@t-online.de","Frau","Neurologie",NULL,True,"Roh-Datum: 15.8.17/28.8.18/19.8.19/6.8.20/11.6.21/1.6.22/5.6.23/22.5.24/4.3.25/
+mit BGV27
+praxislaatzen@t-online.de","excel_nosue_serie_gns_bearbeitet","380","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"422","20585","Dres. Laube","Dres.",NULL,"Laube","Klosteramthof 1","30974","Wennigsen","DE","05103-2061","05103/2068","info@aerztepraxis-klosteramthof.de",NULL,"Allgemein uvm.",NULL,True,"Weitere(r) Name(n): Kindermann
+Kundenquellecode: X
+Roh-Datum: 16.8.19/5.6.20/11.6.21/3.6.22/2.6.23/26.6.24/4.3.25/
+4.9.15/2.8.16/16.8.17/28.8.18/
+16.6.08/1.10.09/18.10.10/12.9.11/12.3.12/9.4.13/4.3.14/12.30h
+info@aerztepraxis-klosteramthof.de","excel_nosue_serie_gns_bearbeitet","381","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"423","20665","Dres. med. van Hettinga","Dres. med.",NULL,"van Hettinga","Theodor-Heuss-Str.15","31535","Neustadt","DE","05032-2012","05032-2013","info@nervenaerzte-neustadt.de",NULL,"Neurologie",NULL,True,"Roh-Datum: Di´s28.5.19/9.6.20/26.2.21/8.6.22/6.6.23/25.6.24/4.3.25/1230
+28.1.15/25.1.16/15.8.17/13.3.18/
+info@nervenaerzte-neustadt.de
+19.10.10/14.11.11/16.10.12/3.2.14/14h","excel_nosue_serie_gns_bearbeitet","382","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"424","20857","Dres. med. Böhm","Dres. med.",NULL,"Böhm","Ziegelkampstr.35","31582","Nienburg","DE","05021-9744-20","05021-974416","neuro-zentrum-nienburg@gmx.de",NULL,"Neurologie",NULL,True,"Weitere(r) Name(n): Mitrus
+Roh-Datum: 2.8.16/17.8.17/6.11.18/16.10.19/4.8.20/22.9.21/8.6.22/7.6.23/26.9.24/26.8.25/9h
+neuro-zentrum-nienburg@gmx.de
+Fr.Arica
+BGV2025","excel_nosue_serie_gns_bearbeitet","383","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"425","20546","Dres. med. Dres. Ortmann","Dres. med.","Dres.","Ortmann","Wiesestraße 10","32052","Herford","DE","05221-51090","05221-58880","mail@uro-hf.de","Herr","Urologie",NULL,True,"Weitere(r) Name(n): Orberger
+Kundenquellecode: X
+Roh-Datum: 21.8.BGV20/16.11.21/28.10.22/7.9.23/25.6.24/3.9.25/
+23.10.17/31.10.18/8.10.19/14h
+18.11.14/7.9.15/20.9.16/8h
+25.7.07/18.8.08/1.10.09/28.9.10/8.11.11/18.10.12/29.11.13/
+Fr.Heinowski
+mail@uro-hf.de","excel_nosue_serie_gns_bearbeitet","385","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"426","20513","Dres. med. Weil","Dres. med.",NULL,"Weil","Herforder Str. 3","32257","Bünde","DE","05223-2530","05223/12691","dr.weil@t-online.de",NULL,"Allg.",NULL,True,"Kundenquellecode: X
+Roh-Datum: 20.2.18/30.4.19/20.8.20/16.11.21/28.10.22/12.8.24/28.8.25/11h
+19.11.14/7.9.15/22.9.16/
+Dr.Weil@t-online.de
+8.11.11/18.10.12/26.11.13
+2.12.09/28.9.10
+6.12.06/6.12.07/11.12.08","excel_nosue_serie_gns_bearbeitet","386","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"427","20811","Drs. med. Grothe","Drs. med.",NULL,"Grothe","Lübbecker Str. 167","32584","Löhne","DE","573216263","05732-981528","praxis@urologie-loehne.de ","Herr","Urologie",NULL,True,"Weitere(r) Name(n): Torpai
+Roh-Datum: 29.7.14/20.9.16/29.10.18/21.8.20/28.10.22/4.10.24/28.8.25/
+3xSono,Fr´s14h
+2jährl.
+praxis@urologie-loehne.de","excel_nosue_serie_gns_bearbeitet","387","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"429","20965","Dr.Gensicke Med.Expertencenter",NULL,"Dr.Gensicke","Med.Expertencenter","Bahnhofsallee 1d","37081","Göttingen","DE","0551-82074-0/274","0551-8207412","praxis@drgensicke.de","Herr","Neurologe",NULL,True,"Roh-Datum: 5.10.20/25.11.21/9.6.22/12.6.23/24.6.24/15.4.25/12h
+praxis@drgensicke.de","excel_nosue_serie_gns_bearbeitet","389","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"432","20996","Prüfzentrum Pro Derma",NULL,"Prüfzentrum","Pro Derma","Vollenstr. 8","48249","Dülmen","DE","98044/ 85144","02594/909854",NULL,NULL,"Haut",NULL,True,"Kundenquellecode: X
+Roh-Datum: 19.9.16/24.9.17/6.9.18/21.8.19/17.9.20/13.9.21/9.9.22/4.9.23/28.10.24/23.9.25/
+10.10.11/22.11.12/1.10.13/20.11.14/15.10.15/
+17.9.07/23.10.08/9.11.09/17.9.09
+Fr. Wiesmann","excel_nosue_serie_gns_bearbeitet","395","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"433","20552","Dres. Bockhorst","Dres.",NULL,"Bockhorst","Vollenstr. 8","48249","Dülmen","DE","98044/ 85144","02594/909854",NULL,"Herr","Haut",NULL,True,"Weitere(r) Name(n): Dominicus
+Kundenquellecode: X
+Roh-Datum: 19.9.16/24.9.17/6.9.18/21.8.19/17.9.20/13.9.21/9.9.22/4.9.23/28.10.24/23.9.25/
+10.10.11/22.11.12/1.10.13/20.11.14/15.10.15/
+17.9.07/23.10.08/9.11.09/17.9.10
+Fr. Wiesmann","excel_nosue_serie_gns_bearbeitet","396","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"434","20401","Dres. v.d.Haar","Dres.",NULL,"v.d.Haar","Tiberstraße 7","48249","Dülmen","DE","02594-3070","02594-84484","info@frauenarzt-duelmen.de","Herr",NULL,NULL,True,"Weitere(r) Name(n): Bergner
+Kundenquellecode: X
+Roh-Datum: 25.11.16/21.2.18/26.4.19BGV/29.4.20/15.7.21/9.9.22/6.9.23/20.9.24/23.9.25/12h
+Mi+Fr´s Prumann
+info@frauenarzt-duelmen.de
+10.10.11/22.11.12/1.10.13/16.10.15/55xBGV
+7.11.06/17.9.07/23.10.08/9.10.09/17.9.10","excel_nosue_serie_gns_bearbeitet","397","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"435","20834","Dr. med. Elke Lerch","Dr. med.","Elke","Lerch","Halterner Str. 10","48249","Dülmen","DE","02594-893960","02594/8939626","info@gyn-lerch.de","Frau","Frauenärztin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 12.11.21/9.9.22/4.9.23/28.10.24/26.9.25/
+BGV 2026
+10.8.15/29.9.16/24.9.7/6.9.18/18.10.19/17.9.20/13h
+info@gyn-lerch.de","excel_nosue_serie_gns_bearbeitet","398","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"436","20464","Dres. Möller","Dres.",NULL,"Möller","Gartenstr. 15","49179","Ostercappeln","DE","05473 92110","05473 921121","kinderarzt-ostercappeln@web.de",NULL,"Facharzt für Kinderheilkunde",NULL,True,"Weitere(r) Name(n): Brickenkamp
+Kundenquellecode: X
+Roh-Datum: 19.8.20/17.11.21/13.6.BGV23/12.8.24/20.8.25/9h
+kinderarzt-ostercappeln@web.de
+23.10.17/30.10.18/20.8.19/
+25.7.14/31.8.15/23.9.16/
+19.7.11/10.7.12/4.7.13/
+12.6.07/15.7.08/16.7.09/17.6.10","excel_nosue_serie_gns_bearbeitet","399","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"437","20466","Dr.Boman-Helms",NULL,NULL,"Dr.Boman-Helms","Engelgarten 3","49324","Melle","DE","05422 43553","05422 48070","praxis@neuro-melle.de",NULL,"Fachärztin für Neurologie und Psychiatrie",NULL,True,"Weitere(r) Name(n): Stein
+Kundenquellecode: X
+Roh-Datum: 23.10.17/6.11.18/8.10.19/19.8.20/16.11.21/13.6.23/12.8.24/28.8.25/10h
+praxis@neuro-melle.de
+8.11.11/18.10.12/20.11.14/7.9.15/22.9.16/
+25.7.07/15.7.08/2.12.09/28.9.10/
+Mo+Di+Do´sVomi.","excel_nosue_serie_gns_bearbeitet","400","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"438","20357","Dr. med. Farid Mokhamed","Dr. med.","Farid","Mokhamed","Friedrich-Plate-Str.2","49406","Barnstorf","DE","05442 665","05442 666","mokhamedempathia@googlemail.com","Herr","Facharzt für Allgemeinmedizin",NULL,True,"Kundenquellecode: X
+Roh-Datum: 22.11.21/8.6.23/15.8.24/26.8.25/
+28.11.13/1.9.15/25.11.16/17.8.17/16.8.19/1.10.20/
+30.11.10/13.10.11/17.10.12/
+mokhamedempathia@googlemail.com
+21.11.07/11.12.08/1.12.09","excel_nosue_serie_gns_bearbeitet","401","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"439","20562","Dr. med. Bernd Roshop","Dr. med.","Bernd","Roshop","Lange Str. 10","49406","Barnstorf","DE","05442-991190","05442-991192","praxis.roshop@t-online.de","Herr","Internist",NULL,True,"Kundenquellecode: X
+Roh-Datum: 24.10.22/28.9.23/15.8.24/26.8.25/14h
+26.9.14/1.9.15/20.9.16/17.8.17/31.8.18/15.8.19/20.8.20/12h
+21.11.0717.10.12/28.11.13/
+10.11.08/12.11.09/30.11.10/13.10.11/
+praxis.roshop@t-online.de","excel_nosue_serie_gns_bearbeitet","402","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12
+"440","20440","Dr.Kahrs",NULL,NULL,"Dr.Kahrs","Georgstr. 8","49767","Twist","DE","05936 93500","05936-935011","praxistwist@emslandtel.net",NULL,"Fachärzte für Allgemeinmedizin",NULL,True,"Weitere(r) Name(n): Kuba
+Kundenquellecode: X
+Roh-Datum: 12.9.22/5.9.23/23.9.24/25.9.25/12h
+praxistwist@emslandtel.net
+21.11.14/1.9.15/10.6.16
+23.4.09/19.5.10/19.7.11/23.11.12 /13.9.13
+23.3.07/14.2.08","excel_nosue_serie_gns_bearbeitet","403","2025-11-21 19:37:39.205122+01","2025-11-21 19:37:39.205122+01",12

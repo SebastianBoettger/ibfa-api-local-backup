@@ -1,17 +1,9 @@
-import {
-  IsEmail,
-  IsOptional,
-  IsString,
-  MaxLength,
-  IsInt,
-  Min,
-  IsBoolean,
-} from 'class-validator';
+import { IsEmail, IsOptional, IsString, MaxLength } from 'class-validator';
 
 export class CreateCustomerDto {
   @IsString()
   @MaxLength(255)
-  name: string;
+  name: string;            // Praxisname
 
   @IsOptional()
   @IsEmail()
@@ -19,7 +11,7 @@ export class CreateCustomerDto {
 
   @IsOptional()
   @IsString()
-  street?: string;
+  street?: string;         // Straße + Hausnummer zusammen
 
   @IsOptional()
   @IsString()
@@ -31,16 +23,5 @@ export class CreateCustomerDto {
 
   @IsOptional()
   @IsString()
-  phone?: string;
-
-  // Kd.-Nr
-  @IsOptional()
-  @IsInt()
-  @Min(0)
-  legacyId?: number;
-
-  // Aktiv/Inaktiv
-  @IsOptional()
-  @IsBoolean()
-  isActive?: boolean;
+  phone?: string;          // Festnetz
 }

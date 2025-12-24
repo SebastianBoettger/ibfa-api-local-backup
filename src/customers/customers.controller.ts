@@ -49,14 +49,6 @@ export class CustomersController {
     return this.customersService.update(id, dto);
   }
 
-  @Patch('by-legacy/:legacyId')
-  updateByLegacy(
-    @Param('legacyId') legacyId: string,
-    @Body() dto: UpdateCustomerDto,
-  ) {
-    return this.customersService.updateByLegacyId(Number(legacyId), dto);
-  }
-
   @Delete(':id')
   @Roles(UserRoleInternal.ADMIN)
   @UseGuards(RolesGuard)
