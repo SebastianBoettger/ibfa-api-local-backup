@@ -5,6 +5,7 @@ import {
     IsString,
     MaxLength,
     IsInt,
+    IsObject,
   } from 'class-validator';
   
   export class UpdateCustomerDto {
@@ -40,5 +41,9 @@ import {
     @IsOptional()
     @IsBoolean()
     isActive?: boolean;
+
+    @IsOptional()
+    @IsObject()
+    extra?: Record<string, any>;
   }
   

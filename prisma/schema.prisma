@@ -30,6 +30,7 @@ model Customer {
   devices      Device[]
   documents    Document[]
   invoices     Invoice[]
+  extra        Json?
 }
 
 model CustomerLocation {
@@ -89,6 +90,7 @@ model InternalUser {
   lastLoginAt  DateTime?
   appointments Appointment[]    @relation("AppointmentTechnician")
   deviceTests  DeviceTest[]
+  settings     Json?
 }
 
 model DeviceType {
