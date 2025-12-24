@@ -1,0 +1,336 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Customer {
+  id           String             @id @default(uuid())
+  createdAt    DateTime           @default(now())
+  updatedAt    DateTime           @updatedAt
+  name         String
+  legalName    String?
+  taxNumber    String?
+  notes        String?
+  street       String?
+  zipCode      String?
+  city         String?
+  country      String?            @default("DE")
+  email        String?
+  phone        String?
+  isActive     Boolean            @default(true)
+  legacyId     Int?               @unique
+  appointments Appointment[]
+  contacts     CustomerContact[]
+  locations    CustomerLocation[]
+  portalUsers  CustomerUser[]
+  devices      Device[]
+  documents    Document[]
+  invoices     Invoice[]
+}
+
+model CustomerLocation {
+  id           String        @id @default(uuid())
+  createdAt    DateTime      @default(now())
+  updatedAt    DateTime      @updatedAt
+  customerId   String
+  name         String?
+  street       String
+  zipCode      String
+  city         String
+  country      String?       @default("DE")
+  notes        String?
+  appointments Appointment[]
+  customer     Customer      @relation(fields: [customerId], references: [id])
+  devices      Device[]
+}
+
+model CustomerContact {
+  id         String   @id @default(uuid())
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+  customerId String
+  firstName  String
+  lastName   String
+  email      String?
+  phone      String?
+  mobile     String?
+  role       String?
+  notes      String?
+  customer   Customer @relation(fields: [customerId], references: [id])
+}
+
+model CustomerUser {
+  id           String           @id @default(uuid())
+  createdAt    DateTime         @default(now())
+  updatedAt    DateTime         @updatedAt
+  customerId   String
+  email        String           @unique
+  passwordHash String
+  role         UserRoleCustomer @default(VIEWER)
+  isActive     Boolean          @default(true)
+  lastLoginAt  DateTime?
+  customer     Customer         @relation(fields: [customerId], references: [id])
+}
+
+model InternalUser {
+  id           String           @id @default(uuid())
+  createdAt    DateTime         @default(now())
+  updatedAt    DateTime         @updatedAt
+  email        String           @unique
+  passwordHash String
+  firstName    String
+  lastName     String
+  role         UserRoleInternal @default(PLANNER)
+  isActive     Boolean          @default(true)
+  lastLoginAt  DateTime?
+  appointments Appointment[]    @relation("AppointmentTechnician")
+  deviceTests  DeviceTest[]
+}
+
+model DeviceType {
+  id                    String              @id @default(uuid())
+  createdAt             DateTime            @default(now())
+  updatedAt             DateTime            @updatedAt
+  name                  String
+  code                  String?             @unique
+  description           String?
+  defaultIntervalMonths Int?
+  normReference         String?
+  checklistTemplates    ChecklistTemplate[]
+  devices               Device[]
+}
+
+model Device {
+  id                String              @id @default(uuid())
+  createdAt         DateTime            @default(now())
+  updatedAt         DateTime            @updatedAt
+  customerId        String
+  locationId        String?
+  deviceTypeId      String?
+  inventoryNumber   String?
+  manufacturer      String?
+  model             String?
+  serialNumber      String?
+  yearOfManufacture Int?
+  room              String?
+  notes             String?
+  isActive          Boolean             @default(true)
+  deactivatedAt     DateTime?
+  lastTestDate      DateTime?
+  nextDueDate       DateTime?
+  appointments      AppointmentDevice[]
+  customer          Customer            @relation(fields: [customerId], references: [id])
+  deviceType        DeviceType?         @relation(fields: [deviceTypeId], references: [id])
+  location          CustomerLocation?   @relation(fields: [locationId], references: [id])
+  tests             DeviceTest[]
+}
+
+model ChecklistTemplate {
+  id           String                  @id @default(uuid())
+  createdAt    DateTime                @default(now())
+  updatedAt    DateTime                @updatedAt
+  name         String
+  description  String?
+  deviceTypeId String?
+  authorityRef String?
+  version      String?
+  items        ChecklistItemTemplate[]
+  deviceType   DeviceType?             @relation(fields: [deviceTypeId], references: [id])
+  deviceTests  DeviceTest[]
+}
+
+model ChecklistItemTemplate {
+  id                  String            @id @default(uuid())
+  createdAt           DateTime          @default(now())
+  updatedAt           DateTime          @updatedAt
+  checklistTemplateId String
+  position            Int
+  title               String
+  description         String?
+  required            Boolean           @default(true)
+  checklistTemplate   ChecklistTemplate @relation(fields: [checklistTemplateId], references: [id])
+  testItems           DeviceTestItem[]
+}
+
+model DeviceTest {
+  id                  String             @id @default(uuid())
+  createdAt           DateTime           @default(now())
+  updatedAt           DateTime           @updatedAt
+  deviceId            String
+  checklistTemplateId String?
+  appointmentId       String?
+  technicianId        String?
+  testDate            DateTime
+  overallResult       TestResultStatus
+  remarks             String?
+  appointment         Appointment?       @relation(fields: [appointmentId], references: [id])
+  checklistTemplate   ChecklistTemplate? @relation(fields: [checklistTemplateId], references: [id])
+  device              Device             @relation(fields: [deviceId], references: [id])
+  technician          InternalUser?      @relation(fields: [technicianId], references: [id])
+  items               DeviceTestItem[]
+  documents           Document[]
+}
+
+model DeviceTestItem {
+  id             String                 @id @default(uuid())
+  createdAt      DateTime               @default(now())
+  updatedAt      DateTime               @updatedAt
+  deviceTestId   String
+  templateItemId String?
+  position       Int
+  title          String
+  description    String?
+  result         TestResultStatus
+  measuredValue  String?
+  unit           String?
+  remarks        String?
+  deviceTest     DeviceTest             @relation(fields: [deviceTestId], references: [id])
+  templateItem   ChecklistItemTemplate? @relation(fields: [templateItemId], references: [id])
+}
+
+model Appointment {
+  id           String              @id @default(uuid())
+  createdAt    DateTime            @default(now())
+  updatedAt    DateTime            @updatedAt
+  customerId   String
+  locationId   String?
+  technicianId String?
+  startTime    DateTime
+  endTime      DateTime
+  status       AppointmentStatus   @default(PLANNED)
+  title        String
+  notes        String?
+  customer     Customer            @relation(fields: [customerId], references: [id])
+  location     CustomerLocation?   @relation(fields: [locationId], references: [id])
+  technician   InternalUser?       @relation("AppointmentTechnician", fields: [technicianId], references: [id])
+  devices      AppointmentDevice[]
+  tests        DeviceTest[]
+  documents    Document[]
+}
+
+model AppointmentDevice {
+  id            String      @id @default(uuid())
+  appointmentId String
+  deviceId      String
+  appointment   Appointment @relation(fields: [appointmentId], references: [id])
+  device        Device      @relation(fields: [deviceId], references: [id])
+
+  @@unique([appointmentId, deviceId])
+}
+
+model Invoice {
+  id            String        @id @default(uuid())
+  createdAt     DateTime      @default(now())
+  updatedAt     DateTime      @updatedAt
+  customerId    String
+  invoiceNumber String        @unique
+  invoiceDate   DateTime
+  dueDate       DateTime
+  status        InvoiceStatus @default(DRAFT)
+  totalNet      Decimal       @db.Decimal(12, 2)
+  totalVat      Decimal       @db.Decimal(12, 2)
+  totalGross    Decimal       @db.Decimal(12, 2)
+  currency      String        @default("EUR")
+  notes         String?
+  documents     Document[]
+  customer      Customer      @relation(fields: [customerId], references: [id])
+  items         InvoiceItem[]
+  payments      Payment[]
+}
+
+model InvoiceItem {
+  id           String  @id @default(uuid())
+  invoiceId    String
+  position     Int
+  description  String
+  quantity     Decimal @db.Decimal(12, 3)
+  unit         String?
+  unitPriceNet Decimal @db.Decimal(12, 2)
+  vatRate      Decimal @db.Decimal(4, 3)
+  lineNet      Decimal @db.Decimal(12, 2)
+  lineVat      Decimal @db.Decimal(12, 2)
+  lineGross    Decimal @db.Decimal(12, 2)
+  invoice      Invoice @relation(fields: [invoiceId], references: [id])
+}
+
+model Payment {
+  id          String   @id @default(uuid())
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  invoiceId   String
+  paymentDate DateTime
+  amount      Decimal  @db.Decimal(12, 2)
+  method      String?
+  reference   String?
+  invoice     Invoice  @relation(fields: [invoiceId], references: [id])
+}
+
+model Document {
+  id            String       @id @default(uuid())
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @updatedAt
+  type          DocumentType
+  fileName      String
+  mimeType      String
+  fileSize      Int
+  storagePath   String
+  customerId    String?
+  deviceTestId  String?
+  appointmentId String?
+  invoiceId     String?
+  title         String?
+  description   String?
+  appointment   Appointment? @relation(fields: [appointmentId], references: [id])
+  customer      Customer?    @relation(fields: [customerId], references: [id])
+  deviceTest    DeviceTest?  @relation(fields: [deviceTestId], references: [id])
+  invoice       Invoice?     @relation(fields: [invoiceId], references: [id])
+}
+
+enum UserRoleInternal {
+  ADMIN
+  PLANNER
+  TECHNICIAN
+  ACCOUNTING
+}
+
+enum UserRoleCustomer {
+  OWNER
+  MANAGER
+  VIEWER
+}
+
+enum AppointmentStatus {
+  PLANNED
+  CONFIRMED
+  IN_PROGRESS
+  COMPLETED
+  CANCELLED
+}
+
+enum InvoiceStatus {
+  DRAFT
+  SENT
+  PARTIALLY_PAID
+  PAID
+  OVERDUE
+  CANCELLED
+}
+
+enum DocumentType {
+  INVOICE
+  TEST_PROTOCOL
+  DEVICE_LIST
+  APPOINTMENT_CONFIRMATION
+  RISK_ASSESSMENT
+  OTHER
+}
+
+enum TestResultStatus {
+  PASS
+  FAIL
+  NOT_APPLICABLE
+}
